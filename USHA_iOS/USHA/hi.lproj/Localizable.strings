@@ -1,0 +1,643 @@
+//Login ViewController
+
+"WELCOMETOSAMPARKPROGRAM" = " RETAILER प्रोग्राम में आपका स्वागत है ";
+
+"GET OTP" = "ओटीपी प्राप्त करें";
+
+"REGISTER" = "रजिस्टर";
+"ABOUT SAMPARK" = "RETAILER के बारे में";
+
+//OTP VIEWCONTROLLER
+
+"Submit" = " जमा करें ";
+"RESEND OTP" = " ओटीपी पुन: भेजें";
+"FOR ANY HELP:18002660077" = " किसी भी सहायता के लिए : 18002660077 दबाएँ";
+
+//AccumulationReportDetailController
+
+"Selection Details" = " चयन विवरण";
+
+//homeViewController
+
+
+"TotalBalance" = " टोटल बैलेंस";
+
+"schemebalance" = " स्कीम बैलेंस";
+"GET OTP" = "ओटीपी प्राप्त करें";
+
+"REGISTER" = "रजिस्टर";
+
+//SET PASSWORD VIEWCONTROLLER
+"SAVE PASSWORD" = " पासवर्ड को बचाओ";
+
+"SET PASSWORD" = "पासवर्ड सेव करें";
+"RESET PASSWORD" = "RESET PASSWORD";
+
+
+"PASSWORD POLICY" = " पासवर्ड पालिसी ";
+
+"SHOULD BE 8 - 12 CHARACTERS." = " ८ से १२ अंको का होना चाहिए.";
+
+"ONE NUMERICAL CHARACTER COMPULSORY (0-9)." = " एक संख्यात्मक अक्षर होना जरुरी है  (0-9).";
+
+"ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z)." = " एक वर्णमाला अक्षर होना जरुरी है (A-Z, a-z).";
+
+"PASSWORD EXPIRES IN 90 DAYS." = " पासवर्ड की वैद्यता ९० दिन की है.";
+
+//password ViewController
+
+
+"Forget/reset" = " फॉरगॉट/रीसेट पासवर्ड ";
+
+//select schemeViewController
+"selectSchemes" = " स्कीम चुनें";
+
+"welcome" = " स्वागत हे!";
+
+
+// PerfamanceViewController
+"perfamanceofthemonth" = " महीने का प्रदर्शन";
+
+"SecondarySale" = "माध्यमिक बिक्री";
+"POINTS" = "अंक";
+
+"up to date" = " अभीतक ";
+
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" =
+
+" स्कीम विवरण 16 अगस्त 2018 से उपलब्ध ";
+
+//CalanderViewController
+"Month" = " महीना ";
+
+"Year" = " साल ";
+
+//Balance Details PopUp ViewController
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" =
+" स्कीम विवरण 16 अगस्त 2018 से उपलब्ध ";
+
+"SCHEME" = " स्किम ";
+
+"BALANCE" = " बैलेंस ";
+
+//Not in system PopUp ViewController
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" =
+" स्कीम विवरण 16 अगस्त 2018 से उपलब्ध ";
+
+"SCHEME" = " स्किम ";
+
+"BALANCE" = " बैलेंस ";
+
+//Accumilation ViewController
+"Announcement" = "घोषणा";
+"View More " = " और देखो";
+
+"total_pins_scanned" = "कुल पिन स्कैन किए गए";
+"total_points_earned" = "कुल अंक अर्जित";
+"success_pins" = "सक्सेस पिन्स";
+"consume_pins" = "उपयोग किया गया पिन्स";
+"not_in_system_pins" = "पिन्स जो सिस्टम में नहीं";
+"other_scheme_pins" = "अन्य योजना पिंस";
+"not_permitted_as_distribution_pins" = "पिन्स जो वितरण के रूप में अनुमति नहीं है";
+"expired_pins" = "समय सीमा समाप्त पिंस";
+
+
+//Survey ViewController
+"PENDING" = " पेंडिंग ";
+"COMPLETED" = "पूरा कर लिया है";
+
+//GET QUESTIONS VIEWCONTROLLER
+
+"LATER" = "बाद में";
+
+//OTP POPUP VIEWCONTROLLER
+"Verify" = " वेरीफाई ";
+
+"Enter otp we have sent otp to your phone number" =
+" ओटीपी दर्ज करें हमने आपके फोन नंबर पर ओटीपी भेजा है ";
+
+"Verify OTP" = " जमा करें ";
+
+//ACCUMILATION VIEWCONTROLLER
+
+"Known" = " जानने वाला ";
+
+"Unknown" = " अनजान";
+
+"NO. OF PINS SCANNED" = " स्कैन की गयी पिन की संख्या ";
+
+"OR" = " और ";
+
+"SCAN" = " स्कैन पिन्स";
+
+"Pins" = " पिन्स ";
+
+"Action" = " कार्य ";
+
+// Accumulation Summary Controller
+"ACCUMULATION SUMMARY" = " अक्युमलेशन समरी ";
+
+"Accumulation Date:" = " अक्युमलेशन दिनांक :";
+
+"TRANSACTION ID:" = " ट्रांसएक्शन आईडी:";
+
+"continue" = "जारी रहना";
+"sendsms" = "संदेश भेजो";
+"Note:pinStatus" = "नोट: - पिन वाइज विवरण प्राप्त करने के लिए सटीक स्थिति पर क्लिक करें";
+
+//AccumulationSummaryDetailViewController
+"ACCUMULATION SUMMARY" = " अक्युमलेशन समरी ";
+
+"Accumulation Date :" = " अक्युमलेशन दिनांक:";
+
+"TRANSACTION ID:" = " ट्रांसएक्शन आईडी:";
+
+"ViewSummery" = "सारांश देखें";
+
+
+//Gallery ViewController
+"GALLERY" = " गैलरी ";
+
+"PRODUCT VIDEOS" = " प्रोडक्ट वीडियोस ";
+
+//BankDetailViewController
+
+"BANK NAME" = " बैंक नाम";
+
+"ACCOUNT NO" = " अकाउंट नंबर";
+
+"STATUS" = " स्टेटस";
+
+"IFSC CODE" = "IFSC CODE";
+
+"CHEQUE " = " चेक";
+
+"BANK DETAILS" = " बैंक विवरण";
+
+"ADD NEW BANK DETAILS" = " नए बैंक खाते का विवरण करे";
+
+//AddBankAccountViewController
+"Add New Bank Details" = " नए बैंक खाते का विवरण करे ";
+
+"ENTER 10-25 DIGIT BANK ACCOUNT NO." = " १० से २५ अंको का बैंक अकाउंट नंबर दर्ज करे.";
+
+"ENTER IFSC CODE SHOULD BE 11 CHARACTERS" = " IFSC कोड ११ अंको का होना चाहिए ";
+
+"BANK NAME" = " बैंक नाम ";
+
+"BANK ADDRESS" = " बैंक पता";
+"NAME AS PER BANK ACCOUNT" = "नाम के अनुसार बैंक खाता";
+
+"Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted" = " सुचना: अपलोड दस्तावेज़ अधिकतम साइज 3 एमबी से अधिक नहीं होना चाहिए। केवल (jpg, tif, png, gif) स्वीकार किए जाते हैं ";
+
+"BANK CHEQUE" = " बैंक चेक";
+
+"UPLOAD" = " अपलोड ";
+
+" SUBMIT NEW BANK DETAILS " = " नया खता सबमिट करें ";
+
+"CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME" =
+
+" व्यवसाय के नाम पर चेक होना चाहिए यदि व्यवसाय का प्रकार कंपनी है/भागीदारी वरना मालिक के नाम में होना चाहिए ";
+
+//TransactionHistoryViewController
+
+"TRANSACTION HISTORY" = " लेनदेन का इतिहास";
+
+"SELECT SCHEME" = " स्कीम चुनें ";
+
+" START DATE" = " शुरवात दिनांक";
+
+" END DATE" = " समाप्त दिनांक";
+
+"SELECT START DATE" = " शुरवात दिनांक चुने ";
+
+"SELECT END DATE" = " समाप्त दिनांक चुने ";
+
+"VIEW" = " देखे";
+
+"NOTE" = " ध्यान दे";
+
+"1. YOU CAN SELECT UPTO 31 DAYS HISTORY" =
+"1. आप 6 महीने के इतिहास का चयन कर सकते हैं ";
+
+"2. ACC:- POINTS ACCUMULATED" = "2. ACC:- पॉइंट्स अक्सुमुलेटेड ";
+
+"3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES" = "3. RED:- अलग मोड के द्वारा रिडीम किये अंक ";
+
+"4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "4.योजना विवरण 16 अगस्त 2018 से उपलब्ध";
+
+//TransactionHistoryListViewController
+
+"TOTAL ACCUMULATION" = " टोटल अक्सुमुलेशन ";
+
+"TOTAL REDEMPTION" = " टोटल रिडेम्पशन ";
+
+"DATE" = " दिनांक ";
+
+"SCHEME" = " योजना ";
+
+"PRODUCT" = " प्रोडक्ट ";
+
+"POINTS" = " पॉइंट्स ";
+
+//NotificationViewController
+
+"NOTIFICATIONS" = " सूचनाएं ";
+
+"* All Notifications will expire in 30 days" = "* सभी सूचनाएं 30 दिनों में समाप्त हो जाएंगी ";
+
+//NotificationDetailViewController
+
+"NOTIFICATIONS" = " सूचनाएं ";
+
+"* All Notifications will expire in 30 days" = "* सभी सूचनाएं 30 दिनों में समाप्त हो जाएंगी ";
+
+"VIEW MORE" = " अधिक विवरण देखें  ";
+
+//SchemeResultViewController
+
+"SSB SCHEME RESULT" = " स्कीम रिजल्ट ";
+
+"DOWNLOAD SCHEME BROCHURE" = " डाउनलोड स्कीम विवरणिका ";
+
+"OK" = " ओके ";
+
+//OrderViewController
+
+"BY DIVISION/MG" = " प्रभाग द्वारा / ऍम जी ";
+
+"BY MATERIAL CODE" = " मटेरिअल कोड द्वारा ";
+
+"PRODUCT NOT FOUND" = " प्रोडक्ट नहीं मिला ";
+
+"NEXT" = " अगला ";
+
+//OrderDetailViewController
+
+"Please select the follwing option for order processing" = "कृपया ऑर्डर प्रोसेसिंग के लिए निम्नलिखितविकल्प चुनें";
+
+"SELECT OPTION" = " विकल्प चुनें ";
+
+"DEALER CODE / NAME" = " डीलर कोड / नाम ";
+
+"DEALER MOBILE" = " डीलर मोबाइल";
+
+"EXPECTED DELIVERY DATE" = " अपेक्षित वितरण की तारीख ";
+
+"REMARK" = " टिप्पणी ";
+"NOPARTNERAVAILABLE" =  "NO PARTNER AVAILABLE";
+
+
+
+//UserProfileViewController
+
+"EDIT" = " संपादित करें ";
+
+"Profile Under Edit" = "प्रोफ़ाइल के तहत संपादित करें/48 घंटे के लिए पुनर्सक्रियन का अनुरोध,";
+
+"FIRM TYPE" = " कंपनी प्रकार ";
+
+"FIRM NAME" = " कंपनी नाम ";
+
+"OWNER NAME" = " मालिक नाम ";
+
+"MOBILE NO" = " मोबाइल नंबर ";
+
+"RETAILER ID" = " RETAILER आईडी ";
+
+"ADDRESS 1" = " पता १ ";
+
+"ADDRESS 2" = " पता 2";
+
+"ADDRESS 3" = " पता 3";
+
+"STATE" = " राज्य";
+
+"DISTRICT" = " जिला ";
+
+"CITY" = " शहर ";
+
+"AREA" = " एरिया ";
+
+"PINCODE" = " पिनकोड ";
+
+"BRANCH NAME" = " शाखा नाम ";
+
+"EMAIL" = " ईमेल ";
+
+"AADHAR NO" = "आधार नंबर ";
+
+"PAN NO" = " पैन नंबर ";
+
+"GST TYPE" = " जीएसटी प्रकार ";
+
+"GST NO" = " जीएसटी नंबर ";
+
+"USER STATUS" = " उपयोगकर्ता की स्थिति ";
+
+"USER SUB TYPE" = " उपयोगकर्ता प्रकार ";
+
+"CURRENT STATUS" = " वर्तमान स्थिति ";
+
+"LAST ACTION DATE" = " अंतिम कार्रवाई तिथि ";
+
+"REG DATE" = " रजिस्ट्रेशन दिनांक ";
+
+"OWNER IMAGE" = " ओनर इमेज ";
+
+"AADHAR IMAGE" = " आधार इमेज ";
+
+"PAN IMAGE" = " पैन इमेज ";
+
+"GST IMAGE" = " जीएसटी इमेज ";
+
+"SHOP IMAGE" = " शॉप इमेज ";
+
+"OTHER IMAGE" = " अन्य इमेज ";
+
+
+//LeftMenu
+
+"dashboard_menu" = " डैशबोर्ड ";
+
+"profile_menu" = " उपयोगकर्ता प्रोफ़ाइल ";
+
+"accumulation_menu" = " अक्सुमुलेशन ";
+
+"redemption_menu" = " अक्सुमुलेशन ";
+
+"bank_details_menu" = " बैंक विवरण ";
+
+"transaction_history_menu" = " लेनदेन का इतिहास ";
+
+"RETAILER_profolio" = "RETAILER PROFOLIO";
+
+"price_list_menu" = " कॅटलॉग ";
+
+"select_scheme_menu" = " स्किम चुने ";
+
+"aboutLoyalty" = "ABOUT LOYALTY";
+"contactUs" = "ENQUIRY";
+
+"sampark_web_menu" = " RETAILER वेब ";
+
+"share_app_menu" = " शेयर ऐप ";
+
+"sbt_scheme_result_menu" = " स्किम रिजल्ट ";
+
+"notification_menu" = " अधिसूचना";
+
+"survey_menu" = " सर्वेक्षण ";
+
+"change_language_menu" = " भाषा बदलो ";
+
+"logout_menu" = " लॉगआउट ";
+
+"posm_serviceRequest" = "पीओएसएम् सेवा अनुरोध";
+
+"serviceRequest" = "सर्विस निवेदन";
+
+"kings_club" = " किंग्स क्लब योजना ";
+
+"product_reg" = " प्रोडक्ट पंजीकरण";
+
+"place_order" = "ORDER BOOKING";
+
+"scheme_intimation" = " स्कीम एकीकरण ";
+
+"dms_billing" = " डीएमएस बिलिंग";
+
+"gallery" = " गेलरी";
+
+
+
+//LanguageChangeVC
+
+"WELCOME" = " स्वागत हे";
+
+"Select_Language" = " भाषा चुनिए ";
+
+//REDEMPTIONViewController
+
+"VOUCHER" = " वाउचर";
+
+"TOP-UOP" = " टॉपउप";
+
+"BANK_TRANSFER" = " बैंक ट्रांसफर";
+
+"VIEW_CART" = " कार्ट देखे ";
+
+"REDDEM" = " रीड़ीम ";
+
+//DMS BILLING
+
+"DIS_CODE" = " डीआईएस कोड";
+
+"DIVISION_NAME" = " प्रभाग का नाम";
+
+"INVOICE_DATE" = " चालान की तारीख ";
+
+"QUANTITY" = " मात्रा ";
+
+"GROSS_AMT" = " सकल राशि ";
+
+"INVOICE_STATUS" = " चालान स्थिति";
+
+"DMS_SALE_DETAILS" = " डीएमएस चालान की तारीख ";
+
+"SELECT_DATE" = " दिनांक चुने ";
+
+"START_DATE" = " आरंभ तिथि ";
+
+"END_DATE" = " अंतिम तिथि ";
+
+
+// SERVICE REQUEST
+
+"SERVICE_REQUEST" = " सेवा अनुरोध";
+
+"SERVICE_STATUS" = "सेवा स्थिति";
+
+// POSM SERVICE REQUEST
+
+"POSM_SERVICE_REQUEST" = "POSM सेवा अनुरोध";
+
+"POSM_SERVICE_STATUS" = "POSM  स्थिति अनुरोध";
+
+//messagesAndError
+
+"userNotFound" = "उपयोगकर्ता मौजूद नहीं कृपया शाखा में संपर्क कीजिये";
+"notRetailer" = "आप पंजीकृत दुकानदार नहीं है कृपया ब्रांच में संपर्क करें!";
+"notElectrician" = "मोबाइल क्रमांक बिजली मिस्त्री के रूप में पंजीकृत नहीं है!";
+"alreadyDeler" = "आप पहले से पंजीकृत डीलर हैं!";
+"alreadyElectrician" = "आप एक इलेक्ट्रीशियन के रूप में पहले से ही पंजीकृत हैं!";
+"enterMobileNumber" = "मोबाइल नंबर दर्ज करें!";
+"enterValidMobileNumber" = "वैध मोबाइल नंबर दर्ज करें!";
+"enterOtp" = "कृप्या ओटीपी दर्ज करें!";
+"enterValidOtp" = "कृप्या सही ओटीपी दर्ज कीजिये!";
+"noInternetConnection_OTP" = "निःशुल्क ओटीपी के लिए आवश्यक इंटरनेट कनेक्टिविटी की जरूरत है!";
+"noInternetConnection_SUBMITOTP" = "ओटीपी दर्ज करने के लिए इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+"noInternetConnection_ABOUT" = "संपर्क की अधिक जानकारी देखने के लिए इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+"enterPassword" = "कृप्या पासवर्ड दर्ज करें!";
+"enterValidPassword" = "कृपया बताए गए नीति के अनुसार पासवर्ड निर्धारित करें!";
+"confirmPassword" = "पासवर्ड मैच नहीं कर रहा है";
+"noInternetConnection_SETPASSWORD" = "पासवर्ड सेव करने के लिए इंटरनेट कनेक्टिविटी की आवश्यकता है";
+"noInternetConnection_RESETPASSWORD" = "पासवर्ड को बदलने के लिए इंटरनेट कनेक्टिविटी की आवश्यकता है";
+"alreadyRetailer" = "आप रिटेलर के रूप में पहले से पंजीकृत हैं!";
+"selectScheme" = "कृप्या योजना का चयन करें!";
+"loginFailed" = "लॉगिन विफल!";
+"dataNotFound" = "डेटा उपलब्ध नहीं है!";
+"somethingWentWrong" = "कुछ गलत हो गया!";
+"credentailStatusNotFound" = "ऐपक्रेडेंशियल सेवा की स्थिति नहीं मिली, एग्री लीटर आज़माएं!";
+"sessionExpired" = "सत्र समाप्त हो गया है, कृपया कोशिश करें!";
+"uididNotMatchPassword" = "आपका मोबाइल नंबर पहले से ही दूसरे उपकरण पर पंजीकृत है और यदि आप इस डिवाइस पर मोबाइल नंबर पंजीकृत करना चाहते है तो एप्लीकेशन को अनइंस्टाल करके दोबारा इनस्टॉल कीजियेगा";
+"uididNotMatch" = "आप इस डिवाइस पर इस गतिविधि को पूरा करने के लिए अधिकृत नहीं हैं क्योंकि आपका पंजीकरण नंबर पहले से ही दूसरे डिवाइस में उपलब्ध है!";
+
+"noAlreadyOnAnotherDevice" = "आपके मोबाइल नंबर को अन्य डिवाइस पर पंजीकृत किया गया है. अगर मोबाइल फोन नंबर हासिल करना चाहते हैं इस डिवाइस पर क्लिक करें हाँ क्लिक करें. जब आप पूर्वनिर्धारित डिवाइस पर किसी भी गतिविधि को पूरा करने के लिए अधिकृत नहीं हैं!";
+
+"userNotVerified" = "आपका प्रोफ़ाइल बहुत अधिक नहीं है. कृपया अपने शाखा से संपर्क करें या अपनी पसंद को पूरा करने के लिए लोगों को बिक्री करें या अन्य जानकारी कॉल के लिए 18002660077!";
+
+"serviceUnavailable" = "सेवा अनुपलब्ध है!";
+
+    
+"userNotActive" = "आपका मौजूदा खाता स्थिति निष्क्रिय है। कृपया शाखा में संपर्क करें!";
+
+    
+"noInternetConnection" = "कोई इंटरनेट कनेक्शन नहीं! कृपया इंटरनेट और कोशिश करने के लिए संपर्क करें!";
+
+"pointRedeem" = "कृप्या रिडीम करने के लिए संख्या दर्ज करें!";
+"lessbalance" = "दर्ज राशि स्कीम बैलेंस से कम होनी चाहिए!";
+"amountbetween" = "१०.०० से १०,०००.०० के बीच राशि दर्ज करें!";
+    
+"savePendingTransaction" = "आपका पिंस ऑफलाइन मौजूद है सिंक करने के लिए इंटरनेट कनेक्शन की आवश्यकता है!";
+"noBankAccount" = "बैंक खाता नहीं है! कृपया बैंक खाता जोड़ें!";
+"noApprovedBankAccount" = "कोई स्वीकृत बैंक खाता नहीं! कृपया ब्रंच से संपर्क करें!";
+    
+"noInternetConnection_REDEMPTION" = "रिडेम्पशन करने के लिए निरंतर इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+    
+"noInternetConnection_ACCUMULATION" = "संचय करने के लिए निरंतर इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+"noInternetConnection_DASHBOARD" = "डैशबोर्ड देखने के लिए इंटरनेट कनेक्टिविटी आवश्यक है!";
+"noInternetConnection_BANKDETAILS" = "बैंक डिटेल्स देखने या ऐड करने के लिए इंटरनेट कनेक्शन की आवश्यकता है!";
+"noInternetConnection_TRANSACTIONHISTORY" = "ट्रांसक्शन हिस्ट्री देखने के लिए इंटरनेट कनेक्शन की आवश्यकता है!";
+"noInternetConnection_PRICELIST" = "मूल्य सूची चेक करने के लिए इंटरनेट कनेक्शन की आवश्यकता है!";
+"noInternetConnection_ViewNotInSystem" = "NEED INTERNET CONNECTIVITY TO VIEW PINWISE SUMMARY!";
+"noInternetConnection_ABOUTLOYALTY" = "NEED INTERNET CONNECTIVITY TO VIEW ABOUT LOYALTY!";
+"noInternetConnection_SyncNotification" = "SYNC अधिसूचना के लिए आवश्यक इंटरनेट कनेक्टिविटी!";
+    
+"noInternetConnection_SAMPARKWEB" = "RETAILER वेबसाइट पर जाने के लिए इंटरनेट कनेक्शन की आवश्यकता है!";
+"noInternetConnection_SCEHEMERESULT" = "स्कीम परिणाम देखने के लिए इंटरनेट कनेक्शन की आवश्यकता है!";
+    
+"noInternetConnection_SCEHEMERESULT_DOWNLOAD" = "NEED INTERNET CONNECTIVITY TO योजना विवरण डाउनलोड करें!";
+    
+"noInternetConnection_PROFILE" = "प्रोफाइल चेक करने के लिए इंटरनेट कनेक्टिविटी की आवश्यक्ता है!";
+"noInternetConnection_SERVICEREQUEST" = "NEED INTERNET CONNECTIVITY TO VIEW/RAISE CUSTOMER SERVICE!";
+"noInternetConnection_REFRESHBALANCE" = "बैलेंस को पुनर्भरण के लिए आवश्यक इंटरनेट कनेक्टिविटी!";
+"noInternetConnection_SUAREY" = "NEED INTERNET CONNECTIVITY TO PERFORM THE SURVEY!";
+"noInternetConnection_ORDER" = "NEED INTERNET CONNECTIVITY TO PLACE ORDER!";
+"noInternetConnection_GALLERY" = "NEED INTERNET CONNECTIVITY TO VIEW GALLERY!";
+"noInternetConnection_CHANGELANGUAGE" = "NEED INTERNET CONNECTIVITY TO PERFORME THE CHANGELANGUAGE!";
+"noInternetConnection_DMSBILLING" = "NEED INTERNET CONNECTIVITY TO PERFORME THE DMSBILLING!";
+"noInternetConnection_PROFOLIO" = "NEED INTERNET CONNECTIVITY TO VIEW RETAILER PROFOLIO!";
+    
+"noDataAvailable" = "डेटा उपलब्ध नहीं!";
+"bankAccountEmpty" = "बैंक खाता संख्या खाली नहीं होनी चाहिए!";
+"bankAccountNo10_25" = "१० से २५ अंकों के बैंक खाता नंबर जोड़े।";
+"ifscEmpty" = "बैंक आई.एफ.एस.सी कोड खाली नहीं होना चाहिए!";
+"invalidIFSC" = "Iअमान्य आई.एफ.एस.सी प्रारूप!";
+"ifsc11Digit" = "बैंक आई.एफ.एस.सी कोड ११ अंकों का होना चाहिए!";
+"bankNameEmpty" = "बैंक का नाम खाली नहीं होना चाहिए!";
+"bankAddressEmpty" = "बैंक का पता खाली नहीं होना चाहिए!";
+"accountHolderNameEmpty" = "खाता धारक का नाम खाली नहीं होना चाहिए!";
+"resetPassword" = "YOUR PASSWORD IS NOT RESET FROM LAST 90 DAYS. YOU HAVE NEED TO RESET PASSWORD TO ACCESS THE RETAILER PROGRM!";
+"pendingPinToAccumulate" = "YOU HAVE PINS TO ACCUMULATE ONLINE YET! KINDLY SYNC DATA ONLINE!";
+"server_is_Busy" = "SERVER IS BUSY! PLEASE TRY LATER!";
+"notConnectedInternet" = "NEED INTERNET CONNECTIVITY TO SEND THE OTP";
+    
+"selectStartDate" = "SELECT START DATE!";
+"selectEndDate" = "SELECT END DATE!";
+"selectChequesImage" = "कृपया ब्राउज़ करें ब्लैंक चेक चित्र!";
+"imageSize" = "सुचना:अधिकतम अपलोड दस्तावेज़ का आकार 3 एमबी से अधिक नहीं होना चाहिए। केवल छवि प्रारूप (jpg, tif, png, gif) स्वीकार किए जाते हैं!";
+"imageUploaded" = "IMAGE UPLOADED SUSSESSFULLY!";
+"enterCorrectPassword" = "कृपया सही पासवर्ड दर्ज करें!";
+"chqName" = "व्यवसाय के नाम पर चेक होना चाहिए यदि व्यवसाय का प्रकार कंपनी है/भागीदारी वरना मालिक के नाम में होना चाहिए!";
+"pendingPinsToAccumulate" = "आपका कुछ पिंस अक्कयुमुलेट हुआ नहीं है उसे जोड़ने के लिए सबमिट बटन पर क्लिक कीजिये!";
+"enterElectricalMobileNo" = "इलेक्ट्रीशियन मोबाइल नं दर्ज करें!";
+"enterValidElectricalMobileNo" = "कृपया मान्य इलेक्ट्रीशियन मोबाइल नंबर दर्ज करें!";
+"enterPin" = "कृपया पिन दर्ज करें!";
+"sendSMS" = "ACCUMULATION SUMMARY SMS HAS BEEN SENT TO YOUR MOBILE NO. SAVE/SHARE THE ACCUMULATION SUMMARY FOR YOUR RECORDS IF NEEDED. ONCE EXIT FROM SCREEN TRANSACTION DETAILS CAN NOT BE VIEWED!";// BACK!"
+"noHistory" = "चयनित दिनांक मैं कोई ट्रांसक्शन मौजूद नहीं है!";
+"switchScheme" = "क्या आप वास्तव में अन्य स्कीम का चयन करना चाहते हैं!";
+
+    //    "DO YOU REALLY WANT TO SWITCH SCHEME!"
+"doYouWantExit" = "क्या आप वास्तव में वापस जाना चाहते हैं?";
+"doYouWantLogout" = "क्या आप वास्तव में वापस जाना चाहते हैं?"; // LOGOUT!"
+"appUpdate" = "समपर्क का नया वर्शन उपलब्ध है कृपया उसे अपडेट कीजिये!";
+"notificationNoAttachment" = "कोई अटैचमेंट्स नहीं मिला है";
+"schemeResultDataNotFound" = "कोई डेटा उपलब्ध नहीं है!!";
+"pendingsurvey" = "आप सर्वेक्षण को भेज रहे हैं,क्या आप भरना चाहते हैं?";
+
+    
+    //order
+"addProduct" = "कोई उत्पाद मिला नहीं! कृपया प्राप्त करने के लिए उत्पाद जोड़ें";
+"valueNotFound" = "वैल्य नहीं मिला!";
+"productNotFound" = "कोई उत्पाद मिला नहीं";
+"selectDealer" = "कृपया डीलर का चयन करें *!";
+"enterDealerName" = "कृपया डीलर कोड / डीलर का नाम";
+"enterDealerMobile" = "कृपया डीलर मोबाइल नंबर दर्ज करें";
+"dealerNotFound" = "डीलर नहीं है,कृपया किसी अन्य का चयन करें!";
+"enterRemark" = "टिप्पणी";
+"enterDate" = "PLEASE ENTER DATE";
+"productListErrorMsg" = "IF YOU HAVE ITEMS IN ORDER CART, THEN CART WILL BE EMPTY!";
+"productListPreviousPage" = "DO YOU WANT TO GO TO PREVIOUS PAGE!";
+"doyouwanttodelete" = "DO YOU REALLY WANT TO REMOVE THIS ITEM FROM CART!";
+
+    //Regitration
+"selectFirmType" = "दुकान के प्रकार का चयन करें *";
+"enterFirmName" = "पहला नाम दर्ज करें!";
+"enterOwnerName" = "मालिक का नाम दर्ज करें!";
+"enterAddress" = "पता लिखिए!";
+"selectSate" = "राज्य चुनें!";
+"selectDistrict" = "जिले का चयन करें!";
+"selectCity" = "शहर चुनें!";
+"selectArea" = "क्षेत्र का चयन करें!";
+"enterPinCode" = "पिन कोड दर्ज करें!";
+"validPinCode" = "मान्य पिन कोड दर्ज करें!";
+"selectBranchName" = "कृपया ब्रांच नाम का चयन करें!";
+"selectBranch" = "कृपया ब्रांच नाम का चयन करें!";
+"enterEmail" = "ईमेल आईडी दर्ज करें!";
+"enterValidEmail" = "मान्य ईमेल आईडी दर्ज करें!";
+"enterRetailerSapCode" = "कृपया रिटेलर SAP CODE को दर्ज करें!";
+"enterAadharNo" = "आधार नंबर दर्ज करें!";
+"validAadherNo" = "मान्य आधार नंबर दर्ज करें!";
+"enterPanNo" = "पैन नंबर डालें!";
+"validPanNO" = "मान्य पैन नंबर डालें!";
+"selectGstType" = "कृपया Gst प्रकार का चयन करें!";
+"enterGstNO" = "जीएसटी संख्या दर्ज करें!";
+"enterValidGstNO" = "मान्य जीएसटी नंबर दर्ज करें!";
+"selectParentChildStaus" = "PLEASE SELECT PARENT CHILD STAUS";
+"enterParentMobileNo" = "PLEASE ENTER PARENT MOBILE NUMBER!";
+"selectOwnerImage" = "मालिक की तस्वीर  फोटो का चयन करें!";
+"selectAadherImage" = "आधार की तस्वीर  फोटो का चयन करें!";
+"selectPanImage" = "पैन की तस्वीर  फोटो का चयन करें!";
+"selectGstIamge" = "जीएसटी की तस्वीर  फोटो का चयन करें!";
+"selectShopImage" = "दुकान की तस्वीर  फोटो का चयन करें!";
+"selectOtherImage" = "अन्य तस्वीर  फोटो का चयन करें!";
+    
+"noInternetConnection_REDEEMVOUCHER" = " वाउचर रिडेम्पशन करने के लिए निरंतर इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+"noInternetConnection_MOBILETOPUP" = "मोबाइल टॉपअप करने के लिए निरंतर इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+"noInternetConnection_BANKTRANSFER" = "बैंक ट्रांसफर करने के लिए निरंतर इंटरनेट कनेक्टिविटी की आवश्यकता है!";
+"selectOpretor" = "कृपया चयनकर्ता चुनें!";
+"rechargeAmountBetween" = "कुल मिलाकर १.०० से १०००० तक!";
+"voucherAdded" = "वाउचर को कार्ट में सीधे तौर पर जोड़ा गया!";
+"voucherAddedFailed" = "वाउचर को कार्ट में जोड़ा गया!";
+"voucherDelete" = "क्या आप वास्तव में कार्ट से वाउचर प्राप्त करना चाहते हैं!";
+"TOTAL AMOUNT SHOULD BE LESS THAN BALANCE" = "कुल AMOUNT कम राशि शेष राशि होनी चाहिए";
+"TOTAL AMOUNT BETWEEN 10.00 TO 1000.00!" = "कुल AMOUNT बीटा 10.00 से 1000.00 तक!";
+
+//alert
+"OK" = "ठीक";
+"NO" = "नहीं";
+"YES" = "हाँ";
+"CANCEL" = "रद्द करना";
+

@@ -1,0 +1,1175 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "01a-eZ-vyQ"; */
+"01a-eZ-vyQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "09d-2D-4zp"; */
+"09d-2D-4zp.text" = "Date";
+
+/* Class = "UILabel"; text = "4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS"; ObjectID = "0OG-bV-YX7"; */
+"0OG-bV-YX7.text" = "4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "0OT-Wx-9lO"; */
+"0OT-Wx-9lO.text" = "180 2660 077";
+
+/* Class = "UITextField"; placeholder = "SELECT DIVISION"; ObjectID = "0Od-ou-yQH"; */
+"0Od-ou-yQH.placeholder" = "SELECT DIVISION";
+
+/* Class = "UITextField"; placeholder = "ADDRESS*"; ObjectID = "0Oo-9E-qdi"; */
+"0Oo-9E-qdi.placeholder" = "ADDRESS";
+
+/* Class = "UILabel"; text = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS "; ObjectID = "0Tu-Sc-daT"; */
+"0Tu-Sc-daT.text" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS ";
+
+/* Class = "UITextField"; placeholder = "WEB*"; ObjectID = "0cE-wg-NCp"; */
+"0cE-wg-NCp.placeholder" = "WEB*";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "0pV-yL-yps"; */
+"0pV-yL-yps.text" = "Month";
+
+/* Class = "UILabel"; text = "Account No"; ObjectID = "0qN-g6-rfo"; */
+"0qN-g6-rfo.text" = "IFSC CODE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Cm-tV-1s8"; */
+"1Cm-tV-1s8.text" = "Label";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "1GV-yQ-yOB"; */
+"1GV-yQ-yOB.text" = "OR";
+
+/* Class = "UILabel"; text = "SELECT SCHEME"; ObjectID = "1Jj-Zl-qQC"; */
+"1Jj-Zl-qQC.text" = "SELECT SCHEME";
+
+/* Class = "UILabel"; text = "CreatedBy"; ObjectID = "20t-QC-CpK"; */
+"20t-QC-CpK.text" = "CreatedBy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "26h-T7-rcK"; */
+"26h-T7-rcK.text" = "Label";
+
+/* Class = "UILabel"; text = "VOUCHERS"; ObjectID = "2E5-dW-ecl"; */
+"2E5-dW-ecl.text" = "VOUCHERS";
+
+/* Class = "UITextField"; placeholder = "SELECT OPTION"; ObjectID = "2SW-Kw-snB"; */
+"2SW-Kw-snB.placeholder" = "SELECT PARTNER";
+
+/* Class = "UILabel"; text = "APP VERSION : "; ObjectID = "2Z0-YM-20W"; */
+"2Z0-YM-20W.text" = "APP VERSION : ";
+
+/* Class = "UILabel"; text = "1)"; ObjectID = "2bI-Yf-CnN"; */
+"2bI-Yf-CnN.text" = "1)";
+
+/* Class = "UILabel"; text = "SCHEME"; ObjectID = "2eC-c3-UDK"; */
+"2eC-c3-UDK.text" = "SCHEME";
+
+/* Class = "UILabel"; text = "SAMPARK"; ObjectID = "2hI-9x-0q8"; */
+"2hI-9x-0q8.text" = "RETAILER";
+
+/* Class = "UILabel"; text = "TOTAL BALANCE"; ObjectID = "37B-wN-wtd"; */
+"37B-wN-wtd.text" = "TOTAL BAL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Sq-SS-Ksd"; */
+"3Sq-SS-Ksd.text" = "Label";
+
+/* Class = "UILabel"; text = "PASSWORD EXPIRES IN 90 DAYS."; ObjectID = "3Wi-6S-43l"; */
+"3Wi-6S-43l.text" = "PASSWORD EXPIRES IN 90 DAYS.";
+
+/* Class = "UITextField"; placeholder = "ENTER 12 DIGIT NUMERIC PIN "; ObjectID = "3bR-Hg-wHX"; */
+"3bR-Hg-wHX.placeholder" = "ENTER 10 DIGIT NUMERIC PIN ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "3cA-M2-i4I"; */
+"3cA-M2-i4I.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "LATER"; ObjectID = "40L-5C-bwO"; */
+"40L-5C-bwO.normalTitle" = "LATER";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "4rd-ud-9GU"; */
+"4rd-ud-9GU.text" = "0.00";
+
+/* Class = "UILabel"; text = "Profile Verified:"; ObjectID = "5Ke-Jy-phl"; */
+"5Ke-Jy-phl.text" = "Profile Verified:";
+
+/* Class = "UILabel"; text = "Accumulation Date :"; ObjectID = "5L0-Mx-exn"; */
+"5L0-Mx-exn.text" = "Accumulation Date :";
+
+/* Class = "UILabel"; text = "c"; ObjectID = "5Tf-gq-GU6"; */
+"5Tf-gq-GU6.text" = "c";
+
+/* Class = "UILabel"; text = "3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES"; ObjectID = "5bX-dx-9zB"; */
+"5bX-dx-9zB.text" = "3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES";
+
+/* Class = "UILabel"; text = "FullName"; ObjectID = "645-Lu-A1F"; */
+"645-Lu-A1F.text" = "FullName";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6LX-iy-loG"; */
+"6LX-iy-loG.text" = "Label";
+
+/* Class = "UILabel"; text = "FOR ANY HELP"; ObjectID = "6R8-RR-AiQ"; */
+"6R8-RR-AiQ.text" = "FOR ANY HELP";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "6aB-Tf-n7Y"; */
+"6aB-Tf-n7Y.text" = "About Us";
+
+/* Class = "UILabel"; text = "up to date"; ObjectID = "6es-8z-fSp"; */
+"6es-8z-fSp.text" = "up to date";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6j8-1x-ARk"; */
+"6j8-1x-ARk.text" = "Title";
+
+/* Class = "UILabel"; text = "FIRM TYPE"; ObjectID = "6jg-mX-wAu"; */
+"6jg-mX-wAu.text" = "FIRM TYPE";
+
+/* Class = "UILabel"; text = "ADDRESS 2"; ObjectID = "6k0-M7-kXR"; */
+"6k0-M7-kXR.text" = "ADDRESS 2";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "6lh-VT-gcy"; */
+"6lh-VT-gcy.text" = "0.00";
+
+/* Class = "UILabel"; text = "ONE NUMERICAL CHARACTER COMPULSORY (0-9)."; ObjectID = "6rF-Ks-hrv"; */
+"6rF-Ks-hrv.text" = "ONE NUMERICAL CHARACTER COMPULSORY (0-9).";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "728-D7-4wh"; */
+"728-D7-4wh.normalTitle" = "CANCEL";
+
+/* Class = "UITextField"; placeholder = "ENTER POINTS TO BE REDEEM"; ObjectID = "7A7-2b-tUR"; */
+"7A7-2b-tUR.placeholder" = "ENTER POINTS TO BE REDEEM";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "7LL-bV-yKy"; */
+"7LL-bV-yKy.text" = "Code";
+
+/* Class = "UILabel"; text = "GST IMAGE"; ObjectID = "7OR-BF-g3A"; */
+"7OR-BF-g3A.text" = "GST IMAGE";
+
+/* Class = "UILabel"; text = "Enter otp we have sent otp to your phone number"; ObjectID = "7V4-SR-AZQ"; */
+"7V4-SR-AZQ.text" = "Enter otp we have sent otp to your phone number";
+
+/* Class = "UILabel"; text = " "; ObjectID = "7VQ-ZB-Seu"; */
+"7VQ-ZB-Seu.text" = " ";
+
+/* Class = "UILabel"; text = "Enter your Mobile No. to login or Simply Register"; ObjectID = "7Xo-j5-GYn"; */
+"7Xo-j5-GYn.text" = "Enter your Mobile No. to login or Simply Register";
+
+/* Class = "UILabel"; text = "DIVISION NAME"; ObjectID = "812-FX-7o8"; */
+"812-FX-7o8.text" = "DIVISION NAME";
+
+/* Class = "UITextField"; placeholder = "WEB*"; ObjectID = "8fh-ij-G9x"; */
+"8fh-ij-G9x.placeholder" = "WEB*";
+
+/* Class = "UILabel"; text = "ACCUMULATION SUMMARY"; ObjectID = "8gW-2z-eHS"; */
+"8gW-2z-eHS.text" = "ACCUMULATION SUMMARY";
+
+/* Class = "UIButton"; normalTitle = "हिंदी"; ObjectID = "8kF-iP-yRu"; */
+"8kF-iP-yRu.normalTitle" = "हिंदी";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "8mP-MA-mfS"; */
+"8mP-MA-mfS.text" = "Month";
+
+/* Class = "UILabel"; text = "CURRENT STATUS"; ObjectID = "90e-oM-uMl"; */
+"90e-oM-uMl.text" = "CURRENT STATUS";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "95P-jR-JxG"; */
+"95P-jR-JxG.text" = "Messages";
+
+/* Class = "UILabel"; text = "Net Eligible Points Under SSB Scheme After Redemption"; ObjectID = "97N-UM-8m7"; */
+"97N-UM-8m7.text" = "Net Eligible Points Under SSB Scheme After Redemption";
+
+/* Class = "UISegmentedControl"; 9CZ-0x-arc.segmentTitles[0] = "GALLERY"; ObjectID = "9CZ-0x-arc"; */
+"9CZ-0x-arc.segmentTitles[0]" = "GALLERY";
+
+/* Class = "UISegmentedControl"; 9CZ-0x-arc.segmentTitles[1] = "PRODUCT VIDEOS"; ObjectID = "9CZ-0x-arc"; */
+"9CZ-0x-arc.segmentTitles[1]" = "PRODUCT VIDEOS";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "9Dh-fM-Fha"; */
+"9Dh-fM-Fha.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "ABOUT SAMPARK PROGRAM"; ObjectID = "9Ni-xr-5Sw"; */
+"9Ni-xr-5Sw.text" = "ABOUT RETAILER PROGRAM";
+
+/* Class = "UILabel"; text = "SCHEME BALANCE"; ObjectID = "A2z-SK-JZc"; */
+"A2z-SK-JZc.text" = "SCHEME BAL";
+
+/* Class = "UILabel"; text = "SELECT DATE"; ObjectID = "AHB-Vm-KtT"; */
+"AHB-Vm-KtT.text" = "SELECT DATE";
+
+/* Class = "UILabel"; text = "SHOULD BE 8 - 12 CHARACTERS."; ObjectID = "AKD-4x-0b9"; */
+"AKD-4x-0b9.text" = "SHOULD BE 8 - 12 CHARACTERS.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "APf-Sl-qT2"; */
+"APf-Sl-qT2.text" = "Label";
+
+/* Class = "UILabel"; text = "STATE"; ObjectID = "Ama-8P-klz"; */
+"Ama-8P-klz.text" = "STATE";
+
+/* Class = "UILabel"; text = "Secondary Sale"; ObjectID = "BJI-D2-TYd"; */
+"BJI-D2-TYd.text" = "Secondary Sale";
+
+/* Class = "UILabel"; text = "GROSS AMT"; ObjectID = "BKd-B7-pMq"; */
+"BKd-B7-pMq.text" = "GROSS AMT";
+
+/* Class = "UILabel"; text = "LAST ACTION DATE"; ObjectID = "BZ5-Cg-3QJ"; */
+"BZ5-Cg-3QJ.text" = "LAST ACTION DATE";
+
+/* Class = "UILabel"; text = "DISTRICT"; ObjectID = "BdO-Ed-Z5r"; */
+"BdO-Ed-Z5r.text" = "DISTRICT";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "Bkx-as-CHB"; */
+"Bkx-as-CHB.text" = "0.00";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "BsC-wE-8ha"; */
+"BsC-wE-8ha.text" = "•";
+
+/* Class = "UILabel"; text = "Pins"; ObjectID = "BxA-0L-O3f"; */
+"BxA-0L-O3f.text" = "Pins";
+
+/* Class = "UILabel"; text = "BALANCE"; ObjectID = "C2B-gp-iIf"; */
+"C2B-gp-iIf.text" = "BAL";
+
+/* Class = "UILabel"; text = "PASSWORD POLICY"; ObjectID = "C3n-bo-xKH"; */
+"C3n-bo-xKH.text" = "PASSWORD POLICY";
+
+/* Class = "UILabel"; text = "MobileNo"; ObjectID = "CJf-X1-D00"; */
+"CJf-X1-D00.text" = "MobileNo";
+
+/* Class = "UILabel"; text = "APP VERSION : "; ObjectID = "CNR-Ga-1Cc"; */
+"CNR-Ga-1Cc.text" = "APP VERSION : ";
+
+/* Class = "UIButton"; normalTitle = "SCAN PINS"; ObjectID = "CNr-pQ-9yc"; */
+"CNr-pQ-9yc.normalTitle" = "SCAN PINS";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "CPY-7y-QJg"; */
+"CPY-7y-QJg.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = " "; ObjectID = "CSC-h3-5PK"; */
+"CSC-h3-5PK.text" = " ";
+
+/* Class = "UITextField"; placeholder = "USER STATUS*"; ObjectID = "CTl-pF-UjI"; */
+"CTl-pF-UjI.placeholder" = "USER STATUS*";
+
+/* Class = "UILabel"; text = "00000000000"; ObjectID = "Ch7-nf-4Fi"; */
+"Ch7-nf-4Fi.text" = "00000000000";
+
+/* Class = "UILabel"; text = "Profile Verified:"; ObjectID = "D1u-jI-UOg"; */
+"D1u-jI-UOg.text" = "PROFILE VERIFIED:";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "DTh-bL-MNn"; */
+"DTh-bL-MNn.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "OWNER NAME"; ObjectID = "DeE-Ww-18p"; */
+"DeE-Ww-18p.text" = "OWNER NAME";
+
+/* Class = "UILabel"; text = "BRANCH NAME"; ObjectID = "DrW-yE-nuF"; */
+"DrW-yE-nuF.text" = "BRANCH NAME";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "E0c-be-NRA"; */
+"E0c-be-NRA.text" = "Mobile";
+
+/* Class = "UILabel"; text = "NO. OF PINS SCANNED"; ObjectID = "ELf-1y-ufs"; */
+"ELf-1y-ufs.text" = "NO. OF PINS SCANNED";
+
+/* Class = "UILabel"; text = "WELCOME TO SAMPARK PROGRAM"; ObjectID = "ER9-zz-S2o"; */
+"ER9-zz-S2o.text" = "WELCOME TO RETAILER PROGRAM";
+
+/* Class = "UITextField"; placeholder = "ENTER PASSWORD"; ObjectID = "Edr-jp-VsS"; */
+"Edr-jp-VsS.placeholder" = "ENTER PASSWORD";
+
+/* Class = "UILabel"; text = "Current_Balance: 360.20"; ObjectID = "EjD-QO-7Rd"; */
+"EjD-QO-7Rd.text" = "Current_Balance: 360.20";
+
+/* Class = "UILabel"; text = "QUANTITY"; ObjectID = "EqZ-b2-O8Y"; */
+"EqZ-b2-O8Y.text" = "QUANTITY";
+
+/* Class = "UILabel"; text = "SET PASSWORD"; ObjectID = "FMV-r2-UIX"; */
+"FMV-r2-UIX.text" = "SAVE PASSWORD";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "FSQ-xg-xSO"; */
+"FSQ-xg-xSO.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "FuE-8b-4Xf"; */
+"FuE-8b-4Xf.text" = "Product";
+
+/* Class = "UILabel"; text = "CurrentStatus"; ObjectID = "FxZ-Fh-hxI"; */
+"FxZ-Fh-hxI.text" = "CurrentStatus";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "FzC-2R-RC3"; */
+"FzC-2R-RC3.title" = "Dashboard";
+
+/* Class = "UITextField"; placeholder = "BANK NAME"; ObjectID = "G0o-Kp-qhY"; */
+"G0o-Kp-qhY.placeholder" = "BANK NAME";
+
+/* Class = "UIButton"; normalTitle = "GET OTP"; ObjectID = "GZu-FL-JQQ"; */
+"GZu-FL-JQQ.normalTitle" = "Send OTP";
+
+/* Class = "UILabel"; text = "SCHEME"; ObjectID = "GlW-il-ZEo"; */
+"GlW-il-ZEo.text" = "SCHEME";
+
+/* Class = "UIButton"; normalTitle = "  RESEND OTP"; ObjectID = "Gs5-KS-6r0"; */
+"Gs5-KS-6r0.normalTitle" = "  RESEND OTP";
+
+/* Class = "UITextField"; placeholder = "STATE*"; ObjectID = "GsZ-wn-8r6"; */
+"GsZ-wn-8r6.placeholder" = "STATE*";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "HHU-eL-pBc"; */
+"HHU-eL-pBc.normalTitle" = "HOME";
+
+/* Class = "UILabel"; text = "PINCODE"; ObjectID = "HV5-hN-FU5"; */
+"HV5-hN-FU5.text" = "PINCODE";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Hjd-Kc-q71"; */
+"Hjd-Kc-q71.text" = ":";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Ht6-hR-UNV"; */
+"Ht6-hR-UNV.text" = " ";
+
+/* Class = "UILabel"; text = "FOR ANY HELP"; ObjectID = "Hwt-my-4bb"; */
+"Hwt-my-4bb.text" = "FOR ANY HELP";
+
+/* Class = "UILabel"; text = "FullName"; ObjectID = "IMi-Zz-tn5"; */
+"IMi-Zz-tn5.text" = "FullName";
+
+/* Class = "UILabel"; text = "DIVISION NAME"; ObjectID = "IbU-dI-6jr"; */
+"IbU-dI-6jr.text" = "DIVISION NAME";
+
+/* Class = "UIButton"; normalTitle = "REDEEM"; ObjectID = "IdX-eP-B8B"; */
+"IdX-eP-B8B.normalTitle" = "REDEEM";
+
+/* Class = "UILabel"; text = "WELCOME TO SAMPARK PROGRAM"; ObjectID = "Imb-Dy-qB0"; */
+"Imb-Dy-qB0.text" = "WELCOME TO RETAILER PROGRAM";
+
+/* Class = "UILabel"; text = "PRICE :"; ObjectID = "In5-rz-6D0"; */
+"In5-rz-6D0.text" = "PRICE :";
+
+/* Class = "UILabel"; text = "GST NO"; ObjectID = "Iop-wh-k21"; */
+"Iop-wh-k21.text" = "GST NO";
+
+/* Class = "UILabel"; text = "WELCOME!"; ObjectID = "J09-lx-OSm"; */
+"J09-lx-OSm.text" = "WELCOME!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JPG-mo-bXR"; */
+"JPG-mo-bXR.text" = "Label";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "JZZ-vd-tFU"; */
+"JZZ-vd-tFU.text" = "SELECT LANGUAGE";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Jbt-wG-RdJ"; */
+"Jbt-wG-RdJ.text" = ":";
+
+/* Class = "UIButton"; normalTitle = " Verify OTP"; ObjectID = "JcF-5t-ze2"; */
+"JcF-5t-ze2.normalTitle" = " VERIFY OTP";
+
+/* Class = "UITextField"; placeholder = "PARENT CHILD STATUS"; ObjectID = "JfQ-X0-Mm4"; */
+"JfQ-X0-Mm4.placeholder" = "PARENT CHILD STATUS";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "Jj3-zJ-3DL"; */
+"Jj3-zJ-3DL.text" = "About Us";
+
+/* Class = "UILabel"; text = "BusinessName"; ObjectID = "KFM-kn-Wzi"; */
+"KFM-kn-Wzi.text" = "BusinessName";
+
+/* Class = "UITextField"; placeholder = "BANK CHEQUE"; ObjectID = "KN5-A0-BId"; */
+"KN5-A0-BId.placeholder" = "BANK CHEQUE";
+
+/* Class = "UILabel"; text = " "; ObjectID = "KWg-Oo-3TW"; */
+"KWg-Oo-3TW.text" = " ";
+
+/* Class = "UILabel"; text = "Hello Parag"; ObjectID = "Kb1-SN-BCt"; */
+"Kb1-SN-BCt.text" = "Hello Parag";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "Kn1-1A-xj7"; */
+"Kn1-1A-xj7.text" = "180 2660 077";
+
+/* Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "LJB-sx-Px7"; */
+"LJB-sx-Px7.normalTitle" = "SAVE PASSWORD";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "LYS-mW-F2i"; */
+"LYS-mW-F2i.text" = "0.0";
+
+/* Class = "UILabel"; text = "OWNER IMAGE"; ObjectID = "MWf-nT-ctV"; */
+"MWf-nT-ctV.text" = "OWNER IMAGE";
+
+/* Class = "UILabel"; text = "LastActivationDate"; ObjectID = "Md0-ZK-YXA"; */
+"Md0-ZK-YXA.text" = "LastActivationDate";
+
+/* Class = "UITextField"; placeholder = "REMARK"; ObjectID = "MfT-vY-SrP"; */
+"MfT-vY-SrP.placeholder" = "REMARK";
+
+/* Class = "UILabel"; text = "RECHARGE"; ObjectID = "Nnd-Ee-H1S"; */
+"Nnd-Ee-H1S.text" = "RECHARGE";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "O1v-ZE-h4c"; */
+"O1v-ZE-h4c.title" = "Dashboard";
+
+/* Class = "UIButton"; normalTitle = " SUBMIT NEW BANK DETAILS "; ObjectID = "OFQ-Fh-Ozz"; */
+"OFQ-Fh-Ozz.normalTitle" = " SUBMIT NEW BANK DETAILS ";
+
+/* Class = "UILabel"; text = "DATE"; ObjectID = "OOR-k0-QUW"; */
+"OOR-k0-QUW.text" = "DATE";
+
+/* Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "OU5-BO-JGk"; */
+"OU5-BO-JGk.normalTitle" = "EDIT";
+
+/* Class = "UITextField"; placeholder = "Qty 1"; ObjectID = "OX8-yZ-u7U"; */
+"OX8-yZ-u7U.placeholder" = "Qty 1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PBe-NH-Z6r"; */
+"PBe-NH-Z6r.text" = "Label";
+
+/* Class = "UILabel"; text = "Bank Name:"; ObjectID = "PIg-KS-3Qg"; */
+"PIg-KS-3Qg.text" = "Bank Name:";
+
+/* Class = "UILabel"; text = "SCHEME BALANCE"; ObjectID = "PQ0-RI-pZy"; */
+"PQ0-RI-pZy.text" = "SCHEME BAL";
+
+/* Class = "UILabel"; text = "POINTS"; ObjectID = "PQM-qp-Gg5"; */
+"PQM-qp-Gg5.text" = "POINTS";
+
+/* Class = "UIButton"; normalTitle = "MONTH"; ObjectID = "PWB-Za-4cS"; */
+"PWB-Za-4cS.normalTitle" = "BY MONTH";
+
+/* Class = "UILabel"; text = "FIRM NAME"; ObjectID = "PWb-Vi-n8o"; */
+"PWb-Vi-n8o.text" = "FIRM NAME";
+
+/* Class = "UILabel"; text = "Cheque "; ObjectID = "PaM-1f-RLC"; */
+"PaM-1f-RLC.text" = "CHEQUE ";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "PlJ-zA-HbH"; */
+"PlJ-zA-HbH.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "Pqh-gc-KQ7"; */
+"Pqh-gc-KQ7.text" = "180 2660 077";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Q7G-3L-fCt"; */
+"Q7G-3L-fCt.text" = ":";
+
+/* Class = "UITextField"; placeholder = "RETAILER ID*"; ObjectID = "QWT-HS-GlU"; */
+"QWT-HS-GlU.placeholder" = "RETAILER ID*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qu2-c2-xnK"; */
+"Qu2-c2-xnK.text" = "Label";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "R4L-wC-Ku0"; */
+"R4L-wC-Ku0.text" = "Date";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "R4W-2u-Z7x"; */
+"R4W-2u-Z7x.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "PAN IMAGE"; ObjectID = "R4f-IH-x17"; */
+"R4f-IH-x17.text" = "PAN IMAGE";
+
+/* Class = "UILabel"; text = "APP VERSION :"; ObjectID = "R4t-Uc-X53"; */
+"R4t-Uc-X53.text" = "APP VERSION :";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Rf4-Xy-s1r"; */
+"Rf4-Xy-s1r.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "2. ACC:- POINTS ACCUMULATED"; ObjectID = "Rjm-FZ-2Zl"; */
+"Rjm-FZ-2Zl.text" = "2. ACC:- POINTS ACCUMULATED";
+
+/* Class = "UILabel"; text = "Mobile No:"; ObjectID = "S97-2c-dG2"; */
+"S97-2c-dG2.text" = "Mobile No:";
+
+/* Class = "UILabel"; text = "INVOICE STATUS"; ObjectID = "SN6-ML-ygg"; */
+"SN6-ML-ygg.text" = "INVOICE STATUS";
+
+/* Class = "UITextField"; placeholder = "OWNER NAME*"; ObjectID = "SkA-X6-MIH"; */
+"SkA-X6-MIH.placeholder" = "OWNER NAME*";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "Swa-GG-wOb"; */
+"Swa-GG-wOb.text" = "CITY";
+
+/* Class = "UILabel"; text = "NOTE:-CLICK ACCUMULATION STATUS TO GET PIN WISE DETAILS"; ObjectID = "T0o-EO-lJ3"; */
+"T0o-EO-lJ3.text" = "NOTE:-CLICK ACCUMULATION STATUS TO GET PIN WISE DETAILS";
+
+/* Class = "UITextField"; placeholder = "EXPECTED DELIVERY DATE"; ObjectID = "T2R-Hl-awz"; */
+"T2R-Hl-awz.placeholder" = "EXPECTED DELIVERY DATE";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "TOe-OA-3BF"; */
+"TOe-OA-3BF.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "USER STATUS"; ObjectID = "TWN-lU-SWE"; */
+"TWN-lU-SWE.text" = "USER STATUS";
+
+/* Class = "UISegmentedControl"; Tal-06-eJ6.segmentTitles[0] = "SERVICE REQUEST"; ObjectID = "Tal-06-eJ6"; */
+"Tal-06-eJ6.segmentTitles[0]" = "SERVICE REQUEST";
+
+/* Class = "UISegmentedControl"; Tal-06-eJ6.segmentTitles[1] = "SERVICE STATUS"; ObjectID = "Tal-06-eJ6"; */
+"Tal-06-eJ6.segmentTitles[1]" = "SERVICE STATUS";
+
+/* Class = "UILabel"; text = "Total Price :"; ObjectID = "Tlq-BE-eNA"; */
+"Tlq-BE-eNA.text" = "TOTAL AMT";
+
+/* Class = "UILabel"; text = "APP VERSION : "; ObjectID = "ToY-MK-H1g"; */
+"ToY-MK-H1g.text" = "APP VERSION : ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Tp8-5C-Fuf"; */
+"Tp8-5C-Fuf.text" = " ";
+
+/* Class = "UILabel"; text = "TRANSACTION ID:"; ObjectID = "Ts9-lw-Oco"; */
+"Ts9-lw-Oco.text" = "TRANSACTION ID:";
+
+/* Class = "UILabel"; text = "WELCOME!"; ObjectID = "U4X-c4-yzp"; */
+"U4X-c4-yzp.text" = "WELCOME!";
+
+/* Class = "UITextField"; placeholder = "ENTER OTP"; ObjectID = "U8p-iw-2xX"; */
+"U8p-iw-2xX.placeholder" = "ENTER OTP";
+
+/* Class = "UITextField"; placeholder = "AADHAR NO"; ObjectID = "UJi-8K-6vM"; */
+"UJi-8K-6vM.placeholder" = "AADHAR NO";
+
+/* Class = "UIButton"; normalTitle = " END DATE"; ObjectID = "USu-Lu-dcP"; */
+"USu-Lu-dcP.normalTitle" = " END DATE";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "VIb-Fx-HOW"; */
+"VIb-Fx-HOW.normalTitle" = "ADD ITEM";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "VMF-lR-U8f"; */
+"VMF-lR-U8f.normalTitle" = "SUBMIT";
+
+/* Class = "UITextField"; placeholder = "MOBILE NUMBER"; ObjectID = "VSK-bM-dKg"; */
+"VSK-bM-dKg.placeholder" = "MOBILE NUMBER";
+
+/* Class = "UILabel"; text = "Verify"; ObjectID = "VVv-79-h2f"; */
+"VVv-79-h2f.text" = "Verify";
+
+/* Class = "UILabel"; text = "Profile Verified:"; ObjectID = "VXr-vt-hkh"; */
+"VXr-vt-hkh.text" = "PROFILE VERIFIED:";
+
+/* Class = "UITextField"; placeholder = "ENTER OTP"; ObjectID = "VfU-AD-jqj"; */
+"VfU-AD-jqj.placeholder" = "ENTER OTP";
+
+/* Class = "UITextField"; placeholder = "SELECT SCHEME"; ObjectID = "VjI-Pg-LLd"; */
+"VjI-Pg-LLd.placeholder" = "SELECT SCHEME";
+
+/* Class = "UILabel"; text = "xxx"; ObjectID = "VpZ-Ac-ddh"; */
+"VpZ-Ac-ddh.text" = "xxx";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VzW-wn-ZkB"; */
+"VzW-wn-ZkB.text" = "Label";
+
+/* Class = "UILabel"; text = "ACCUMULATION SUMMARY"; ObjectID = "WCe-aN-25s"; */
+"WCe-aN-25s.text" = "ACCUMULATION SUMMARY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WHI-JO-wBC"; */
+"WHI-JO-wBC.text" = "Label";
+
+/* Class = "UILabel"; text = "REG DATE"; ObjectID = "Wl9-dD-h3c"; */
+"Wl9-dD-h3c.text" = "REG DATE";
+
+/* Class = "UITextField"; placeholder = "SELECT ACCOUNT"; ObjectID = "Wro-mu-4TK"; */
+"Wro-mu-4TK.placeholder" = "SELECT ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = " Unknown"; ObjectID = "X54-Ct-JIA"; */
+"X54-Ct-JIA.normalTitle" = " Unknown";
+
+/* Class = "UIButton"; normalTitle = "ADD"; ObjectID = "XGJ-C9-bCi"; */
+"XGJ-C9-bCi.normalTitle" = "ADD";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "XaL-0q-p6a"; */
+"XaL-0q-p6a.normalTitle" = "VIEW";
+
+/* Class = "UILabel"; text = "Profile Under Edit/Reactivation request for 48 hours,"; ObjectID = "XaU-uP-gtk"; */
+"XaU-uP-gtk.text" = "Profile Under Edit/Reactivation request for 48 hours,";
+
+/* Class = "UILabel"; text = "Net Eligible Points Under STB Scheme After Redemption"; ObjectID = "XcV-Td-b8m"; */
+"XcV-Td-b8m.text" = "Net Eligible Points Under STB Scheme After Redemption";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "XnC-2n-uRi"; */
+"XnC-2n-uRi.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "Total Balance"; ObjectID = "XwY-aO-6CX"; */
+"XwY-aO-6CX.text" = "TOTA BAL";
+
+/* Class = "UILabel"; text = "ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z)."; ObjectID = "YI6-EP-f4i"; */
+"YI6-EP-f4i.text" = "ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z).";
+
+/* Class = "UILabel"; text = "AADHAR IMAGE"; ObjectID = "Yct-cw-rt4"; */
+"Yct-cw-rt4.text" = "AADHAR IMAGE";
+
+/* Class = "UILabel"; text = "OTHER IMAGE"; ObjectID = "Z5w-gV-j4T"; */
+"Z5w-gV-j4T.text" = "OTHER IMAGE";
+
+/* Class = "UILabel"; text = "PRICE :"; ObjectID = "Z8u-X1-y0D"; */
+"Z8u-X1-y0D.text" = "PRICE :";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "ZHV-s6-JZw"; */
+"ZHV-s6-JZw.text" = "Mobile";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "ZQ8-fv-MjG"; */
+"ZQ8-fv-MjG.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "* All Notifications will expire in 30 days"; ObjectID = "ZWb-fF-OtE"; */
+"ZWb-fF-OtE.text" = "* All Notifications will expire in 30 days";
+
+/* Class = "UILabel"; text = "INVOICE DATE"; ObjectID = "Zeq-fF-EpL"; */
+"Zeq-fF-EpL.text" = "INVOICE DATE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZvJ-uW-dUZ"; */
+"ZvJ-uW-dUZ.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "a5l-Yt-zN9"; */
+"a5l-Yt-zN9.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "aA9-70-cOb"; */
+"aA9-70-cOb.text" = "0.00";
+
+/* Class = "UILabel"; text = "Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted"; ObjectID = "aIO-Lx-mOS"; */
+"aIO-Lx-mOS.text" = "Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted";
+
+/* Class = "UILabel"; text = "CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME"; ObjectID = "aSw-ot-SXu"; */
+"aSw-ot-SXu.text" = "CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME";
+
+/* Class = "UITextField"; placeholder = "DEALER MOBILE"; ObjectID = "aVL-Y9-Aff"; */
+"aVL-Y9-Aff.placeholder" = "DEALER MOBILE";
+
+/* Class = "UILabel"; text = "TRANSACTION HISTORY"; ObjectID = "aYH-Ws-PAo"; */
+"aYH-Ws-PAo.text" = "TRANSACTION HISTORY";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW BANK DETAILS"; ObjectID = "acL-hQ-iS3"; */
+"acL-hQ-iS3.normalTitle" = "ADD NEW BANK DETAILS";
+
+/* Class = "UIButton"; normalTitle = " Refresh"; ObjectID = "axj-g3-ayM"; */
+"axj-g3-ayM.normalTitle" = " Refresh";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bQ9-jY-PV7"; */
+"bQ9-jY-PV7.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "GST NO"; ObjectID = "bRS-H0-VAs"; */
+"bRS-H0-VAs.placeholder" = "GST NO";
+
+/* Class = "UIButton"; normalTitle = "YEAR"; ObjectID = "bTe-5j-Fr4"; */
+"bTe-5j-Fr4.normalTitle" = "BY YEAR";
+
+/* Class = "UILabel"; text = "TRANSACTION ID:"; ObjectID = "bdU-Yl-UZw"; */
+"bdU-Yl-UZw.text" = "TRANSACTION ID:";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "bns-l9-XWW"; */
+"bns-l9-XWW.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "Current_Balance: 360.20"; ObjectID = "bry-M6-w43"; */
+"bry-M6-w43.text" = "Current_Balance: 360.20";
+
+/* Class = "UITextField"; placeholder = "SELECT OPERATOR"; ObjectID = "bsF-bE-QG3"; */
+"bsF-bE-QG3.placeholder" = "SELECT OPERATOR";
+
+/* Class = "UILabel"; text = "PRODUCT NOT FOUND"; ObjectID = "c5b-JY-gdC"; */
+"c5b-JY-gdC.text" = "PRODUCT NOT FOUND";
+
+/* Class = "UILabel"; text = "LastActionDate:"; ObjectID = "cCB-WX-Cg3"; */
+"cCB-WX-Cg3.text" = "LastActionDate:";
+
+/* Class = "UILabel"; text = "Rs."; ObjectID = "cKY-TQ-JpN"; */
+"cKY-TQ-JpN.text" = "Rs.";
+
+/* Class = "UILabel"; text = "WELCOME TO SAMPARK PROGRAM"; ObjectID = "cQ2-i4-uMn"; */
+"cQ2-i4-uMn.text" = "WELCOME TO RETAILER PROGRAM";
+
+/* Class = "UIButton"; normalTitle = "VIEW SUMMARY"; ObjectID = "cX2-7O-eJR"; */
+"cX2-7O-eJR.normalTitle" = "VIEW SUMMARY";
+
+/* Class = "UILabel"; text = "INVOICE STATUS"; ObjectID = "cck-X8-Rmt"; */
+"cck-X8-Rmt.text" = "INVOICE STATUS";
+
+/* Class = "UIButton"; normalTitle = "Get OTP"; ObjectID = "ceE-cl-jx7"; */
+"ceE-cl-jx7.normalTitle" = "Send OTP";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "ceh-ie-QTV"; */
+"ceh-ie-QTV.text" = "00";
+
+/* Class = "UILabel"; text = "MY OPTIONS"; ObjectID = "cfE-Bv-QQh"; */
+"cfE-Bv-QQh.text" = "More";
+
+/* Class = "UILabel"; text = "PRICE :"; ObjectID = "clo-SR-CLV"; */
+"clo-SR-CLV.text" = "PRICE :";
+
+/* Class = "UILabel"; text = "INVOICE DATE"; ObjectID = "cv9-uq-bC5"; */
+"cv9-uq-bC5.text" = "INVOICE DATE";
+
+/* Class = "UITextField"; placeholder = "MOBILE NO."; ObjectID = "dNy-T4-P1u"; */
+"dNy-T4-P1u.placeholder" = "MOBILE NO.";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "dSj-sN-kfQ"; */
+"dSj-sN-kfQ.normalTitle" = "English";
+
+/* Class = "UITextField"; placeholder = "ENTER MOBILE NUMBER."; ObjectID = "de6-XE-rL1"; */
+"de6-XE-rL1.placeholder" = "ENTER MOBILE NUMBER.";
+
+/* Class = "UILabel"; text = "DIS CODE"; ObjectID = "dfE-4q-QH4"; */
+"dfE-4q-QH4.text" = "DIS CODE";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "dlk-Vr-HM1"; */
+"dlk-Vr-HM1.normalTitle" = "VIEW CART";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dz5-Za-PF8"; */
+"dz5-Za-PF8.text" = "Label";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "e1Y-HF-Yir"; */
+"e1Y-HF-Yir.text" = "00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e3E-9l-rPN"; */
+"e3E-9l-rPN.text" = "Label";
+
+/* Class = "UILabel"; text = "111122"; ObjectID = "e9Y-qd-MC1"; */
+"e9Y-qd-MC1.text" = "111122";
+
+/* Class = "UILabel"; text = "BALANCE"; ObjectID = "eGK-MC-XVX"; */
+"eGK-MC-XVX.text" = "BAL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eQI-Fq-msl"; */
+"eQI-Fq-msl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = " START DATE"; ObjectID = "ebv-w4-pCu"; */
+"ebv-w4-pCu.normalTitle" = " START DATE";
+
+/* Class = "UILabel"; text = "Add New Bank Details"; ObjectID = "ed7-Sw-CoH"; */
+"ed7-Sw-CoH.text" = "Add New Bank Details";
+
+/* Class = "UIButton"; normalTitle = "SEND SMS"; ObjectID = "edj-mH-BRr"; */
+"edj-mH-BRr.normalTitle" = "SEND SMS";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "eeZ-JG-b3y"; */
+"eeZ-JG-b3y.text" = ":";
+
+/* Class = "UILabel"; text = "POINTS"; ObjectID = "ehb-qD-z7y"; */
+"ehb-qD-z7y.text" = "POINTS";
+
+/* Class = "UILabel"; text = "Current_Balance: 360.20"; ObjectID = "elm-Gb-B9n"; */
+"elm-Gb-B9n.text" = "Current_Balance: 360.20";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "eoz-D8-hbW"; */
+"eoz-D8-hbW.text" = "00";
+
+/* Class = "UILabel"; text = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS"; ObjectID = "eqn-R7-Hdo"; */
+"eqn-R7-Hdo.text" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+/* Class = "UIButton"; normalTitle = "BY DIVISION"; ObjectID = "ev1-7x-8kL"; */
+"ev1-7x-8kL.normalTitle" = "By Division / MG";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "f5D-R4-Ckn"; */
+"f5D-R4-Ckn.text" = "•";
+
+/* Class = "UILabel"; text = "RETAILER ID"; ObjectID = "f9t-gY-QM3"; */
+"f9t-gY-QM3.text" = "RETAILER ID";
+
+/* Class = "UITextField"; placeholder = "SELECT FIRM TYPE*"; ObjectID = "fD9-v7-RAG"; */
+"fD9-v7-RAG.placeholder" = "SELECT FIRM TYPE*";
+
+/* Class = "UILabel"; text = "Selection Details"; ObjectID = "fMc-mF-ptp"; */
+"fMc-mF-ptp.text" = "Selection Details";
+
+/* Class = "UITextField"; placeholder = "SELECT GST TYPE"; ObjectID = "fN2-Ht-w9W"; */
+"fN2-Ht-w9W.placeholder" = "SELECT GST TYPE";
+
+/* Class = "UIButton"; normalTitle = "View More "; ObjectID = "fX9-DY-tCq"; */
+"fX9-DY-tCq.normalTitle" = " DETAILS ";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "ffh-Xa-7CQ"; */
+"ffh-Xa-7CQ.text" = "•";
+
+/* Class = "UIButton"; normalTitle = " Known"; ObjectID = "fno-ZE-kuo"; */
+"fno-ZE-kuo.normalTitle" = " Known";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "fvA-rt-Xau"; */
+"fvA-rt-Xau.text" = "0.00";
+
+/* Class = "UILabel"; text = "VerifiedBy"; ObjectID = "fx2-0v-zlc"; */
+"fx2-0v-zlc.text" = "VerifiedBy";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "fzm-8e-fw2"; */
+"fzm-8e-fw2.normalTitle" = "Not Registered? Register here..";
+
+/* Class = "UILabel"; text = "BranchName"; ObjectID = "g3R-VM-emS"; */
+"g3R-VM-emS.text" = "BranchName";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gMq-Mn-SVE"; */
+"gMq-Mn-SVE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "gTb-IM-Lk7"; */
+"gTb-IM-Lk7.normalTitle" = "SUBMIT";
+
+/* Class = "UITextField"; placeholder = "LAST ACTION DATE"; ObjectID = "gWr-Ee-WPw"; */
+"gWr-Ee-WPw.placeholder" = "LAST ACTION DATE";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "gtb-ld-NBa"; */
+"gtb-ld-NBa.placeholder" = "CONFIRM PASSWORD";
+
+/* Class = "UILabel"; text = "Please select the follwing option for order processing"; ObjectID = "gtw-J3-2yI"; */
+"gtw-J3-2yI.text" = "Please select the follwing option for order processing";
+
+/* Class = "UILabel"; text = "* All Notifications will expire in 30 days"; ObjectID = "h5P-Yh-FQn"; */
+"h5P-Yh-FQn.text" = "* All Notifications will expire in 30 days";
+
+/* Class = "UILabel"; text = "Accumulation Date:"; ObjectID = "hBr-Bd-XXS"; */
+"hBr-Bd-XXS.text" = "Accumulation Date:";
+
+/* Class = "UILabel"; text = "PAN NO"; ObjectID = "hDK-SP-BFQ"; */
+"hDK-SP-BFQ.text" = "PAN NO";
+
+/* Class = "UITextField"; placeholder = "ENTER IFSC CODE SHOULD BE 11 CHARACTERS"; ObjectID = "hJu-Ff-4wz"; */
+"hJu-Ff-4wz.placeholder" = "ENTER IFSC CODE SHOULD BE 11 CHARACTERS";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "hTP-Pz-mMw"; */
+"hTP-Pz-mMw.text" = "Date";
+
+/* Class = "UILabel"; text = " "; ObjectID = "heH-xk-Ahz"; */
+"heH-xk-Ahz.text" = " ";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "iGs-QI-gHq"; */
+"iGs-QI-gHq.text" = "0.00";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "iQb-Cn-0Ij"; */
+"iQb-Cn-0Ij.text" = "0.0";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "iR1-5M-va3"; */
+"iR1-5M-va3.normalTitle" = "VIEW";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "iT0-ls-pXq"; */
+"iT0-ls-pXq.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "ieO-A8-XxW"; */
+"ieO-A8-XxW.text" = "ABOUT US";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ifQ-gT-9z5"; */
+"ifQ-gT-9z5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = " VERIFY OTP"; ObjectID = "ihK-Ja-530"; */
+"ihK-Ja-530.normalTitle" = " RESEND OTP";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "j72-5d-qkl"; */
+"j72-5d-qkl.normalTitle" = "CANCEL";
+
+/* Class = "UITextField"; placeholder = "DEALER CODE / NAME"; ObjectID = "j8q-RS-7h7"; */
+"j8q-RS-7h7.placeholder" = "DEALER CODE / NAME";
+
+/* Class = "UITextField"; placeholder = "SELECT CATEGORY"; ObjectID = "jDm-6A-Vwi"; */
+"jDm-6A-Vwi.placeholder" = "SELECT CATEGORY";
+
+/* Class = "UITextField"; placeholder = "ADDRESS 1*"; ObjectID = "jbC-cj-Pvx"; */
+"jbC-cj-Pvx.placeholder" = "ADDRESS 1*";
+
+/* Class = "UITextField"; placeholder = "BANK ADDRESS"; ObjectID = "jbb-18-Idj"; */
+"jbb-18-Idj.placeholder" = "BANK ADDRESS";
+
+/* Class = "UIButton"; normalTitle = "UPLOAD"; ObjectID = "jio-l2-u8K"; */
+"jio-l2-u8K.normalTitle" = "UPLOAD";
+
+/* Class = "UILabel"; text = "TYPE"; ObjectID = "k6p-a8-ZeH"; */
+"k6p-a8-ZeH.text" = "TYPE";
+
+/* Class = "UITextField"; placeholder = "DISTRICT*"; ObjectID = "kfv-UA-3bB"; */
+"kfv-UA-3bB.placeholder" = "DISTRICT*";
+
+/* Class = "UILabel"; text = " "; ObjectID = "l0R-7h-y3B"; */
+"l0R-7h-y3B.text" = " ";
+
+/* Class = "UILabel"; text = "BANK TRANSFER"; ObjectID = "l5K-Wr-Tc9"; */
+"l5K-Wr-Tc9.text" = "BANK TRANSFER";
+
+/* Class = "UILabel"; text = "Schme"; ObjectID = "l8o-5A-05Y"; */
+"l8o-5A-05Y.text" = "Schme";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "lIg-Om-QFa"; */
+"lIg-Om-QFa.text" = "0.00";
+
+/* Class = "UITextField"; placeholder = "ENTER ELECTRICIAN MOBILE NO"; ObjectID = "lIx-E1-BTb"; */
+"lIx-E1-BTb.placeholder" = "ENTER ELECTRICIAN MOBILE NO";
+
+/* Class = "UIButton"; normalTitle = " END DATE"; ObjectID = "lP6-FJ-pCc"; */
+"lP6-FJ-pCc.normalTitle" = " END DATE";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "lSp-Jf-xGj"; */
+"lSp-Jf-xGj.text" = "Type";
+
+/* Class = "UILabel"; text = "Total :"; ObjectID = "le8-w7-oud"; */
+"le8-w7-oud.text" = "Total :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lno-Ip-3OI"; */
+"lno-Ip-3OI.text" = "Label";
+
+/* Class = "UILabel"; text = "IFSC Code:"; ObjectID = "lnz-D0-8uX"; */
+"lnz-D0-8uX.text" = "IFSC Code:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lpn-Wu-JCc"; */
+"lpn-Wu-JCc.text" = "Label";
+
+/* Class = "UILabel"; text = "BranchName"; ObjectID = "ma9-Pk-zdC"; */
+"ma9-Pk-zdC.text" = "BranchName";
+
+/* Class = "UILabel"; text = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS"; ObjectID = "mgQ-dZ-2lY"; */
+"mgQ-dZ-2lY.text" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+/* Class = "UILabel"; text = "Ans:-"; ObjectID = "muD-Qw-ZpD"; */
+"muD-Qw-ZpD.text" = "Ans:-";
+
+/* Class = "UISearchBar"; placeholder = "Mp4, XlXS, PDF, IMG, DOCS,"; ObjectID = "n4Q-wN-9lO"; */
+"n4Q-wN-9lO.placeholder" = "Mp4, XlXS, PDF, IMG, DOCS,";
+
+/* Class = "UISearchBar"; placeholder = "Material Code"; ObjectID = "nAC-3A-tPU"; */
+"nAC-3A-tPU.placeholder" = "SEARCH MATERIAL CODE";
+
+/* Class = "UILabel"; text = "AREA"; ObjectID = "nPe-xy-oab"; */
+"nPe-xy-oab.text" = "AREA";
+
+/* Class = "UILabel"; text = "TOTAL BALANCE"; ObjectID = "nfI-hY-sJd"; */
+"nfI-hY-sJd.text" = "TOTAL BAL";
+
+/* Class = "UITextField"; placeholder = "ENTER 10-25 DIGIT BANK ACCOUNT NO."; ObjectID = "no9-Or-tJz"; */
+"no9-Or-tJz.placeholder" = "ENTER 10-25 DIGIT BANK ACCOUNT NO.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nq0-32-J1N"; */
+"nq0-32-J1N.text" = "Label";
+
+/* Class = "UILabel"; text = "QUANTITY"; ObjectID = "nr7-5U-tLb"; */
+"nr7-5U-tLb.text" = "QUANTITY";
+
+/* Class = "UILabel"; text = "1. YOU CAN SELECT UPTO 6 MONTHS HISTORY"; ObjectID = "o1u-2q-jjT"; */
+"o1u-2q-jjT.text" = "1. YOU CAN SELECT UPTO 6 MONTHS HISTORY";
+
+/* Class = "UITextField"; placeholder = "NAME AS PER BANK ACCOUNT"; ObjectID = "oAz-1g-6qA"; */
+"oAz-1g-6qA.placeholder" = "NAME AS PER BANK ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "AREA*"; ObjectID = "oCC-Fq-AZl"; */
+"oCC-Fq-AZl.placeholder" = "AREA*";
+
+/* Class = "UITextField"; placeholder = "CITY*"; ObjectID = "oMe-tU-ydO"; */
+"oMe-tU-ydO.placeholder" = "CITY*";
+
+/* Class = "UILabel"; text = "AADHAR NO"; ObjectID = "oUA-0M-eD2"; */
+"oUA-0M-eD2.text" = "AADHAR NO";
+
+/* Class = "UILabel"; text = "For Any Help"; ObjectID = "oZ1-RY-MH5"; */
+"oZ1-RY-MH5.text" = "For Any Help";
+
+/* Class = "UIButton"; normalTitle = " START DATE"; ObjectID = "ogN-Wz-GVQ"; */
+"ogN-Wz-GVQ.normalTitle" = " START DATE";
+
+/* Class = "UIButton"; normalTitle = "VIEW MORE"; ObjectID = "oqX-u7-cZy"; */
+"oqX-u7-cZy.normalTitle" = "VIEW MORE";
+
+/* Class = "UILabel"; text = "TOTAL REDEMPTION"; ObjectID = "osf-Vc-kPj"; */
+"osf-Vc-kPj.text" = "TOTAL REDEMPTION";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "oyw-UY-iLq"; */
+"oyw-UY-iLq.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "Action"; ObjectID = "p3j-Io-MUd"; */
+"p3j-Io-MUd.text" = "Action";
+
+/* Class = "UILabel"; text = "Enter otp we have sent otp to your phone number"; ObjectID = "pGG-Nk-fqM"; */
+"pGG-Nk-fqM.text" = "Enter otp we have sent otp to your phone number";
+
+/* Class = "UILabel"; text = "TOTAL ACCUMULATION"; ObjectID = "pTR-cu-bom"; */
+"pTR-cu-bom.text" = "TOTAL ACCUMULATION";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "pUI-Wa-hvM"; */
+"pUI-Wa-hvM.placeholder" = "EMAIL";
+
+/* Class = "UILabel"; text = "DMS SALE DETAILS"; ObjectID = "pab-EU-3ma"; */
+"pab-EU-3ma.text" = "DISTRIBUTOR BILLING";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "ppt-rq-3He"; */
+"ppt-rq-3He.text" = "BANK NAME";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q2I-GE-ynV"; */
+"q2I-GE-ynV.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q2Q-lX-ed7"; */
+"q2Q-lX-ed7.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "q6E-2m-K57"; */
+"q6E-2m-K57.normalTitle" = "VIEW";
+
+/* Class = "UITextField"; placeholder = "PAN NO"; ObjectID = "q7W-XN-CZn"; */
+"q7W-XN-CZn.placeholder" = "PAN NO";
+
+/* Class = "UITextField"; placeholder = "AMOUNT"; ObjectID = "qL8-2a-rnx"; */
+"qL8-2a-rnx.placeholder" = "AMOUNT";
+
+/* Class = "UILabel"; text = "Qty."; ObjectID = "qMi-Ar-caf"; */
+"qMi-Ar-caf.text" = "Qty.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qXE-3E-1kr"; */
+"qXE-3E-1kr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "qbQ-o9-iKr"; */
+"qbQ-o9-iKr.normalTitle" = "VIEW SUMMARY";
+
+/* Class = "UITextField"; placeholder = "PINCODE*"; ObjectID = "qdj-Q3-EVR"; */
+"qdj-Q3-EVR.placeholder" = "PINCODE*";
+
+/* Class = "UILabel"; text = "PRICE :"; ObjectID = "qob-lg-7Ve"; */
+"qob-lg-7Ve.text" = "PRICE :";
+
+/* Class = "UITextField"; placeholder = "FIRM NAME*"; ObjectID = "qqO-39-8sN"; */
+"qqO-39-8sN.placeholder" = "FIRM NAME*";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "r1U-NY-wjD"; */
+"r1U-NY-wjD.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "GROSS AMT"; ObjectID = "r7f-OR-Oth"; */
+"r7f-OR-Oth.text" = "GROSS AMT";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "r9J-ho-1sk"; */
+"r9J-ho-1sk.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "rCx-XU-qqr"; */
+"rCx-XU-qqr.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "rb6-fT-u9g"; */
+"rb6-fT-u9g.text" = "Point";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "rb9-d1-AR3"; */
+"rb9-d1-AR3.text" = ":";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rbC-yV-Bpi"; */
+"rbC-yV-Bpi.text" = "Label";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "rhe-bz-I6B"; */
+"rhe-bz-I6B.text" = "•";
+
+/* Class = "UIButton"; normalTitle = "BY MATERIAL"; ObjectID = "rwk-Fk-SWc"; */
+"rwk-Fk-SWc.normalTitle" = "By Material Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "s30-0y-gBw"; */
+"s30-0y-gBw.text" = "Label";
+
+/* Class = "UILabel"; text = "MOBILE NO"; ObjectID = "sF4-Hs-l7p"; */
+"sF4-Hs-l7p.text" = "MOBILE NO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sIn-1n-RFv"; */
+"sIn-1n-RFv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sKj-Fn-rUZ"; */
+"sKj-Fn-rUZ.text" = "Label";
+
+/* Class = "UILabel"; text = "ADDRESS 1"; ObjectID = "stv-tW-6T6"; */
+"stv-tW-6T6.text" = "ADDRESS 1";
+
+/* Class = "UILabel"; text = "(Tu)"; ObjectID = "t5N-fJ-p2g"; */
+"t5N-fJ-p2g.text" = "(Tu)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tHJ-la-FoK"; */
+"tHJ-la-FoK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "tbz-jl-xvP"; */
+"tbz-jl-xvP.placeholder" = "Qty";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "txK-p2-oI4"; */
+"txK-p2-oI4.text" = "Date";
+
+/* Class = "UILabel"; text = "USER SUB TYPE"; ObjectID = "uLd-Lv-3G1"; */
+"uLd-Lv-3G1.text" = "USER SUB TYPE";
+
+/* Class = "UILabel"; text = "WELCOME!"; ObjectID = "uRC-MX-eeT"; */
+"uRC-MX-eeT.text" = "WELCOME!";
+
+/* Class = "UISegmentedControl"; uh2-oT-zOW.segmentTitles[0] = "POSM SERVICE REQUEST"; ObjectID = "uh2-oT-zOW"; */
+"uh2-oT-zOW.segmentTitles[0]" = "POSM SERVICE REQUEST";
+
+/* Class = "UISegmentedControl"; uh2-oT-zOW.segmentTitles[1] = "POSM SERVICE STATUS"; ObjectID = "uh2-oT-zOW"; */
+"uh2-oT-zOW.segmentTitles[1]" = "POSM SERVICE STATUS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ujv-RP-PDb"; */
+"ujv-RP-PDb.text" = "Label";
+
+/* Class = "UILabel"; text = "GST TYPE"; ObjectID = "uq9-mU-pnt"; */
+"uq9-mU-pnt.text" = "GST TYPE";
+
+/* Class = "UILabel"; text = "CurrentStatue:"; ObjectID = "uvP-01-4fN"; */
+"uvP-01-4fN.text" = "CurrentStatue:";
+
+/* Class = "UITextField"; placeholder = "ENTER PASSWORD"; ObjectID = "uzC-HL-Oka"; */
+"uzC-HL-Oka.placeholder" = "ENTER PASSWORD";
+
+/* Class = "UILabel"; text = "PERFORMANCE OF THE MONTH"; ObjectID = "v4t-tu-9yK"; */
+"v4t-tu-9yK.text" = "Monthly Performance";
+
+/* Class = "UILabel"; text = "For Any Help"; ObjectID = "v8w-mo-ktT"; */
+"v8w-mo-ktT.text" = "For Any Help";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vCr-2w-pSI"; */
+"vCr-2w-pSI.text" = "Label";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "vFY-Dc-Lmq"; */
+"vFY-Dc-Lmq.text" = "180 2660 077";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "vLw-3C-uHH"; */
+"vLw-3C-uHH.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = ": "; ObjectID = "vfn-Wc-2gG"; */
+"vfn-Wc-2gG.text" = ": ";
+
+/* Class = "UILabel"; text = "SSB SCHEME RESULT"; ObjectID = "vvn-LB-Ena"; */
+"vvn-LB-Ena.text" = "SSB SCHEME RESULT";
+
+/* Class = "UILabel"; text = "Verified By:"; ObjectID = "w61-Rf-Ahx"; */
+"w61-Rf-Ahx.text" = "Verified By:";
+
+/* Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "wBh-Ei-UPH"; */
+"wBh-Ei-UPH.normalTitle" = "SAVE PASSWORD";
+
+/* Class = "UITextField"; placeholder = "PARENT MOBILE NO."; ObjectID = "wP5-cf-N0R"; */
+"wP5-cf-N0R.placeholder" = "PARENT MOBILE NO.";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "wpL-wf-WRf"; */
+"wpL-wf-WRf.text" = "ACCOUNT NO";
+
+"H9T-VD-Xdy" = "STATUS";
+
+/* Class = "UILabel"; text = "ABOUT SAMPARK PROGRAM"; ObjectID = "wue-T9-OV6"; */
+"wue-T9-OV6.text" = "ABOUT RETAILER PROGRAM";
+
+/* Class = "UILabel"; text = "SCHEME"; ObjectID = "wug-vP-41B"; */
+"wug-vP-41B.text" = "SCHEME";
+
+/* Class = "UITextField"; placeholder = "OWNER MOBILE NUMBER*"; ObjectID = "xF9-lQ-xGc"; */
+"xF9-lQ-xGc.placeholder" = "OWNER MOBILE NUMBER*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xHC-3C-MTS"; */
+"xHC-3C-MTS.text" = "Label";
+
+/* Class = "UILabel"; text = "PRODUCT"; ObjectID = "xXC-Ow-13k"; */
+"xXC-Ow-13k.text" = "PRODUCT";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "xaE-lc-3gn"; */
+"xaE-lc-3gn.text" = "Dashboard";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xfn-RV-Tvn"; */
+"xfn-RV-Tvn.text" = "Label";
+
+/* Class = "UILabel"; text = "Job_ID"; ObjectID = "xqj-6S-LqN"; */
+"xqj-6S-LqN.text" = "Job_ID";
+
+/* Class = "UILabel"; text = "Created By:"; ObjectID = "xrV-LO-4mG"; */
+"xrV-LO-4mG.text" = "Created By:";
+
+/* Class = "UILabel"; text = "DIS CODE"; ObjectID = "xtc-Ox-bkr"; */
+"xtc-Ox-bkr.text" = "DIS CODE";
+
+/* Class = "UISegmentedControl"; y78-21-dsV.segmentTitles[0] = "PENDING"; ObjectID = "y78-21-dsV"; */
+"y78-21-dsV.segmentTitles[0]" = "PENDING";
+
+/* Class = "UISegmentedControl"; y78-21-dsV.segmentTitles[1] = "COMPLETED"; ObjectID = "y78-21-dsV"; */
+"y78-21-dsV.segmentTitles[1]" = "COMPLETED";
+
+/* Class = "UIButton"; normalTitle = "FORGOT/RESET PASSWORD"; ObjectID = "yAi-M8-CvD"; */
+"yAi-M8-CvD.normalTitle" = "FORGOT/RESET PASSWORD";
+
+/* Class = "UITextField"; placeholder = "SELECT SCHEME"; ObjectID = "yM0-bI-mXh"; */
+"yM0-bI-mXh.placeholder" = "SELECT SCHEME";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "yVE-27-SiX"; */
+"yVE-27-SiX.normalTitle" = "VIEW";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zDc-mv-93j"; */
+"zDc-mv-93j.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "BRANCH NAME*"; ObjectID = "zEA-Mo-ZDi"; */
+"zEA-Mo-ZDi.placeholder" = "BRANCH NAME*";
+
+/* Class = "UILabel"; text = "BusinessName"; ObjectID = "zQd-Aj-f5G"; */
+"zQd-Aj-f5G.text" = "BusinessName";
+
+/* Class = "UITextField"; placeholder = "RETAILER SAP CODE"; ObjectID = "zaj-6f-wow"; */
+"zaj-6f-wow.placeholder" = "RETAILER SAP CODE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "znI-B1-S6w"; */
+"znI-B1-S6w.text" = "Label";
+
+/* Class = "UILabel"; text = "SHOP IMAGE"; ObjectID = "ztm-YB-MAk"; */
+"ztm-YB-MAk.text" = "SHOP IMAGE";

@@ -1,0 +1,666 @@
+/* 
+  Localizable.strings
+  SAMPARK
+
+  Created by Naveen on 02/05/19.
+  Copyright © 2019 Apple.Inc. All rights reserved.
+*/
+//Login ViewController
+"WELCOMETOSAMPARKPROGRAM" = "WELCOME TO RETAILER PROGRAM";
+
+"GET OTP" = "Send OTP";
+
+"REGISTER" = "Not Registered? Register here..";
+
+"ABOUT SAMPARK" = "ABOUT RETAILER";
+//OTP VIEWCONTROLLER
+
+"Submit" = "SUBMIT";
+
+"RESEND OTP" = "RESEND OTP";
+
+"FOR ANY HELP:18002660077" = "FOR ANY HELP:18002660077";
+
+//AccumulationReportDetailController
+
+"Selection Details" = "Selection Details";
+
+//homeViewController
+
+
+"TotalBalance" = "TOTAL BAL";
+
+"schemebalance" = "SCHEME BAL";
+"GET OTP" = "Send OTP";
+
+"REGISTER" = "Not Registered? Register here..";
+
+//SET PASSWORD VIEWCONTROLLER
+
+"SAVE PASSWORD" = "SAVE PASSWORD";
+
+"SET PASSWORD" = "SAVE PASSWORD";
+
+"RESET PASSWORD" = "RESET PASSWORD";
+
+"PASSWORD POLICY" = "PASSWORD POLICY";
+
+"SHOULD BE 8 - 12 CHARACTERS." = "SHOULD BE 8 - 12 CHARACTERS.";
+
+"ONE NUMERICAL CHARACTER COMPULSORY (0-9)." = "ONE NUMERICAL CHARACTER COMPULSORY (0-9).";
+
+"ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z)." = "ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z).";
+
+"PASSWORD EXPIRES IN 90 DAYS." = "PASSWORD EXPIRES IN 90 DAYS.";
+
+//password ViewController
+
+
+"Forget/reset" = "FORGOT/RESET PASSWORD";
+
+//select schemeViewController
+"selectSchemes" = "SELECT SCHEME";
+
+"welcome" = "WELCOME!";
+
+
+// PerfamanceViewController
+"perfamanceofthemonth" = "PERFORMANCE OF THE MONTH";
+
+"SecondarySale" = "Secondary Sale";
+
+"POINTS" = "POINTS";
+
+"up to date" = "up to date";
+
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+//CalanderViewController
+"Month" = "Month";
+
+"Year" = "Year";
+
+//Balance Details PopUp ViewController
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+"SCHEME" = "SCHEME";
+
+"BALANCE" = "BALANCE";
+
+//Not in system PopUp ViewController
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+"SCHEME" = "SCHEME";
+
+"BALANCE" = "BALANCE";
+
+//Accumilation ViewController
+"Announcement" = "Announcement";
+
+"View More " = "View More";
+"total_pins_scanned" = "Total Pins Scanned";
+"total_points_earned" = "Total Points Earned";
+"success_pins" = "Success Pins";
+"consume_pins" = "Consume Pins";
+"not_in_system_pins" = "Not In System Pins";
+"other_scheme_pins" = "Other Scheme Pins";
+"not_permitted_as_distribution_pins" = "Not Permitted as Distribution Pins";
+"expired_pins" = "Expired Pins";
+
+//Survey ViewController
+"PENDING" = "PENDING";
+
+"COMPLETED" = "COMPLETED";
+
+
+//GET QUESTIONS VIEWCONTROLLER
+"LATER" = "LATER";
+
+
+//OTP POPUP VIEWCONTROLLER
+"Verify" = "Verify";
+
+"Enter otp we have sent otp to your phone number" = "Enter otp we have sent otp to your phone number";
+
+"Verify OTP" = "SUBMIT";
+
+//ACCUMILATION VIEWCONTROLLER
+
+"Known" = "Known";
+
+"Unknown" = "Unknown";
+
+"NO. OF PINS SCANNED" = "NO. OF PINS SCANNED";
+
+"OR" = "OR";
+
+"SCAN" = "SCAN PINS";
+
+"Pins" = "Pins";
+
+"Action" = "Action";
+
+// Accumulation Summary Controller
+"ACCUMULATION SUMMARY" = "ACCUMULATION SUMMARY";
+
+"Accumulation Date:" = "Accumulation Date :";
+
+"TRANSACTION ID:" = "TRANSACTION ID:";
+
+"Note:pinStatus" = "NOTE:-CLICK ACCUMULATION STATUS TO GET PIN WISE DETAILS";
+
+"continue" = "VIEW SUMMARY";
+"sendsms" = "RESEND SMS";
+
+//AccumulationSummaryDetailViewController
+"ACCUMULATION SUMMARY" = "ACCUMULATION SUMMARY";
+
+"Accumulation Date :" = "Accumulation Date :";
+
+"TRANSACTION ID:" = "TRANSACTION ID:";
+"ViewSummery" = "VIEW SUMMARY";
+
+//Gallery ViewController
+"GALLERY" = "GALLERY";
+
+"PRODUCT VIDEOS" = "PRODUCT VIDEOS";
+
+//BankDetailViewController
+"BANK NAME" = "BANK NAME";
+
+"ACCOUNT NO" = "ACCOUNT NO";
+
+"STATUS" = "STATUS";
+
+"IFSC CODE" = "IFSC CODE";
+
+"CHEQUE " = "CHEQUE ";
+
+"BANK DETAILS" = "BANK DETAILS";
+
+"ADD NEW BANK DETAILS" = "ADD NEW BANK DETAILS";
+
+//AddBankAccountViewController
+"Add New Bank Details" = "Add New Bank Details";
+
+"ENTER 10-25 DIGIT BANK ACCOUNT NO." = "ENTER 10-25 DIGIT BANK ACCOUNT NO.";
+
+"ENTER IFSC CODE SHOULD BE 11 CHARACTERS" = "ENTER IFSC CODE SHOULD BE 11 CHARACTERS";
+
+"BANK NAME" = "BANK NAME";
+
+"BANK ADDRESS" = "BANK ADDRESS";
+
+"NAME AS PER BANK ACCOUNT" = "NAME AS PER BANK ACCOUNT";
+
+"Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted" = "Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted";
+
+"BANK CHEQUE" = "BANK CHEQUE";
+
+"UPLOAD" = "UPLOAD";
+
+" SUBMIT NEW BANK DETAILS " = " SUBMIT NEW BANK DETAILS ";
+
+"CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME" = "CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME";
+
+//TransactionHistoryViewController
+"TRANSACTION HISTORY" = "TRANSACTION HISTORY";
+
+"SELECT SCHEME" = "SELECT SCHEME";
+
+" START DATE" = " START DATE";
+
+" END DATE" = " END DATE";
+
+"SELECT START DATE" = "SELECT START DATE";
+
+"SELECT END DATE" = "SELECT END DATE";
+
+"VIEW" = "VIEW";
+
+"NOTE" = "NOTE";
+
+"1. YOU CAN SELECT UPTO 31 DAYS HISTORY" = "1. YOU CAN SELECT UPTO 6 MONTHS HISTORY";
+
+"2. ACC:- POINTS ACCUMULATED" = "2. ACC:- POINTS ACCUMULATED";
+
+"3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES" = "3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES";
+
+"4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+//TransactionHistoryListViewController
+
+"TOTAL ACCUMULATION" = "TOTAL ACCUMULATION";
+
+"TOTAL REDEMPTION" = "TOTAL REDEMPTION";
+
+"DATE" = "DATE";
+
+"SCHEME" = "SCHEME";
+
+"PRODUCT" = "PRODUCT";
+
+"POINTS" = "POINTS";
+
+//NotificationViewController
+
+"NOTIFICATIONS" = "NOTIFICATIONS";
+
+"* All Notifications will expire in 30 days" = "* All Notifications will expire in 30 days";
+
+//NotificationDetailViewController
+
+"NOTIFICATIONS" = "NOTIFICATIONS";
+
+"* All Notifications will expire in 30 days" = "* All Notifications will expire in 30 days";
+
+"VIEW MORE" = "VIEW MORE";
+
+//SchemeResultViewController
+
+"SSB SCHEME RESULT" = "SSB SCHEME RESULT";
+
+"DOWNLOAD SCHEME BROCHURE" = "DOWNLOAD SCHEME BROCHURE";
+
+"OK" = "OK";
+
+//OrderViewController
+
+"BY DIVISION/MG" = "BY DIVISION/MG";
+
+"BY MATERIAL CODE" = "BY MATERIAL CODE";
+
+"PRODUCT NOT FOUND" = "PRODUCT NOT FOUND";
+
+"NEXT" = "ADD ITEM";
+
+//OrderDetailViewController
+
+"Please select the follwing option for order processing" = "Please select the follwing option for order processing";
+
+"SELECT OPTION" = "SELECT OPTION";
+
+"DEALER CODE / NAME" = "DEALER CODE / NAME";
+
+"DEALER MOBILE" = "DEALER MOBILE";
+
+"EXPECTED DELIVERY DATE" = "EXPECTED DELIVERY DATE";
+
+"REMARK" = "REMARK";
+
+"NOPARTNERAVAILABLE" =  "NO PARTNER AVAILABLE";
+
+//UserProfileViewController
+
+"EDIT" = "EDIT";
+
+"Profile Under Edit" = "Profile Under Edit/Reactivation request for 48 hours,";
+
+"FIRM TYPE" = "FIRM TYPE";
+
+"FIRM NAME" = "FIRM NAME";
+
+"OWNER NAME" = "OWNER NAME";
+
+"MOBILE NO" = "MOBILE NO";
+
+"RETAILER ID" = "RETAILER ID";
+
+"ADDRESS 1" = "ADDRESS 1";
+
+"ADDRESS 2" = "ADDRESS 2";
+
+"ADDRESS 3" = "ADDRESS 3";
+
+"STATE" = "STATE";
+
+"DISTRICT" = "DISTRICT";
+
+"CITY" = "CITY";
+
+"AREA" = "AREA";
+
+"PINCODE" = "PINCODE";
+
+"BRANCH NAME" = "BRANCH NAME";
+
+"EMAIL" = "EMAIL";
+
+"AADHAR NO" = "AADHAR NO";
+
+"PAN NO" = "PAN NO";
+
+"GST TYPE" = "GST TYPE";
+
+"GST NO" = "GST NO";
+
+"USER STATUS" = "USER STATUS";
+
+"USER SUB TYPE" = "USER SUB TYPE";
+
+"CURRENT STATUS" = "CURRENT STATUS";
+
+"LAST ACTION DATE" = "LAST ACTION DATE";
+
+"REG DATE" = "REG DATE";
+
+"OWNER IMAGE" = "OWNER IMAGE";
+
+"AADHAR IMAGE" = "AADHAR IMAGE";
+
+"PAN IMAGE" = "PAN IMAGE";
+
+"GST IMAGE" = "GST IMAGE";
+
+"SHOP IMAGE" = "SHOP IMAGE";
+
+"OTHER IMAGE" = "OTHER IMAGE";
+
+
+//LeftMenu
+
+"dashboard_menu" = "DASHBOARD";
+
+"profile_menu" = "PROFILE";
+
+"accumulation_menu" = "ACCUMULATE";
+
+"redemption_menu" = "REDEEM";
+
+"bank_details_menu" = "BANK DETAILS";
+
+"transaction_history_menu" = "TRANSACTION HISTORY";
+
+"RETAILER_profolio" = "RETAILER PROFOLIO";
+
+"price_list_menu" = "CATALOG";
+
+"select_scheme_menu" = "SELECT SCHEME";
+
+"aboutLoyalty" = "ABOUT LOYALTY";
+"contactUs" = "ENQUIRY";
+
+"sampark_web_menu" = "RETAILER WEB";
+
+"share_app_menu" = "SHARE APP";
+
+"sbt_scheme_result_menu" = "SCHEME DETAILS";
+
+"notification_menu" = "NOTIFICATION";
+
+"survey_menu" = "SURVEY";
+
+"change_language_menu" = "CHANGE LANGUAGE";
+
+"logout_menu" = "LOGOUT";
+
+"posm_serviceRequest" = "POSM SERVICE REQUEST";
+
+"serviceRequest" = "SERVICE REQUEST";
+
+"kings_club" = "KINGS CLUB SCHEME";
+
+"product_reg" = "PRODUCT REGISTRATION";
+
+"place_order" = "ORDER BOOKING";
+
+"scheme_intimation" = "SCHEME INTIMATION";
+
+"dms_billing" = "DMS BILLING";
+
+"gallery" = "GALLERY";
+
+
+"social_networking" = "SOCIAL NETWORKING";
+
+
+
+"INSTAGRAM" = "INSTAGRAM";
+"TWITTER" = "TWITTER";
+"FACEBOOK" = "FACEBOOK";
+"YOUTUBE" = "YOUTUBE";
+"SEWINGBLOGS" = "SEWING BLOGS";
+
+
+//LanguageChangeVC
+
+"WELCOME" = "WELCOME";
+
+"Select_Language" = "SELECT LANGUAGE";
+
+
+//REDEMPTIONViewController
+
+"VOUCHER" = "VOUCHER";
+
+"TOP-UOP" = "TOP-UOP";
+
+"BANK_TRANSFER" = "BANK TRANSFER";
+
+"VIEW_CART" = "VIEW CART";
+
+"REDDEM" = "REDEEM";
+
+
+//DMS BILLING
+
+"DIS_CODE" = "DIS CODE";
+
+"DIVISION_NAME" = "DIVISION NAME";
+
+"INVOICE_DATE" = "INVOICE DATE";
+
+"QUANTITY" = "QUANTITY";
+
+"GROSS_AMT" = "GROSS AMT";
+
+"INVOICE_STATUS" = "INVOICE STATUS";
+
+"DMS_SALE_DETAILS" = "DISTRIBUTOR BILLING";
+
+"SELECT_DATE" = "SELECT DATE";
+
+"START_DATE" = "START DATE";
+
+"END_DATE" = "END DATE";
+
+// SERVICE REQUEST
+
+"SERVICE_REQUEST" = "RAISE REQUEST";
+
+"SERVICE_STATUS" = "SERVICE STATUS";
+
+// POSM SERVICE REQUEST
+
+"POSM_SERVICE_REQUEST" = "POSM SERVICE REQUEST";
+
+"POSM_SERVICE_STATUS" = "POSM SERVICE STATUS";
+
+
+//messagesAndError
+
+"userNotFound" = "USER NOT FOUND! PLEASE CONTACT TO BRANCH!";
+"notRetailer" = "YOU ARE NOT REGISTERED AS RETAILER! PLEASE REGISTER!";
+"notElectrician" = "NOT A VERIFIED ELECTRICIAN!";
+"alreadyDeler" = "YOU ARE ALREADY REGISTERED DEALER!";
+"alreadyElectrician" = "YOU ARE ALREADY REGISTERED ELECTRICIAN!";
+"enterMobileNumber" = "PLEASE ENTER MOBILE NUMBER!";
+"enterValidMobileNumber" = "PLEASE ENTER VALID MOBILE NUMBER!";
+"enterOtp" = "PLEASE ENTER OTP!";
+"enterValidOtp" = "PLEASE ENTER CORRECT OTP!";
+"noInternetConnection_OTP" = "NEED INTERNET CONNECTIVITY TO PERFORM OTP!";
+"noInternetConnection_SUBMITOTP" = "NEED INTERNET CONNECTIVITY TO SUBMIT OTP!";
+"noInternetConnection_ABOUT" = "NEED INTERNET CONNECTIVITY TO VIEW ABOUT RETAILER APP!";
+"enterPassword" = "PLEASE ENTER PASSWORD!";
+"enterValidPassword" = "PLEASE SET PASSWORD AS PER POLICY MENTIONED BELOW!";
+"confirmPassword" = "PASSWORD DOES NOT MATCHES";
+"noInternetConnection_SETPASSWORD" = "NEED INTERNET CONNECTIVITY TO SAVE PASSWORD";
+"noInternetConnection_RESETPASSWORD" = "NEED INTERNET CONNECTIVITY TO RESET THE PASSWORD";
+"noInternetConnection_SETPASSWORD" = "NEED INTERNET CONNECTIVITY TO SAVE PASSWORD";
+"noInternetConnection_RESETPASSWORD" = "NEED INTERNET CONNECTIVITY TO RESET THE PASSWORD";
+"alreadyRetailer" = "YOU ARE ALREADY REGISTERED AS RETAILER!";
+"selectScheme" = "PLEASE SELECT SCHEME!";
+"loginFailed" = "LOGIN FAILED!";
+"dataNotFound" = "DATA NOT FOUND!";
+"somethingWentWrong" = "SOMETHING WENT WRONG!";
+"credentailStatusNotFound" = "AppCredentail service status not found, try agin leater!";
+"sessionExpired" = "SESSION HAS EXPIRED, PLEASE TRY AGAIN!";
+"uididNotMatchPassword" = "YOUR MOBILE NUMBER IS ALREADY REGISTERED ON ANOTHER DEVICE PLEASE UNINSTALL AND REINSTALL THE APP, IF YOU WANTED TO REGISTER THE MOBILE NUMBER AGAIN ON THIS DEVICE";
+"uididNotMatch" = "YOU ARE NOT AUTHORIZED TO PERFORM THIS ACTIVITY ON THIS DEVICE AS MOBILE ALREADY REGISTERED ON ANOTHER DEVICE!";
+"noInternetConnectivityGallery" = "NEED INTERNET CONNECTIVITY TO VIEW GALLERY DATA!";
+
+"noAlreadyOnAnotherDevice" = "YOUR MOBILE NUMBER IS ALREADY REGISTERED ON ANOTHER DEVICE.IF WANTED TO REGISTER MOBILE NUMBER AGAIN ON THIS DEVICE PLEASE CLICK YES. THEN YOU ARE NOT AUTHORIZED TO PERFORM ANY ACTIVITY ON PREVIOUS DEVICE!";
+
+"userNotVerified" = "YOUR PROFILE IS NOT YET VERIFIED. PLEASE CONTACT YOUR BRANCH OR SALES PERSON TO VERIFY YOUR PROFILE OR FOR FURTHER INFORMATION CALL 18002660077!";
+
+"serviceUnavailable" = "THE SERVICE IS UNAVAILABLE!";
+
+
+"userNotActive" = "YOUR CURRENT STATUS IS INACTIVE! PLEASE CONTACT TO BRANCH!";
+
+
+"noInternetConnection" = "NO INTERNET CONNECTION! PLEASE CONNECT TO INTERNET AND TRY AGAIN!";
+
+"pointRedeem" = "PLEASE ENTER POINTS TO BE REDEEM!";
+"lessbalance" = "ENTER AMOUNT SHOULD BE LESS THAN BALANCE!";
+"amountbetween" = "ENTER AMOUNT BETWEEN 10.00 TO 10000.00!";
+
+"savePendingTransaction" = "YOUR PINS HAVE BEEN STORED OFFLINE. NEED INTERNET CONNECTIVITY TO SUBMIT!";
+"noBankAccount" = "YOU EITHER HAVE NOT ADDED THE BANK DETAILS YET OR YOUR BANK DETAILS ARE UNDER APPROVAL PROCESS PLEASE ADD THE BANK DETAILS OR CHECK THE STATUS FROM BANK DETAILS TAB!";
+"noApprovedBankAccount" = "NO APPROVED BANK ACCOUNT FOUND! PLEASE CONTACT TO BRANCH!";
+
+"noInternetConnection_REDEMPTION" = "NEED INTERNET CONNECTIVITY TO PERFORM REDEMPTION!";
+
+"noInternetConnection_ACCUMULATION" = "NEED INTERNET CONNECTIVITY TO PERFORM ACCUMULATION!";
+"noInternetConnection_DASHBOARD" = "NEED INTERNET CONNECTIVITY TO VIEW DASHBOARD!";
+"noInternetConnection_BANKDETAILS" = "NEED INTERNET CONNECTIVITY TO VIEW/ADD BANK DETAILS!";
+"noInternetConnection_TRANSACTIONHISTORY" = "NEED INTERNET CONNECTIVITY TO VIEW TRANSACTION HISTORY!";
+"noInternetConnection_PRICELIST" = "NEED INTERNET CONNECTIVITY TO VIEW/DOWNLOAD PRICE LIST!";
+"noInternetConnection_CONTACTUS" = "NEED INTERNET CONNECTIVITY TO VIEW ENQUIRY!";
+"noInternetConnection_SOCIAL" = "NEED INTERNET CONNECTIVITY TO VIEW SOCIAL NETWORKING!";
+
+
+
+
+"noInternetConnection_ABOUTLOYALTY" = "NEED INTERNET CONNECTIVITY TO VIEW ABOUT LOYALTY!";
+
+"noInternetConnection_ViewNotInSystem" = "NEED INTERNET CONNECTIVITY TO VIEW PINWISE SUMMARY";
+
+"noInternetConnection_SyncNotification" = "NEED INTERNET CONNECTIVITY TO SYNC NOTIFICATION!";
+
+"noInternetConnection_SAMPARKWEB" = "NEED INTERNET CONNECTIVITY TO GO AT RETAILER WEB!";
+"noInternetConnection_SCEHEMERESULT" = "NEED INTERNET CONNECTIVITY TO VIEW SCHEME DETAILS!";
+
+"noInternetConnection_SCEHEMERESULT_DOWNLOAD" = "NEED INTERNET CONNECTIVITY TO DOWNLOAD SCHEME DETAILS!";
+
+"noInternetConnection_PROFILE" = "NEED INTERNET CONNECTIVITY TO VIEW/EDIT PROFILE!";
+"edit_PROFILE" = "DO YOU REALLY WANT TO EDIT THE PROFILE!";
+"noInternetConnection_SERVICEREQUEST" = "NEED INTERNET CONNECTIVITY TO VIEW/RAISE CUSTOMER SERVICE!";
+"noInternetConnection_REFRESHBALANCE" = "NEED INTERNET CONNECTIVITY TO REFRESH THE BALANCE!";
+"noInternetConnection_SUAREY" = "NEED INTERNET CONNECTIVITY TO PERFORM THE SURVEY!";
+"noInternetConnection_ORDER" = "NEED INTERNET CONNECTIVITY TO PLACE ORDER!";
+"noInternetConnection_GALLERY" = "NEED INTERNET CONNECTIVITY TO VIEW GALLERY!";
+"noInternetConnection_CHANGELANGUAGE" = "NEED INTERNET CONNECTIVITY TO PERFORM THE CHANGELANGUAGE!";
+"noInternetConnection_DMSBILLING" = "NEED INTERNET CONNECTIVITY TO PERFORM THE DMSBILLING!";
+"noInternetConnection_PROFOLIO" = "NEED INTERNET CONNECTIVITY TO VIEW RETAILER PROFOLIO!";
+
+"noDataAvailable" = "NO DATA AVAILABLE!";
+"bankAccountEmpty" = "BANK ACCOUNT NUMBER SHOULD  NOT BE EMPTY!";
+"bankAccountNo10_25" = "ENTER 10-25 DIGIT BANK ACCOUNT N0!";
+"ifscEmpty" = "BANK IFSC CODE SHOULD NOT BE EMPTY!";
+"invalidIFSC" = "INVALID IFSC FORMAT!";
+"ifsc11Digit" = "BANK IFSC CODE SHOULD BE 11 DIGIT!";
+"bankNameEmpty" = "BANK NAME SHOULD NOT BE EMPTY!";
+"bankAddressEmpty" = "BANK ADDRESS SHOULD NOT BE EMPTY!";
+"accountHolderNameEmpty" = "ACCOUNT HOLDER NAME SHOULD NOT BE EMPTY!";
+"resetPassword" = "YOUR PASSWORD IS NOT RESET FROM LAST 90 DAYS. YOU HAVE NEED TO RESET PASSWORD TO ACCESS THE RETAILER PROGRM!";
+"pendingPinToAccumulate" = "YOU HAVE PINS TO ACCUMULATE ONLINE YET! KINDLY SYNC DATA ONLINE!";
+"server_is_Busy" = "SERVER IS BUSY! PLEASE TRY LATER!";
+"notConnectedInternet" = "NEED INTERNET CONNECTIVITY TO SEND THE OTP";
+
+"selectStartDate" = "SELECT START DATE!";
+"selectEndDate" = "SELECT END DATE!";
+"selectChequesImage" = "PLEASE SELECT CHEQUE IMAGE!";
+"imageSize" = "IMAGE SIZE SHOULD BE 3MB OR LESS!";
+"imageUploaded" = "IMAGE UPLOADED SUSSESSFULLY!";
+"enterCorrectPassword" = "PLEASE ENTER CORRECT PASSWORD!";
+"chqName" = "CHQ NAME SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE FIRM TYPE IS COMPANY/PARTNERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME OR BUSINESS NAME!";
+"pendingPinsToAccumulate" = "YOU HAVE PENDING PINS TO ACCUMULATE! PLEASE CLICK ON SUBMIT!";
+"enterElectricalMobileNo" = "ENTER ELECTRICIAN MOBILE NO!";
+"enterValidElectricalMobileNo" = "ENTER VALID ELECTRICAL MOBILE NO!";
+"enterPin" = "PLEASE ENTER PIN!";
+"sendSMS" = "ACCUMULATION SUMMARY SMS HAS BEEN SENT TO YOUR MOBILE NO. SAVE/SHARE THE ACCUMULATION SUMMARY FOR YOUR RECORDS IF NEEDED. ONCE EXIT FROM SCREEN TRANSACTION DETAILS CAN NOT BE VIEWED!";// BACK!"
+"noHistory" = "NO TRANSACTION FOUND BETWEEN SELECTED DATES!";
+"switchScheme" = "DO YOU REALLY WANT TO SELECT OTHER SCHEME";
+
+//    "DO YOU REALLY WANT TO SWITCH SCHEME!"
+"doYouWantExit" = "DO YOU REALLY WANT TO EXIT!";
+"doYouWantLogout" = "DO YOU REALLY WANT TO EXIT!"; // LOGOUT!"
+"appUpdate" = "NEW VERSION OF RETAILER APP IS AVAILABLE. KINDLY UPDATE!";
+"notificationNoAttachment" = "NO ATTACHMENT FOUND";
+"schemeResultDataNotFound" = "DATA NOT FOUND!";
+"pendingsurvey" = "YOU HAVE PENDING SURVAY,DO YOU WANT TO FILL?";
+"productListErrorMsg" = "IF YOU HAVE ITEMS IN ORDER CART, THEN CART WILL BE EMPTY!";
+"productListPreviousPage" = "DO YOU WANT TO GO TO PREVIOUS PAGE!";
+
+//order
+"addProduct" = "PRODUCT NOT FOUND! PLEASE ADD PRODUCT TO PROCESSED";
+"valueNotFound" = "VALUE NOT FOUND!";
+"productNotFound" = "PRODUCT NOT FOUND";
+"selectDealer" = "PLEASE SELECT PARTNER!";
+"enterDealerName" = "PLEASE ENTER DEALER NAME/CODE";
+"enterDealerMobile" = "PLEASE ENTER DEALER MOBILE NUMBER";
+"dealerNotFound" = "DEALER NOT FOUND PLEASE SELECT ANOTHER!";
+"enterRemark" = "PLEASE ENTER REMARK";
+"enterDate" = "PLEASE ENTER DATE";
+"doyouwanttodelete" = "DO YOU REALLY WANT TO REMOVE THIS ITEM FROM CART!";
+
+//Regitration
+"selectFirmType" = "PLEASE SELECT FIRM TYPE";
+"selectRetailerType" = "PLEASE SELECT RETAILER TYPE";
+"selectRetailerCategory" = "PLEASE SELECT RETAILER CATEGORY";
+
+
+"enterFirmName" = "PLEASE ENTER FIRM NAME!";
+"enterOwnerName" = "PLEASE ENTER OWNER FULL NAME!";
+"enterAddress" = "ENTER FIRM ADDRESS!";
+"selectSate" = "PLEASE SELECT STATE!";
+"selectDistrict" = "PLEASE SELECT DISTRICT!";
+"selectCity" = "PLEASE SELECT CITY!";
+"selectArea" = "PLEASE SELECT AREA!";
+"enterPinCode" = "PLEASE ENTER PINCODE!";
+"validPinCode" = "ENTER VALID PINCODE!";
+"selectBranchName" = "PLEASE SELECT BRANCH NAME!";
+"selectBranch" = "PLEASE SELECT BRANCH NAME!";
+"enterEmail" = "PLEASE ENTER EMAIL ADDRESS!";
+"enterValidEmail" = "ENTER VALID EMAIL ADDRESS!";
+"enterRetailerSapCode" = "PLEASE ENTER RETAILER SAP CODE!";
+"enterAadharNo" = "PLEASE ENTER AADHER NUMBER!";
+"validAadherNo" = "ENTER VALID AADHER NUMBER!";
+"enterPanNo" = "PLEASE ENTER PAN CARD NUMBER!";
+"validPanNO" = "ENTER VALID PAN NUMBER!";
+"selectGstType" = "PLEASE SELECT GST TYPE!";
+"enterGstNO" = "PLEASE ENTER GST NUMBER!";
+"enterValidGstNO" = "PLEASE ENTER VALID GST NUMBER!";
+"selectParentChildStaus" = "PLEASE SELECT PARENT CHILD STAUS";
+"enterParentMobileNo" = "PLEASE ENTER PARENT MOBILE NUMBER!";
+"selectOwnerImage" = "PLEASE SELECT OWNER IMAGE!";
+"selectAadherImage" = "PLEASE SELECT AADHAR IMAGE!";
+"selectPanImage" = "PLEASE SELECT PAN IMAGE!";
+"selectGstIamge" = "PLEASE SELECT GST IMAGE!";
+"selectShopImage" = "PLEASE SELECT SHOP IMAGE!";
+"selectOtherImage" = "PLEASE SELECT OTHER IMAGE!";
+
+"noInternetConnection_REDEEMVOUCHER" = "NEED INTERNET CONNECTIVITY TO REDEEM VOUCHER!";
+"noInternetConnection_MOBILETOPUP" = "NEED INTERNET CONNECTIVITY TO DO MOBILE TOPUP!";
+"noInternetConnection_BANKTRANSFER" = "NEED INTERNET CONNECTIVITY TO PERFORM BANK TRANSFER!";
+"selectOpretor" = "PLEASE SELECT OPERATOR!";
+"rechargeAmountBetween" = "ENTERED AMOUNT BETWEEN 1.00 TO 1000.00!";
+"voucherAdded" = "VOUCHER ADDED IN CART SUSSESSFULLY!";
+"voucherAddedFailed" = "VOUCHER ADDED IN CART FAILD!";
+"voucherDelete" = "DO YOU REALLY WANT TO DELETE VOUCHER FROM CART!";
+"TOTAL AMOUNT SHOULD BE LESS THAN BALANCE" = "TOTAL AMOUNT SHOULD BE LESS THAN BALANCE";
+"TOTAL AMOUNT BETWEEN 10.00 TO 1000.00!" = "TOTAL AMOUNT BETWEEN 10.00 TO 1000.00!";
+"OK" = "OK";
+"NO" = "NO";
+"YES" = "YES";

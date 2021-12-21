@@ -1,0 +1,23 @@
+{
+  "name": "HASlider",
+  "version": "0.1.0",
+  "summary": "A short description of HASlider.",
+  "description": "Desc",
+  "homepage": "https://github.com/Hitesh136/HASlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hitesh136": "agarwal.hitesh94@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Hitesh136/HASlider.git",
+    "branch": "master",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HASlider/Classes/**/*"
+}

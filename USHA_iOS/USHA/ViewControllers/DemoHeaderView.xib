@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="DWJ-xQ-C4O" customClass="DemoHeaderView" customModule="SAMPARK" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="39"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ehE-Cq-ZbP">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="39"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IJ5-Nb-CSY" customClass="UILabelX" customModule="SAMPARK" customModuleProvider="target">
+                            <rect key="frame" x="1" y="1" width="280" height="37"/>
+                            <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="280" id="WBM-Eb-LHa"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                            <color key="textColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                    <color key="value" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                    <real key="value" value="1"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eho-sW-abe" customClass="UILabelX" customModule="SAMPARK" customModuleProvider="target">
+                            <rect key="frame" x="282" y="1" width="93" height="37"/>
+                            <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                            <color key="textColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                    <color key="value" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                    <real key="value" value="1"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fja-EA-oNg" customClass="UILabelX" customModule="SAMPARK" customModuleProvider="target">
+                            <rect key="frame" x="264" y="1" width="110" height="37"/>
+                            <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                            <color key="textColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                    <real key="value" value="1"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                    <color key="value" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="eho-sW-abe" firstAttribute="bottom" secondItem="IJ5-Nb-CSY" secondAttribute="bottom" id="4fV-gQ-ZBI"/>
+                        <constraint firstItem="fja-EA-oNg" firstAttribute="top" secondItem="eho-sW-abe" secondAttribute="top" id="5cO-3h-gVY"/>
+                        <constraint firstAttribute="trailing" secondItem="eho-sW-abe" secondAttribute="trailing" id="Cti-6Z-eJE"/>
+                        <constraint firstItem="IJ5-Nb-CSY" firstAttribute="leading" secondItem="ehE-Cq-ZbP" secondAttribute="leading" constant="1" id="DIy-62-MJz"/>
+                        <constraint firstItem="fja-EA-oNg" firstAttribute="width" secondItem="eho-sW-abe" secondAttribute="width" multiplier="1.5" id="JIu-a6-zZc"/>
+                        <constraint firstItem="fja-EA-oNg" firstAttribute="bottom" secondItem="eho-sW-abe" secondAttribute="bottom" id="LQm-EO-QMW"/>
+                        <constraint firstAttribute="bottom" secondItem="IJ5-Nb-CSY" secondAttribute="bottom" constant="1" id="cUa-bS-XOb"/>
+                        <constraint firstItem="eho-sW-abe" firstAttribute="top" secondItem="IJ5-Nb-CSY" secondAttribute="top" id="khq-0b-71x"/>
+                        <constraint firstItem="IJ5-Nb-CSY" firstAttribute="top" secondItem="ehE-Cq-ZbP" secondAttribute="top" constant="1" id="nSj-nw-W9U"/>
+                        <constraint firstItem="eho-sW-abe" firstAttribute="leading" secondItem="IJ5-Nb-CSY" secondAttribute="trailing" constant="1" id="pJx-N4-9lo"/>
+                        <constraint firstAttribute="trailing" secondItem="fja-EA-oNg" secondAttribute="trailing" constant="1" id="vxh-wv-ypt"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                            <color key="value" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <variation key="default">
+                        <mask key="subviews">
+                            <exclude reference="fja-EA-oNg"/>
+                        </mask>
+                    </variation>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="ehE-Cq-ZbP" secondAttribute="bottom" id="BfZ-dP-3LE"/>
+                <constraint firstItem="ehE-Cq-ZbP" firstAttribute="leading" secondItem="DWJ-xQ-C4O" secondAttribute="leading" id="LHG-Er-rW0"/>
+                <constraint firstAttribute="trailing" secondItem="ehE-Cq-ZbP" secondAttribute="trailing" id="hHb-kx-TIc"/>
+                <constraint firstItem="ehE-Cq-ZbP" firstAttribute="top" secondItem="DWJ-xQ-C4O" secondAttribute="top" id="uUu-Ps-1ic"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="lbl_amount" destination="fja-EA-oNg" id="wBF-gc-9t9"/>
+                <outlet property="lbl_oderName" destination="IJ5-Nb-CSY" id="FdG-DR-i9G"/>
+                <outlet property="lbl_qty" destination="eho-sW-abe" id="OnD-Qw-05e"/>
+            </connections>
+            <point key="canvasLocation" x="44" y="-93.103448275862078"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="IJ5-Nb-CSY">
+            <size key="intrinsicContentSize" width="47" height="21.5"/>
+        </designable>
+        <designable name="eho-sW-abe">
+            <size key="intrinsicContentSize" width="47" height="21.5"/>
+        </designable>
+        <designable name="fja-EA-oNg">
+            <size key="intrinsicContentSize" width="47" height="21.5"/>
+        </designable>
+    </designables>
+</document>

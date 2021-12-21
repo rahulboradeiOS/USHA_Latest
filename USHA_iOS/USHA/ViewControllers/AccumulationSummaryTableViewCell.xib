@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="KGk-i7-Jjw" customClass="AccumulationSummaryTableViewCell" customModule="Havells" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vlm-Ls-doZ">
+                        <rect key="frame" x="8" y="2" width="255" height="39.5"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VtE-h2-rgb">
+                        <rect key="frame" x="267" y="0.0" width="1" height="43.5"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="1" id="xDU-y1-fIP"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VNb-vu-WTM">
+                        <rect key="frame" x="272" y="2" width="40" height="39.5"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40" id="Aec-ib-29U"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                        <state key="normal">
+                            <color key="titleColor" red="0.95560246709999996" green="0.1993225217" blue="0.45391643050000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="VtE-h2-rgb" firstAttribute="leading" secondItem="vlm-Ls-doZ" secondAttribute="trailing" constant="4" id="3OJ-sh-Xkf"/>
+                    <constraint firstAttribute="bottom" secondItem="VtE-h2-rgb" secondAttribute="bottom" id="7Wl-fG-qvI"/>
+                    <constraint firstItem="vlm-Ls-doZ" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="2" id="KDZ-dS-Wip"/>
+                    <constraint firstItem="vlm-Ls-doZ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="UeQ-wt-HbL"/>
+                    <constraint firstItem="VtE-h2-rgb" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="XXZ-wI-0Va"/>
+                    <constraint firstAttribute="trailing" secondItem="VNb-vu-WTM" secondAttribute="trailing" constant="8" id="ZBN-nD-EcG"/>
+                    <constraint firstAttribute="bottom" secondItem="VNb-vu-WTM" secondAttribute="bottom" constant="2" id="drX-AO-eBY"/>
+                    <constraint firstItem="VNb-vu-WTM" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="2" id="kJY-WR-UQx"/>
+                    <constraint firstItem="VNb-vu-WTM" firstAttribute="leading" secondItem="VtE-h2-rgb" secondAttribute="trailing" constant="4" id="kxk-lm-B9w"/>
+                    <constraint firstAttribute="bottom" secondItem="vlm-Ls-doZ" secondAttribute="bottom" constant="2" id="tLK-ZI-AgY"/>
+                </constraints>
+            </tableViewCellContentView>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                    <real key="value" value="1"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="optionButton" destination="VNb-vu-WTM" id="gf9-8l-X3H"/>
+                <outlet property="titleLabel" destination="vlm-Ls-doZ" id="tYu-VA-seg"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>

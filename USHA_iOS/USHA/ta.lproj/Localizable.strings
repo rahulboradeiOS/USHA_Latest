@@ -1,0 +1,394 @@
+//Login ViewController
+"WELCOMETOSAMPARKPROGRAM" = "சம்பர்க் திட்டத்திற்கு வரவேற்கிறோம்";
+"GET OTP" = " ஓ டீ பி ஐப் பெறுக ";
+"REGISTER" = " ரெஜிஸ்டர் ";
+"ABOUT SAMPARK" = " சம்பார்க் பற்றி";
+//OTP VIEWCONTROLLER
+"Submit" = " சமர்ப்பி ";
+"RESEND OTP" = "ஓ டீ பி  ஐ மீட்டெடுக்கவும்";
+"FOR ANY HELP:18002660077" = " எந்த உதவிக்கும்:18002660077";
+//AccumulationReportDetailController
+"Selection Details" = "தேர்வு விவரங்கள்";
+//homeViewController
+"TotalBalance" = " மொத்த பேலன்ஸ்";
+"schemebalance" = " ஸ்கீம் பேலன்ஸ்";
+"GET OTP" = " ஓ டீ பி ஐப் பெறுக";
+"REGISTER" = " ரெஜிஸ்டர் ";
+//SET PASSWORD VIEWCONTROLLER
+"SAVE PASSWORD" = " பாஸ்வர்டை சேமிக்கவும் ";
+"SET PASSWORD" = " பாஸ்வர்டை சேமிக்கவும் ";
+
+"RESET PASSWORD" = "RESET PASSWORD";
+
+"PASSWORD POLICY" = " பாஸ்வர்ட் கொள்கை ";
+"SHOULD BE 8 - 12 CHARACTERS." = " 8 - 12 எழுத்துக்கள் இருக்க வேண்டும்.";
+"ONE NUMERICAL CHARACTER COMPULSORY (0-9)." = "கட்டாயமாக ஒரு எண் எழுத்து  (0-9).";
+"ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z)." = "ஒரு ஆல்பாபெட் கேரக்டர் கம்பல்சரி (A-Z, a-z).";
+"PASSWORD EXPIRES IN 90 DAYS." = " பாஸ்வர்ட் 90 நாட்களில் காலாவதியாகிறது.";
+//password ViewController
+"Forget/reset" = "பொற்கோட்/ பாஸ்வர்டை மீட்டமைக்க";
+//select schemeViewController
+"selectSchemes" = " ஸ்கீமைத் தேர்ந்தெடுக்கவும் ";
+"welcome" = " வரவேற்பு!";
+// PerfamanceViewController
+"perfamanceofthemonth" = " மாதத்தின் செயல்திறன் ";
+"SecondarySale" = " இரண்டாம் நிலை விற்பனை ";
+"POINTS" = " போய்ன்ட்ஸ் ";
+"up to date" = " புதுப்பித்த நிலையில் உள்ளது ";
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = " 16 வது ஆகஸ்ட் 2018 முதல் இலிருந்து கிடைக்கக்கூடிய ஸ்கீம் வைஸ் விவரங்கள் ";
+//CalanderViewController
+"Month" = " மாதம் ";
+"Year" = " ஆண்டு ";
+//Balance Details PopUpViewController
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "16 வது ஆகஸ்ட் 2018 முதல் இலிருந்து கிடைக்கக்கூடிய ஸ்கீம் வைஸ் விவரங்கள் ";
+"SCHEME" = " ஸ்கீம் ";
+"BALANCE" = " பேலன்ஸ்";
+//Not in system PopUpViewController
+"SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "16 வது ஆகஸ்ட் 2018 முதல் இலிருந்து கிடைக்கக்கூடிய ஸ்கீம் வைஸ் விவரங்கள் ";
+"SCHEME" = " ஸ்கீம் ";
+"BALANCE" = " பேலன்ஸ்";
+//AccumilationViewController
+"Announcement" = " அறிவிப்பு ";
+"View More " = " மேலும் பார்க்க ";
+"total_pins_scanned" = " மொத்த பீன்ஸ் ஸ்கேன் செய்தது ";
+"total_points_earned" = " சம்பாதித்த மொத்த போய்ன்ட்ஸ் ";
+"success_pins" = " சக்சஸ் பீன்ஸ் ";
+"consume_pins" = " பீன்ஸ்களை உட்கொள்ளுங்கள் ";
+"not_in_system_pins" = " பீன்ஸ் சிஸ்டமில் இல்லை ";
+"other_scheme_pins" = " மற்ற ஸ்கீம் பீன்ஸ் ";
+"not_permitted_as_distribution_pins" = " விநியோக ஊசிகளாக அனுமதிக்கப்படவில்லை ";
+"expired_pins" = " எக்ஸ்பைர்ட் பின்ஸ் ";
+//Survey ViewController
+"PENDING" = " நிலுவையிலுள்ளது ";
+"COMPLETED" = " நிறைவு ";
+//GET QUESTIONS VIEWCONTROLLER
+"LATER" = " பிறகு";
+//OTP POPUP VIEWCONTROLLER
+"Verify" = " சரிபார்க்கவும் ";
+"Enter otp we have sent otp to your phone number" = " உங்கள் தொலைபேசி எண்ணுக்கு நாங்கள் ஓ டீ பி அனுப்பியுள்ள ஓ டீ பி ஐ உள்ளிடவும் ";
+"Verify OTP" = " ஓ டீ பி ஐ சரிபார்க்கவும் ";
+//ACCUMILATION VIEWCONTROLLER
+"Known" = " அறியப்பட்ட ";
+"Unknown" = " தெரியாத";
+"NO. OF PINS SCANNED" = " பின்ஸ் எண்ணிக்கை ஸ்கேன் செய்யப்பட்டது ";
+"OR" = " அல்லது ";
+"SCAN" = " ஸ்கேன் ";
+"Pins" = " பின்ஸ் ";
+"Action" = " எக்ஸன் ";
+// Accumulation Summary Controller
+"ACCUMULATION SUMMARY" = " அக்யுமுலேஷன் சம்மரி ";
+"Accumulation Date:" = " அக்யுமுலேஷன் தேதி:";
+"TRANSACTION ID:" = " ட்ரான்ஸாக்ஷன் ஐடி:";
+"Note:pinStatus" = " குறிப்பு: -பின் வைஸ் விவரங்களைப் பெற கணக்கீட்டு நிலை என்பதைக் கிளிக் செய்க ";
+"continue" = " கண்டின்யு ";
+"sendsms" = " எஸ்எம்எஸ் அனுப்பவும் ";
+//AccumulationSummaryDetailViewController
+"ACCUMULATION SUMMARY" = " அக்யுமுலேஷன் சம்மரி ";
+"Accumulation Date :" = " அக்யுமுலேஷன் தேதி:";
+"TRANSACTION ID:" = " ட்ரான்ஸாக்ஷன் ஐடி:";
+"ViewSummery" = " வியூ சம்மரி ";
+//Gallery ViewController
+"GALLERY" = " கேலரி ";
+"PRODUCT VIDEOS" = " தயாரிப்பு வீடியோக்கள் ";
+//BankDetailViewController
+"Bank Name" = " பேங்க் பெயர் ";
+"Account No" = " அகௌண்ட் எண் ";
+"Status" = " ஸ்டேட்டஸ் ";
+"Cheque " = " செக் ";
+"Bank Details" = " பேங்க் விவரங்கள் ";
+"ADD NEW BANK DETAILS" = " புதிய பேங்க் விவரங்களைச் சேர்க்கவும் ";
+//AddBankAccountViewController
+"Add New Bank Details" = " புதிய பேங்க் விவரங்களைச் சேர்க்கவும்";
+"ENTER 10-25 DIGIT BANK ACCOUNT NO." = " 10-25 டிஜிட் பேங்க் அகௌண்ட் எண்ணை உள்ளிடவும்.";
+"ENTER IFSC CODE SHOULD BE 11 CHARACTERS" = " ஐ ஃப் எஸ் சி குறியீட்டை உள்ளிடுக 11 எழுத்துக்கள் இருக்க வேண்டும் ";
+"BANK NAME" = " பேங்க் பெயர் ";
+"BANK ADDRESS" = " பேங்க் முகவரி ";
+"NAME AS PER BANK ACCOUNT" = " பேங்க் அகௌண்ட் பெயரின் படி ";
+"Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted" = " குறிப்பு: அதிகபட்ச பதிவேற்ற ஆவண அளவு 3 எம்பிக்கு மேல் இருக்கக்கூடாது. பட வடிவங்கள் மட்டுமே. (jpg, tif, png, gif) மட்டுமே ஏற்றுக்கொள்ளப்படுகின்றன ";
+"BANK CHEQUE" = " பேங்க் செக் ";
+"UPLOAD" = " அப்லோடு ";
+" SUBMIT NEW BANK DETAILS " = " புதிய பேங்க் விவரங்களைச் சமர்ப்பிக்கவும் ";
+"CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME" = " செக் நிறுவனத்தில் பேங்க் பெயரின் பெயரில் இருக்க வேண்டும் என்பதை சரிபார்க்கவும் நிறுவனம் / பங்குதாரர் சொந்த பெயரின் பெயரில் இருக்க வேண்டும் ";
+//TransactionHistoryViewController
+"TRANSACTION HISTORY" = " ட்ரான்ஸாக்ஷன் வரலாறு ";
+"SELECT SCHEME" = " ஸ்கீமைத் தேர்ந்தெடுக்கவும் ";
+" START DATE" = " தொடக்க தேதி ";
+" END DATE" = " கடைசி தேதி ";
+"SELECT START DATE" = " தொடக்க தேதியைத் தேர்ந்தெடுக்கவும் ";
+"SELECT END DATE" = " இறுதி தேதியைத் தேர்ந்தெடுக்கவும் ";
+"VIEW" = " வியூ ";
+"NOTE" = " குறிப்பு ";
+"1. YOU CAN SELECT UPTO 31 DAYS HISTORY" = "நீங்கள் 6 மாத வரலாற்றைத் தேர்ந்தெடுக்கலாம் ";
+"2. ACC:- POINTS ACCUMULATED" = "2. ஏசிசி: -போய்ன்ட்ஸ் கணக்கிடப்படுகின்றன ";
+"3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES" = "3. சிவப்பு: - மாறுபட்ட முறைகள் மூலம் மீட்டெடுக்கப்பட்ட புள்ளிகள்";
+"4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS" = "4. 16 வது ஆகஸ்ட் 2018 முதல் இலிருந்து கிடைக்கக்கூடிய ஸ்கீம் வைஸ் விவரங்கள் ";
+//TransactionHistoryListViewController
+"TOTAL ACCUMULATION" = " மொத்த அக்யுமுலேஷன் ";
+"TOTAL REDEMPTION" = " மொத்த ரிடெம்ப்ஷன் ";
+"DATE" = " தேதி ";
+"SCHEME" = " ஸ்கீம் ";
+"PRODUCT" = " ப்ரொடக்ட் ";
+"POINTS" = " போய்ன்ட்ஸ் ";
+//NotificationViewController
+"NOTIFICATIONS" = " அறிவிப்புகள் ";
+"* All Notifications will expire in 30 days" = "* அனைத்து அறிவிப்புகளும் 30 நாட்களில் காலாவதியாகும் ";
+//NotificationDetailViewController
+"NOTIFICATIONS" = " அறிவிப்புகள் ";
+"* All Notifications will expire in 30 days" = "* அனைத்து அறிவிப்புகளும் 30 நாட்களில் காலாவதியாகும் ";
+"VIEW MORE" = " மேலும் பார்க்க ";
+//SchemeResultViewController
+"SSB SCHEME RESULT" = " எஸ் எஸ் பி ஸ்கீம் முடிவு ";
+"DOWNLOAD SCHEME BROCHURE" = " ஸ்கீம் புரோச்சரை பதிவிறக்கவும் ";
+"OK" = " ஓகே ";
+//OrderViewController
+"BY DIVISION/MG" = " டிவிஷன் மூலம் ";
+"BY MATERIAL CODE" = " பொருள் மூலம் ";
+"PRODUCT NOT FOUND" = " ப்ரொடக்ட் கண்டுபிடிக்கப்படவில்லை ";
+"NEXT" = " அடுத்த ";
+//OrderDetailViewController
+"Please select the follwing option for order processing" = "ஆர்டர் செயலாக்கத்திற்கான கீழை இருக்கிற விருப்பத்தைத் தேர்ந்தெடுக்கவும் ";
+"SELECT OPTION" = " விருப்பத்தைத் தேர்ந்தெடுக்கவும் ";
+"DEALER CODE / NAME" = " டீலர் கோட் / பெயர் ";
+"DEALER MOBILE" = " டீலர் மொபைல் ";
+"EXPECTED DELIVERY DATE" = " எதிர்பார்க்கப்பட்ட டெலிவரி தேதி ";
+"REMARK" = " கருத்து ";
+"NOPARTNERAVAILABLE" =  "NO PARTNER AVAILABLE";
+
+
+//UserProfileViewController
+"EDIT" = " எடிட் ";
+"Profile Under Edit" = "திருத்தத்தில் சுயவிவரம்/மீண்டும் செயல்படுத்தும் கோரிக்கை 48 மணி நேரம்,";
+"FIRM TYPE" = " நிறுவன வகை ";
+"FIRM NAME" = " நிறுவன பெயர் ";
+"OWNER NAME" = " உரிமையாளரின் பெயர் ";
+"MOBILE NO" = " மொபைல் எண் ";
+"RETAILER ID" = " RETAILER ஐடி ";
+"ADDRESS 1" = " முகவரி 1";
+"ADDRESS 2" = " முகவரி 2";
+"ADDRESS 3" = " முகவரி 3";
+"STATE" = " மாநிலம் ";
+"DISTRICT" = " மாவட்டம் ";
+"CITY" = " நகரம் ";
+"AREA" = " ஏரியா ";
+"PINCODE" = " பிணக்கோட் ";
+"BRANCH NAME" = " பிரான்ச் பெயர் ";
+"EMAIL" = " ஈமெயில் ";
+"AADHAR NO" = " ஆதார் என் ";
+"PAN NO" = " பேண் என் ";
+"GST TYPE" = " ஜிஎஸ்டி வகை ";
+"GST NO" = " ஜிஎஸ்டி என் ";
+"USER STATUS" = " யூசர் டைப் ";
+"USER SUB TYPE" = " யூசர் சப் டைப் ";
+"CURRENT STATUS" = " தற்போதைய நிலை ";
+"LAST ACTION DATE" = " கடைசி நடவடிக்கை தேதி ";
+"REG DATE" = " பதிவு தேதி ";
+"OWNER IMAGE" = " உரிமையாளர் படம் ";
+"AADHAR IMAGE" = " ஆதார் இமேஜ் ";
+"PAN IMAGE" = " பேண் இமேஜ் ";
+"GST IMAGE" = " ஜிஎஸ்டி இமேஜ் ";
+"SHOP IMAGE" = " ஷாப் இமேஜ் ";
+"OTHER IMAGE" = " அதற் இமேஜ் ";
+//LeftMenu
+"dashboard_menu" = " டாஷ்போர்டு ";
+"profile_menu" = " பயனர் சுயவிவரம் ";
+"accumulation_menu" = " அக்யுமுலேட் ";
+"redemption_menu" = " ரீடீம் ";
+"bank_details_menu" = " பேங்க் விவரங்கள் ";
+"transaction_history_menu" = " ட்ரான்ஸாக்ஷன் ஹிஸ்டரி ";
+"RETAILER_profolio" = "RETAILER PROFOLIO";
+"price_list_menu" = " விலை பட்டியல்கள் ";
+"select_scheme_menu" = " ஸ்கீமைத் தேர்ந்தெடுக்கவும் ";
+"aboutLoyalty" = "ABOUT LOYALTY";
+"contactUs" = "ENQUIRY";
+"sampark_web_menu" = " சாம்பார்க் வெப் ";
+"share_app_menu" = " ஏப் ஐப் பகிரவும் ";
+"sbt_scheme_result_menu" = " எஸ் எஸ் பி ஸ்கீம்  முடிவு ";
+"notification_menu" = " அறிவிப்புகள் ";
+"survey_menu" = " சர்வே ";
+"change_language_menu" = " மொழியை மாற்றுங்கள் ";
+"logout_menu" = " லோக் அவுட் ";
+"posm_serviceRequest" = " பி ஓ எஸ் எம் சேவை கோரிக்கை ";
+"serviceRequest" = " சேவை கோரிக்கை மற்றும் நிலை கோரிக்கை ";
+"kings_club" = " கிங்ஸ் கிளப் ஸ்கீம் ";
+"product_reg" = " ப்ரொடக்ட் பதிவு ";
+"place_order" = " ப்ரொடக்ட் பதிவு ";
+"scheme_intimation" = " திட்டத் தகவல் ";
+"dms_billing" = " டி.எம்.எஸ் பில்லிங் ";
+"gallery" = " கேலரி ";
+//LanguageChangeVC
+"WELCOME" = " நல்வரவு ";
+"Select_Language" = " மொழியை தேர்ந்தெடுங்கள் ";
+//REDEMPTIONViewController
+"VOUCHER" = " வவுச்சர் ";
+"TOP-UOP" = " டாப் அப் ";
+"BANK_TRANSFER" = " பேங்க் பரிமாற்றம் ";
+"VIEW_CART" = " கார்ட் காண்க ";
+"REDDEM" = " ரீடீம் ";
+//DMS BILLING
+"DIS_CODE" = " டிஸ் கோட் ";
+"DIVISION_NAME" = " டிவிஷன் பெயர் ";
+"INVOICE_DATE" = " விலைப்பட்டியல் தேதி ";
+"QUANTITY" = " குவான்டிட்டி ";
+"GROSS_AMT" = " முழுத் தொகை ";
+"INVOICE_STATUS" = " விலைப்பட்டியல் நிலை ";
+"DMS_SALE_DETAILS" = " டி.எம்.எஸ் விற்பனை விவரங்கள் ";
+"SELECT_DATE" = " தேதியைத் தேர்ந்தெடுக்கவும் ";
+"START_DATE" = " தொடக்க தேதி ";
+"END_DATE" = " கடைசி தேதி ";
+// SERVICE REQUEST
+"SERVICE_REQUEST" = " சேவை கோரிக்கை ";
+"SERVICE_STATUS" = " சேவை நிலை ";
+// POSM SERVICE REQUEST
+"POSM_SERVICE_REQUEST" = " பி ஓ எஸ் எம் சேவை கோரிக்கை ";
+"POSM_SERVICE_STATUS" = " பி ஓ எஸ் எம் சேவை நிலை ";
+//messagesAndError
+"userNotFound" = "USER பயனர் கண்டுபிடிக்கவில்லை! பிரெஞ்சில் தொடர்பு கொள்ளவும்!";
+"notRetailer" = " நீங்கள் ரிட்டைல்லராக பதிவு செய்யப்படவில்லை! தயவுசெய்து பதிவுசெய்க!";
+"notElectrician" = " நீங்கள் எலெக்ட்ரிசியனாக பதிவு செய்யப்படவில்லை! தயவுசெய்து பதிவுசெய்க!";
+"alreadyDeler" = " நீங்கள் ஏற்கனவே பதிவுசெய்த டீலர்!";
+"alreadyElectrician" = " நீங்கள் ஏற்கனவே பதிவுசெய்த ஏலேலக்ட்ரிசியன்!";
+"enterMobileNumber" = " மொபைல் எண்ணை உள்ளிடுக!";
+"enterValidMobileNumber" = " செல்லுபடியாகும் மொபைல் எண்ணை உள்ளிடுக!";
+"enterOtp" = " ஓ டீ பி ஐ உள்ளிடுக!";
+"enterValidOtp" = " சரியான ஓ டீ பி ஐ உள்ளிடுக!";
+"noInternetConnection_OTP" = " செயல்திறன் ஓ டீ பிக்கு இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_SUBMITOTP" = " ஓ டீ பி ஐ சமர்ப்பிக்க இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_ABOUT" = " சம்பார்க் பற்றி பார்வையிட இன்டர்நெட் தொடர்பு தேவை!";
+"enterPassword" = " பாஸ்வர்டை உள்ளிடுக!";
+"enterValidPassword" = " கீழே குறிப்பிடப்பட்டுள்ள கொள்கைக்கு பாஸ்வர்டை அமைக்கவும்!";
+"confirmPassword" = " பாஸ்வர்ட் பொருந்தாது ";
+"noInternetConnection_SETPASSWORD" = " கடவுச்சொல்லைச் சேமிக்க இன்டர்நெட் தொடர்பு தேவை ";
+"noInternetConnection_RESETPASSWORD" = " பாஸ்வர்டை மீட்டமைக்க இன்டர்நெட் தொடர்பு தேவை ";
+"noInternetConnection_SETPASSWORD" = " பாஸ்வர்டை அமைக்க இன்டர்நெட் தொடர்பு தேவை ";
+"noInternetConnection_RESETPASSWORD" = " பாஸ்வர்டை மீட்டமைக்க இன்டர்நெட் தொடர்பு தேவை ";
+"alreadyRetailer" = " நீங்கள் ஏற்கனவே ரீடைலராக பதிவு செய்யப்பட்டுள்ளீர்கள்!";
+"selectScheme" = " ஸ்கீமைத் தேர்ந்தெடுக்கவும்!";
+"loginFailed" = " லொகின் தோல்வியுற்றது!";
+"dataNotFound" = " தரவு இல்லை!";
+"somethingWentWrong" = " ஏதோ தவறு நடைபெற்றிருக்கிறது!";
+"credentailStatusNotFound" = " பயன்பாட்டு நற்சான்றிதழ் சேவை நிலை காணப்படவில்லை, பின்னர் மீண்டும் முயற்சிக்கவும்!";
+"sessionExpired" = " சேஷசன் எக்ஸ்பாயரானது, மீண்டும் முயற்சிக்கவும்!";
+"uididNotMatchPassword" = " உங்கள் மொபைல் எண் மற்றொரு சாதனத்தில் ஏற்கனவே பதிவுசெய்யப்பட்டுள்ளது இந்த சாதனத்தில் மீண்டும் மொபைல் எண்ணை பதிவு செய்ய நீங்கள் விரும்பினால், பயன்பாட்டை நிறுவல் நீக்கி மீண்டும் நிறுவவும். ";
+"uididNotMatch" = " இந்தச் சாதனத்தில் இந்தச் செயல்பாட்டைச் செய்வதற்கு நீங்கள் அங்கீகரிக்கப்படவில்லை, மற்றொரு சாதனத்தில் பதிவுசெய்யப்பட்ட மொபைல்!";
+"noAlreadyOnAnotherDevice" = "உங்கள் மொபைல் எண் மற்றொரு சாதனத்தில் ஏற்கனவே பதிவுசெய்யப்பட்டுள்ளது.இந்த சாதனத்தில் மீண்டும் மொபைல் எண்ணைப் பதிவு செய்ய விரும்புகிறீர்கள் என்பதைக் கிளிக் செய்க. முந்தைய சாதனத்தில் எந்தவொரு செயலையும் செய்ய நீங்கள் அங்கீகரிக்கப்படவில்லை!";
+"userNotVerified" = " உங்கள் சுயவிவரம் சரிபார்க்கப்படவில்லை. உங்கள் சுயவிவரத்தை சரிபார்க்க உங்கள் கிளை அல்லது விற்பனை நபரை தொடர்பு கொள்ளவும் அல்லது கூடுதல் தகவலுக்கு அழைக்கவும் 18002660077!";
+"serviceUnavailable" = " சேவை கிடைக்கவில்லை!";
+"userNotActive" = " உங்கள் தற்போதைய நிலை செயலற்றது!பிரெஞ்சில் தொடர்பு கொள்ளவும்!";
+"noInternetConnection" = " இன்டர்நெட் தொடர்பு இல்லை! இணையத்துடன் இணைக்கவும், மீண்டும் முயற்சிக்கவும்!";
+"pointRedeem" = " ரீடீம் பண்ணப்போற போய்ன்ட்ஸ் உள்ளிடுக!";
+"lessbalance" = " உள்ளீட்டை உள்ளிடுக சமநிலையை விட குறைவாக இருக்க வேண்டும்!";
+"amountbetween" = " 10.00 முதல் 10000.00 வரை தொகையை உள்ளிடவும்!";
+"savePendingTransaction" = " உங்கள் பின்ஸ் ஆஃப்லைனில் சேமிக்கப்பட்டுள்ளது. சமர்ப்பிக்க இன்டர்நெட் தொடர்பு தேவை!";
+"noBankAccount" = " பேங்க் அகௌண்ட் இல்லை! பேங்க் அகௌண்ட்டைச் சேர்க்கவும்!";
+"noApprovedBankAccount" = " அங்கீகரிக்கப்பட்ட பேங்க் அகௌண்ட் எதுவும் இல்லை! பிரென்ச் வும் இல்லை! கிளைக்க!";
+"noInternetConnection_REDEMPTION" = " செயல்திறன் மீட்புக்கு இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_ACCUMULATION" = " செயல்திறன் கணக்கீட்டிற்கு இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_DASHBOARD" = " டாஷ்போர்டைக் காண இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_BANKDETAILS" = " வங்கி விவரங்களைச் சேர்க்க / பார்வையிட இணைய தொடர்பு தேவை!";
+"noInternetConnection_TRANSACTIONHISTORY" = " பரிமாற்ற வரலாற்றைக் காண இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_PRICELIST" = " விலை பட்டியலைக் காண இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_ViewNotInSystem" = " சிஸ்டம் பின்ஸில் காண இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_SyncNotification" = " சிங்க் அறிவிப்புக்கு இன்டர்நெட் தொடர்பு தேவை! ";
+"noInternetConnection_SAMPARKWEB" = " சம்பார்க் வெப்பில் செல்ல இணைய தொடர்பு தேவை!";
+"noInternetConnection_SCEHEMERESULT" = " ஸ்கீம் முடிவைக் காண இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_SCEHEMERESULT_DOWNLOAD" = " ஸ்கீம் விவரங்களை பதிவிறக்கம் செய்ய இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_PROFILE" = " சுயவிவரத்தைக் காண இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_REFRESHBALANCE" = " சமநிலையைப் புதுப்பிக்க இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_SUAREY" = " சுர்வியைச் செய்ய இன்டர்நெட் தொடர்பு தேவை! ";
+"noInternetConnection_ORDER" = " ஆணையை நிறைவேற்ற இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_GALLERY" = " கேலரியைச் செயல்படுத்த இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_CHANGELANGUAGE" = " மொழியை மாற்ற இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_DMSBILLING" = " டி.எம்.எஸ்.பிளிங்கைச் செய்ய இன்டர்நெட் தொடர்பு தேவை!";
+"noDataAvailable" = " தரவு கிடைக்கவில்லை!";
+"bankAccountEmpty" = " பேங்க் அகௌண்ட் எண் காலியாக இருக்கக்கூடாது! ";
+"bankAccountNo10_25" = " 10-25 டிஜிட்டல் பேங்க் அகௌண்ட் உள்ளிடவும்!";
+"ifscEmpty" = " பேங்க் ஐ எப் எஸ் சி கோட் காலியாக இருக்கக்கூடாது!";
+"invalidIFSC" = " தவறான ஐ எப் எஸ் சி வடிவமைப்பு!";
+"ifsc11Digit" = " பேங்க் ஐ எப் எஸ் சி கோட்  11 இலக்கமாக இருக்க வேண்டும்!";
+"bankNameEmpty" = " பேங்க் பெயர் காலியாக இருக்கக்கூடாது!";
+"bankAddressEmpty" = " பேங்க் முகவரி காலியாக இருக்கக்கூடாது!";
+"accountHolderNameEmpty" = " அகௌண்ட் ஹோல்டர் பெயர் காலியாக இருக்கக்கூடாது!";
+"resetPassword" = " உங்கள் கடவுச்சொல் கடந்த 90 நாட்களில் இருந்து மீட்டமைக்கப்படவில்லை. சம்பர்க் திட்டத்தை அணுக கடவுச்சொல்லை மீட்டமைக்க வேண்டும்!";
+"pendingPinToAccumulate" = " ஆன்லைனில் கணக்கிட நீங்கள் பின்ஸ் வைத்திருக்கிறீர்கள்! தயவுசெய்து ஒத்திசைவு தரவு ஆன்லைன்!";
+"server_is_Busy" = " சர்வர் பிஸி! தாமதமாக முயற்சிக்கவும்!";
+"selectStartDate" = " தொடக்க தேதியைத் தேர்ந்தெடுக்கவும்!";
+"selectEndDate" = " இறுதி தேதியைத் தேர்ந்தெடுக்கவும்!";
+"selectChequesImage" = " படத்தைத் தேர்வுசெய்க!";
+"imageSize" = " பட அளவு 3 எம் பி அல்லது குறைவாக இருக்க வேண்டும்!";
+"imageUploaded" = " படத்தை பதிவேற்றியது வெற்றிகரமாக!";
+"enterCorrectPassword" = " சரியான பாஸ்வர்டை உள்ளிடுக!";
+"chqName" = " செக் நிறுவனத்தில் பேங்க் பெயரின் பெயரில் இருக்க வேண்டும் என்பதை சரிபார்க்கவும் நிறுவனம் / பங்குதாரர் சொந்த பெயரின் பெயரில் இருக்க வேண்டும் ! ";
+"pendingPinsToAccumulate" = " நீங்கள் கணக்கிட பொய்ண்ட்ஸ்களை வைத்திருக்கிறீர்கள்! சமர்ப்பிக்க கிளிக் செய்க!";
+"enterElectricalMobileNo" = " எலக்ட்ரிக் மொபைலை உள்ளிடவும்!";
+"enterValidElectricalMobileNo" = " செல்லுபடியாகும் மின் மொபைலை உள்ளிடவும்!";
+"enterPin" = " பின்னை உள்ளிடவும்!";
+"sendSMS" = " எஸ்.எம்.எஸ் அனுப்பவும் / உங்கள் பதிவுகளுக்கான கணக்கீட்டு நிலையை சேமிக்கவும், ஒருமுறை பின் ஒத்திசைவு தரவைக் காண முடியாது. வீட்டிற்குச் செல்ல கிளிக் செய்க! பின்!";
+"noHistory" = " தேர்ந்தெடுக்கப்பட்ட தேதிகளுக்கு இடையில் எந்த பரிமாற்றமும் இல்லை!";
+"switchScheme" = " நீங்கள் உண்மையில் மற்ற திட்டங்களைத் தேர்ந்தெடுக்க விரும்புகிறீர்களா? ";
+
+
+//    "DO YOU REALLY WANT TO SWITCH SCHEME!"
+"doYouWantExit" = " நீங்கள் உண்மையில் வெளியேற விரும்புகிறீர்களா!";
+"doYouWantLogout" = " நீங்கள் உண்மையில் வெளியேற விரும்புகிறீர்களா!";
+// LOGOUT!"
+"appUpdate" = " சாம்பாக்கின் புதிய பதிப்பு கிடைக்கிறது. தயவுசெய்து புதுப்பிக்கவும்!";
+"notificationNoAttachment" = " அணுகல் நிதி இல்லை ";
+"schemeResultDataNotFound" = " தரவு இல்லை!";
+"pendingsurvey" = " நீங்கள் நிலுவையில் உள்ளீர்கள் நிரப்ப விரும்புகிறீர்களா?";
+//order
+"addProduct" = " ப்ரொடக்ட் கண்டுபிடிக்கப்படவில்லை! தயாரிப்புக்கு தயாரிப்பு சேர்க்கவும் ";
+"valueNotFound" = " எந்த மதிப்பும் இல்லை!";
+"productNotFound" = " ப்ரொடக்ட் கண்டுபிடிக்கப்படவில்லை ";
+"selectDealer" = " டீலரைத் தேர்ந்தெடுக்கவும்!";
+"enterDealerName" = " டீலர் பெயர் / கோட் உள்ளிடுக ";
+"enterDealerMobile" = " டீலர் மொபைல் எண்ணை உள்ளிடவும் ";
+"dealerNotFound" = " ஒப்பந்தக்காரர் வேறு ஒன்றைத் தேர்ந்தெடுக்க வேண்டாம்!";
+"enterRemark" = " குறிப்பை உள்ளிடுக ";
+"productListErrorMsg" = "IF YOU HAVE ITEMS IN ORDER CART, THEN CART WILL BE EMPTY!";
+"productListPreviousPage" = "DO YOU WANT TO GO TO PREVIOUS PAGE!";
+"doyouwanttodelete" = "DO YOU REALLY WANT TO REMOVE THIS ITEM FROM CART!";
+
+//Regitration
+"selectFirmType" = " நிறுவன வகையைத் தேர்ந்தெடுக்கவும் ";
+"enterFirmName" = " நிறுவன பெயரை உள்ளிடுக!";
+"enterOwnerName" = " உரிமையாளரின் முழு பெயரை உள்ளிடுக!";
+"enterAddress" = " நிறுவன முகவரியை உள்ளிடவும்!";
+"selectSate" = " மாநிலத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectDistrict" = " மாவட்டத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectCity" = " நகரத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectArea" = "தயவுசெய்து பகுதியைத் தேர்ந்தெடுக்கவும்!";
+"enterPinCode" = " பிணக்கோட் ஐ உள்ளிடுக!";
+"validPinCode" = " செல்லுபடியாகும் பின்கோடை உள்ளிடவும்!";
+"selectBranchName" = " பிரென்ச் பெயரைத் தேர்ந்தெடுக்கவும்!";
+"selectBranch" = " பிரென்ச் பெயரைத் தேர்ந்தெடுக்கவும்!";
+"enterEmail" = " ஈமெயில் முகவரியை உள்ளிடுக!";
+"enterValidEmail" = " செல்லுபடியாகும் ஈமெயில் முகவரியை உள்ளிடவும்!";
+"enterRetailerSapCode" = " ரீடைலர் எஸ் எ பி கோட் உள்ளிடுக!";
+"enterAadharNo" = " ஆதார் எண்ணை உள்ளிடுக!";
+"validAadherNo" = " செல்லுபடியாகும் ஆதர் எண்ணை உள்ளிடவும்!";
+"enterPanNo" = " பேண் கார்டு எண்ணை உள்ளிடவும்!";
+"validPanNO" = " செல்லுபடியாகும் பேண் எண்ணை உள்ளிடவும்!";
+"selectGstType" = " ஜிஎஸ்டி வகையைத் தேர்ந்தெடுக்கவும்!";
+"enterGstNO" = " ஜிஎஸ்டி எண்ணை உள்ளிடவும்!";
+"enterValidGstNO" = " செல்லுபடியாகும் ஜிஎஸ்டி எண்ணை உள்ளிடவும்!";
+"selectParentChildStaus" = " பெற்றோர் குழந்தை ஸ்டாஸைத் தேர்ந்தெடுக்கவும் ";
+"enterParentMobileNo" = " பெற்றோர் மொபைல் எண்ணை உள்ளிடவும்!";
+"selectOwnerImage" = " உரிமையாளர் படத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectAadherImage" = " ஆதார் படத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectPanImage" = " பேண் படத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectGstIamge" = " ஜிஎஸ்டி படத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectShopImage" = " ஷாப் படத்தைத் தேர்ந்தெடுக்கவும்!";
+"selectOtherImage" = " பிற படத்தைத் தேர்ந்தெடுக்கவும்!";
+"noInternetConnection_REDEEMVOUCHER" = " வவுச்சரை மீட்டெடுக்க இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_MOBILETOPUP" = " மொபைல் டாப்அப் செய்ய இன்டர்நெட் தொடர்பு தேவை!";
+"noInternetConnection_BANKTRANSFER" = " செயல்திறன் வங்கி பரிமாற்றத்திற்கு இன்டர்நெட் தொடர்பு தேவை!";
+"selectOpretor" = " ஆபரேட்டரைத் தேர்ந்தெடுக்கவும்!";
+"rechargeAmountBetween" = " 1.00 முதல் 1000.00 வரை உள்ளிடப்பட்ட தொகை!";
+"voucherAdded" = " வவுச்சர் கேரட்டில் சேர்க்கப்பட்டுள்ளது!";
+"voucherAddedFailed" = " கேரட்டில் வவுச்சரைச் சேர்க்கத் தவறிவிட்டது!";
+"voucherDelete" = " வவுச்சரை கேரட்டில் இருந்து நீக்க விரும்புகிறீர்களா?!";
+"TOTAL AMOUNT SHOULD BE LESS THAN BALANCE" = " மொத்த தொகை சமநிலையை விட குறைவாக இருக்க வேண்டும் ";
+"TOTAL AMOUNT BETWEEN 10.00 TO 1000.00!" = " 10.00 முதல் 1000.00 வரை மொத்த தொகை!";
+"OK" = " ஓகே ";
+"NO" = " நோ ";
+"YES" = " யெஸ் ";

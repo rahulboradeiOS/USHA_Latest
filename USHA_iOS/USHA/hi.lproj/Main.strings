@@ -1,0 +1,1010 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "01a-eZ-vyQ"; */
+"01a-eZ-vyQ.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "09d-2D-4zp"; */
+"09d-2D-4zp.text" = "दिनांक";
+
+/* Class = "UILabel"; text = "4. SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS"; ObjectID = "0OG-bV-YX7"; */
+"0OG-bV-YX7.text" = "4. 16 वें अगस्त 2018 से उपलब्ध विस्तृत विवरण";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "0OT-Wx-9lO"; */
+"0OT-Wx-9lO.text" = "180 2660 077";
+
+/* Class = "UITextField"; placeholder = "SELECT DIVISION"; ObjectID = "0Od-ou-yQH"; */
+"0Od-ou-yQH.placeholder" = "चयन प्रभाग";
+
+/* Class = "UITextField"; placeholder = "ADDRESS*"; ObjectID = "0Oo-9E-qdi"; */
+"0Oo-9E-qdi.placeholder" = "पता";
+
+/* Class = "UILabel"; text = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS "; ObjectID = "0Tu-Sc-daT"; */
+"0Tu-Sc-daT.text" = "16 वें अगस्त 2018 से उपलब्ध विस्तृत विवरण";
+
+/* Class = "UITextField"; placeholder = "WEB*"; ObjectID = "0cE-wg-NCp"; */
+"0cE-wg-NCp.placeholder" = "WEB*";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "0pV-yL-yps"; */
+"0pV-yL-yps.text" = "महीना";
+
+/* Class = "UILabel"; text = "Account No"; ObjectID = "0qN-g6-rfo"; */
+"0qN-g6-rfo.text" = "खाता संख्या";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Cm-tV-1s8"; */
+"1Cm-tV-1s8.text" = "लेबल";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "1GV-yQ-yOB"; */
+"1GV-yQ-yOB.text" = "या";
+
+/* Class = "UILabel"; text = "SELECT SCHEME"; ObjectID = "1Jj-Zl-qQC"; */
+"1Jj-Zl-qQC.text" = "चुनें स्कीम";
+
+/* Class = "UIButton"; normalTitle = " Refresh"; ObjectID = "1wh-Dt-TJg"; */
+"1wh-Dt-TJg.normalTitle" = " ताज़ा करना";
+
+/* Class = "UILabel"; text = "CreatedBy"; ObjectID = "20t-QC-CpK"; */
+"20t-QC-CpK.text" = "के द्वारा बनाई गई";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "26h-T7-rcK"; */
+"26h-T7-rcK.text" = "लेबल";
+
+/* Class = "UITextField"; placeholder = "SELECT OPTION"; ObjectID = "2SW-Kw-snB"; */
+"2SW-Kw-snB.placeholder" = "SELECT PARTNER";
+
+/* Class = "UILabel"; text = "APP VERSION : "; ObjectID = "2Z0-YM-20W"; */
+"2Z0-YM-20W.text" = "एप्लिकेशन वेरीज़न : ";
+
+/* Class = "UILabel"; text = "1)"; ObjectID = "2bI-Yf-CnN"; */
+"2bI-Yf-CnN.text" = "1)";
+
+/* Class = "UILabel"; text = "SCHEME"; ObjectID = "2eC-c3-UDK"; */
+"2eC-c3-UDK.text" = "योजना";
+
+/* Class = "UILabel"; text = "SAMPARK"; ObjectID = "2hI-9x-0q8"; */
+"2hI-9x-0q8.text" = "RETAILER";
+
+/* Class = "UILabel"; text = "TOTAL BALANCE"; ObjectID = "37B-wN-wtd"; */
+"37B-wN-wtd.text" = "कुल शेष";
+
+/* Class = "UITextField"; placeholder = "ENTER 12 DIGIT NUMERIC PIN "; ObjectID = "3bR-Hg-wHX"; */
+"3bR-Hg-wHX.placeholder" = "10 DIGIT NUMERIC पिन डालें ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "3cA-M2-i4I"; */
+"3cA-M2-i4I.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "LATER"; ObjectID = "40L-5C-bwO"; */
+"40L-5C-bwO.normalTitle" = "बाद में";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "4rd-ud-9GU"; */
+"4rd-ud-9GU.text" = "0.00";
+
+/* Class = "UILabel"; text = "Profile Verified:"; ObjectID = "5Ke-Jy-phl"; */
+"5Ke-Jy-phl.text" = "PROFILE VERIFIED:";
+
+/* Class = "UILabel"; text = "Accumulation Date :"; ObjectID = "5L0-Mx-exn"; */
+"5L0-Mx-exn.text" = "संचय दिनांक :";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "5Tf-gq-GU6"; */
+"5Tf-gq-GU6.text" = "बैंक विवरण";
+
+/* Class = "UILabel"; text = "3. RED:- POINTS REDEEMED THROUGH DIFFERENT MODES"; ObjectID = "5bX-dx-9zB"; */
+"5bX-dx-9zB.text" = "3. लाल: - अंक को अलग अलग मोड से कम किया जाता है";
+
+/* Class = "UILabel"; text = "FullName"; ObjectID = "645-Lu-A1F"; */
+"645-Lu-A1F.text" = "पूरा नाम";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6LX-iy-loG"; */
+"6LX-iy-loG.text" = "लेबल";
+
+/* Class = "UILabel"; text = "FOR ANY HELP"; ObjectID = "6R8-RR-AiQ"; */
+"6R8-RR-AiQ.text" = "किसी भी मदद के लिए";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "6aB-Tf-n7Y"; */
+"6aB-Tf-n7Y.text" = "हमारे बारे में";
+
+/* Class = "UILabel"; text = "up to date"; ObjectID = "6es-8z-fSp"; */
+"6es-8z-fSp.text" = "आधुनिक";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6j8-1x-ARk"; */
+"6j8-1x-ARk.text" = "शीर्षक";
+
+/* Class = "UILabel"; text = "FIRM TYPE"; ObjectID = "6jg-mX-wAu"; */
+"6jg-mX-wAu.text" = "दृढ़ प्रकार";
+
+/* Class = "UILabel"; text = "ADDRESS 2"; ObjectID = "6k0-M7-kXR"; */
+"6k0-M7-kXR.text" = "पता 2";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "6lh-VT-gcy"; */
+"6lh-VT-gcy.text" = "0.00";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "728-D7-4wh"; */
+"728-D7-4wh.normalTitle" = "रद्द करना";
+
+/* Class = "UITextField"; placeholder = "ENTER POINTS TO BE REDEEM"; ObjectID = "7A7-2b-tUR"; */
+"7A7-2b-tUR.placeholder" = "Redeem करने के लिए बिंदु दर्ज करें";
+
+/* Class = "UILabel"; text = "GST IMAGE"; ObjectID = "7OR-BF-g3A"; */
+"7OR-BF-g3A.text" = "जीएसटी छवि";
+
+/* Class = "UILabel"; text = "Enter otp we have sent otp to your phone number"; ObjectID = "7V4-SR-AZQ"; */
+"7V4-SR-AZQ.text" = "ओटीपी दर्ज करें हमने आपके फोन नंबर पर ओटीपी भेजा है";
+
+/* Class = "UILabel"; text = " "; ObjectID = "7VQ-ZB-Seu"; */
+"7VQ-ZB-Seu.text" = "";
+
+/* Class = "UILabel"; text = "Enter your Mobile No. to login or Simply Register"; ObjectID = "7Xo-j5-GYn"; */
+"7Xo-j5-GYn.text" = "लॉगिन या सिंपली रजिस्टर करने के लिए अपना मोबाइल नंबर दर्ज करें";
+
+/* Class = "UILabel"; text = "PASSWORD EXPIRES IN 90 DAYS."; ObjectID = "7ur-Z7-3Fm"; */
+"7ur-Z7-3Fm.text" = "90 दिनों में पास किए गए परिणाम.";
+
+/* Class = "UITextField"; placeholder = "WEB*"; ObjectID = "8fh-ij-G9x"; */
+"8fh-ij-G9x.placeholder" = "WEB*";
+
+/* Class = "UILabel"; text = "ACCUMULATION SUMMARY"; ObjectID = "8gW-2z-eHS"; */
+"8gW-2z-eHS.text" = "गणना सारांश";
+
+/* Class = "UIButton"; normalTitle = "हिंदी"; ObjectID = "8kF-iP-yRu"; */
+"8kF-iP-yRu.normalTitle" = "हिंदी";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "8mP-MA-mfS"; */
+"8mP-MA-mfS.text" = "महीना";
+
+/* Class = "UILabel"; text = "CURRENT STATUS"; ObjectID = "90e-oM-uMl"; */
+"90e-oM-uMl.text" = "वर्तमान स्थिति";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "95P-jR-JxG"; */
+"95P-jR-JxG.text" = "संदेश";
+
+/* Class = "UILabel"; text = "Net Eligible Points Under STB Scheme After Redemption"; ObjectID = "97N-UM-8m7"; */
+"97N-UM-8m7.text" = "मोचन के बाद एसटीबी योजना के तहत नेट योग्य अंक";
+
+/* Class = "UISegmentedControl"; 9CZ-0x-arc.segmentTitles[0] = "GALLERY"; ObjectID = "9CZ-0x-arc"; */
+"9CZ-0x-arc.segmentTitles[0]" = "गेलरी";
+
+/* Class = "UISegmentedControl"; 9CZ-0x-arc.segmentTitles[1] = "PRODUCT VIDEOS"; ObjectID = "9CZ-0x-arc"; */
+"9CZ-0x-arc.segmentTitles[1]" = "उत्पाद वीडियो";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "9Dh-fM-Fha"; */
+"9Dh-fM-Fha.normalTitle" = "रद्द करना";
+
+/* Class = "UILabel"; text = "ABOUT SAMPARK PROGRAM"; ObjectID = "9Ni-xr-5Sw"; */
+"9Ni-xr-5Sw.text" = "RETAILER कार्यक्रम के बारे में";
+
+/* Class = "UILabel"; text = "SCHEME BALANCE"; ObjectID = "A2z-SK-JZc"; */
+"A2z-SK-JZc.text" = "स्कीम बैलेंस";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "APf-Sl-qT2"; */
+"APf-Sl-qT2.text" = "लेबल";
+
+/* Class = "UILabel"; text = "STATE"; ObjectID = "Ama-8P-klz"; */
+"Ama-8P-klz.text" = "राज्य";
+
+/* Class = "UILabel"; text = "Secondary Sale"; ObjectID = "BJI-D2-TYd"; */
+"BJI-D2-TYd.text" = "माध्यमिक बिक्री";
+
+/* Class = "UILabel"; text = "LAST ACTION DATE"; ObjectID = "BZ5-Cg-3QJ"; */
+"BZ5-Cg-3QJ.text" = "अंतिम कार्रवाई तिथि";
+
+/* Class = "UILabel"; text = "DISTRICT"; ObjectID = "BdO-Ed-Z5r"; */
+"BdO-Ed-Z5r.text" = "जिला";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "Bkx-as-CHB"; */
+"Bkx-as-CHB.text" = "0.00";
+
+/* Class = "UILabel"; text = "Pins"; ObjectID = "BxA-0L-O3f"; */
+"BxA-0L-O3f.text" = "पिंस";
+
+/* Class = "UILabel"; text = "BALANCE"; ObjectID = "C2B-gp-iIf"; */
+"C2B-gp-iIf.text" = "संतुलन";
+
+/* Class = "UILabel"; text = "APP VERSION : "; ObjectID = "CNR-Ga-1Cc"; */
+"CNR-Ga-1Cc.text" = "एप्लिकेशन वेरीज़न : ";
+
+/* Class = "UIButton"; normalTitle = " SCAN"; ObjectID = "CNr-pQ-9yc"; */
+"CNr-pQ-9yc.normalTitle" = " स्कैन";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "CPY-7y-QJg"; */
+"CPY-7y-QJg.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = " "; ObjectID = "CSC-h3-5PK"; */
+"CSC-h3-5PK.text" = " ";
+
+/* Class = "UITextField"; placeholder = "USER STATUS*"; ObjectID = "CTl-pF-UjI"; */
+"CTl-pF-UjI.placeholder" = "उपयोगकर्ता की स्थिति*";
+
+/* Class = "UILabel"; text = "00000000000"; ObjectID = "Ch7-nf-4Fi"; */
+"Ch7-nf-4Fi.text" = "00000000000";
+
+/* Class = "UILabel"; text = "Profile Verified:"; ObjectID = "D1u-jI-UOg"; */
+"D1u-jI-UOg.text" = "प्रोफ़ाइल सत्यापित:";
+
+/* Class = "UILabel"; text = "OWNER NAME"; ObjectID = "DeE-Ww-18p"; */
+"DeE-Ww-18p.text" = "मालिक का नाम";
+
+/* Class = "UILabel"; text = "BRANCH NAME"; ObjectID = "DrW-yE-nuF"; */
+"DrW-yE-nuF.text" = "शाखा का नाम";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "E0c-be-NRA"; */
+"E0c-be-NRA.text" = "मोबाइल";
+
+/* Class = "UILabel"; text = "NO. OF PINS SCANNED"; ObjectID = "ELf-1y-ufs"; */
+"ELf-1y-ufs.text" = "पिन की संख्या स्कैन की गई";
+
+/* Class = "UILabel"; text = "WELCOME TO SAMPARK PROGRAM"; ObjectID = "ER9-zz-S2o"; */
+"ER9-zz-S2o.text" = "RETAILER कार्यक्रम में आपका स्वागत है";
+
+/* Class = "UITextField"; placeholder = "ENTER PASSWORD"; ObjectID = "Edr-jp-VsS"; */
+"Edr-jp-VsS.placeholder" = "पास वर्ड दर्ज करें";
+
+/* Class = "UILabel"; text = "Current_Balance: 360.20"; ObjectID = "EjD-QO-7Rd"; */
+"EjD-QO-7Rd.text" = "वर्तमान शेष: 360.20";
+
+/* Class = "UILabel"; text = "SET PASSWORD"; ObjectID = "FMV-r2-UIX"; */
+"FMV-r2-UIX.text" = "पासवर्ड सेव करें";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "FSQ-xg-xSO"; */
+"FSQ-xg-xSO.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = "Product"; ObjectID = "FuE-8b-4Xf"; */
+"FuE-8b-4Xf.text" = "उत्पाद";
+
+/* Class = "UILabel"; text = "CurrentStatus"; ObjectID = "FxZ-Fh-hxI"; */
+"FxZ-Fh-hxI.text" = "वर्तमान स्थिति";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "FzC-2R-RC3"; */
+"FzC-2R-RC3.title" = "डैशबोर्ड";
+
+/* Class = "UITextField"; placeholder = "BANK NAME"; ObjectID = "G0o-Kp-qhY"; */
+"G0o-Kp-qhY.placeholder" = "बैंक का नाम";
+
+/* Class = "UIButton"; normalTitle = "GET OTP"; ObjectID = "GZu-FL-JQQ"; */
+"GZu-FL-JQQ.normalTitle" = "ओटीपी प्राप्त करें";
+
+/* Class = "UILabel"; text = "SCHEME"; ObjectID = "GlW-il-ZEo"; */
+"GlW-il-ZEo.text" = "योजना";
+
+/* Class = "UIButton"; normalTitle = "  RESEND OTP"; ObjectID = "Gs5-KS-6r0"; */
+"Gs5-KS-6r0.normalTitle" = "  परिणाम OTP";
+
+/* Class = "UITextField"; placeholder = "STATE*"; ObjectID = "GsZ-wn-8r6"; */
+"GsZ-wn-8r6.placeholder" = "राज्य*";
+
+/* Class = "UILabel"; text = "Announcement"; ObjectID = "H5Y-NY-ucM"; */
+"H5Y-NY-ucM.text" = "घोषणा";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "HHU-eL-pBc"; */
+"HHU-eL-pBc.normalTitle" = "होम";
+
+/* Class = "UILabel"; text = "PINCODE"; ObjectID = "HV5-hN-FU5"; */
+"HV5-hN-FU5.text" = "पिन कोड";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Hjd-Kc-q71"; */
+"Hjd-Kc-q71.text" = ":";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Ht6-hR-UNV"; */
+"Ht6-hR-UNV.text" = " ";
+
+/* Class = "UILabel"; text = "FOR ANY HELP"; ObjectID = "Hwt-my-4bb"; */
+"Hwt-my-4bb.text" = "किसी भी मदद के लिए";
+
+/* Class = "UILabel"; text = "FullName"; ObjectID = "IMi-Zz-tn5"; */
+"IMi-Zz-tn5.text" = "पूरा नाम";
+
+/* Class = "UILabel"; text = "WELCOME TO SAMPARK PROGRAM"; ObjectID = "Imb-Dy-qB0"; */
+"Imb-Dy-qB0.text" = "RETAILER कार्यक्रम में आपका स्वागत है";
+
+/* Class = "UILabel"; text = "GST NO"; ObjectID = "Iop-wh-k21"; */
+"Iop-wh-k21.text" = "जीएसटी नं";
+
+/* Class = "UILabel"; text = "WELCOME!"; ObjectID = "J09-lx-OSm"; */
+"J09-lx-OSm.text" = "WELCOME!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JPG-mo-bXR"; */
+"JPG-mo-bXR.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "JZZ-vd-tFU"; */
+"JZZ-vd-tFU.text" = "भाषा चुनिए";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Jbt-wG-RdJ"; */
+"Jbt-wG-RdJ.text" = ":";
+
+/* Class = "UIButton"; normalTitle = " Verify OTP"; ObjectID = "JcF-5t-ze2"; */
+"JcF-5t-ze2.normalTitle" = " OTP को सत्यापित करें";
+
+/* Class = "UITextField"; placeholder = "PARENT CHILD STATUS"; ObjectID = "JfQ-X0-Mm4"; */
+"JfQ-X0-Mm4.placeholder" = "स्थायी बच्चे की स्थिति";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "Jj3-zJ-3DL"; */
+"Jj3-zJ-3DL.text" = "हमारे बारे में";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "JkL-Uo-FLV"; */
+"JkL-Uo-FLV.text" = "•";
+
+/* Class = "UILabel"; text = "BusinessName"; ObjectID = "KFM-kn-Wzi"; */
+"KFM-kn-Wzi.text" = "व्यवास्यक नाम";
+
+/* Class = "UITextField"; placeholder = "BANK CHEQUE"; ObjectID = "KN5-A0-BId"; */
+"KN5-A0-BId.placeholder" = "बैंक का चेक";
+
+/* Class = "UILabel"; text = " "; ObjectID = "KWg-Oo-3TW"; */
+"KWg-Oo-3TW.text" = " ";
+
+/* Class = "UILabel"; text = "Hello Parag"; ObjectID = "Kb1-SN-BCt"; */
+"Kb1-SN-BCt.text" = "हैलो नवीन";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "Kn1-1A-xj7"; */
+"Kn1-1A-xj7.text" = "180 2660 077";
+
+/* Class = "UILabel"; text = "ONE NUMERICAL CHARACTER COMPULSORY (0-9)."; ObjectID = "L2U-a6-cok"; */
+"L2U-a6-cok.text" = "एक न्यूमेरिकल चार्ज कंपाउंडरी (0-9).";
+
+/* Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "LJB-sx-Px7"; */
+"LJB-sx-Px7.normalTitle" = "पासवर्ड को बचाओ";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "LYS-mW-F2i"; */
+"LYS-mW-F2i.text" = "0.0";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "Lrz-6v-00p"; */
+"Lrz-6v-00p.text" = "•";
+
+/* Class = "UILabel"; text = "OWNER IMAGE"; ObjectID = "MWf-nT-ctV"; */
+"MWf-nT-ctV.text" = "ऑवरर इमेज";
+
+/* Class = "UILabel"; text = "LastActivationDate"; ObjectID = "Md0-ZK-YXA"; */
+"Md0-ZK-YXA.text" = "अंतिम सक्रियण तिथि";
+
+/* Class = "UITextField"; placeholder = "REMARK"; ObjectID = "MfT-vY-SrP"; */
+"MfT-vY-SrP.placeholder" = "टिप्पणी";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "O1v-ZE-h4c"; */
+"O1v-ZE-h4c.title" = "डैशबोर्ड";
+
+/* Class = "UIButton"; normalTitle = " SUBMIT NEW BANK DETAILS "; ObjectID = "OFQ-Fh-Ozz"; */
+"OFQ-Fh-Ozz.normalTitle" = " नया बैंक विवरण जमा करें";
+
+/* Class = "UILabel"; text = "DATE"; ObjectID = "OOR-k0-QUW"; */
+"OOR-k0-QUW.text" = "दिनांक";
+
+/* Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "OU5-BO-JGk"; */
+"OU5-BO-JGk.normalTitle" = "संपादित करें";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "OX8-yZ-u7U"; */
+"OX8-yZ-u7U.placeholder" = "मात्रा";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PBe-NH-Z6r"; */
+"PBe-NH-Z6r.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Bank Name:"; ObjectID = "PIg-KS-3Qg"; */
+"PIg-KS-3Qg.text" = "बैंक का नाम:";
+
+/* Class = "UILabel"; text = "SCHEME BALANCE"; ObjectID = "PQ0-RI-pZy"; */
+"PQ0-RI-pZy.text" = "RETAILER बैलेंस";
+
+/* Class = "UILabel"; text = "POINTS"; ObjectID = "PQM-qp-Gg5"; */
+"PQM-qp-Gg5.text" = "अंक";
+
+/* Class = "UIButton"; normalTitle = "MONTH"; ObjectID = "PWB-Za-4cS"; */
+"PWB-Za-4cS.normalTitle" = "महीना";
+
+/* Class = "UILabel"; text = "FIRM NAME"; ObjectID = "PWb-Vi-n8o"; */
+"PWb-Vi-n8o.text" = "फर्म का नाम";
+
+/* Class = "UILabel"; text = "Cheque "; ObjectID = "PaM-1f-RLC"; */
+"PaM-1f-RLC.text" = "चेक ";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "PlJ-zA-HbH"; */
+"PlJ-zA-HbH.title" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "Pqh-gc-KQ7"; */
+"Pqh-gc-KQ7.text" = "180 2660 077";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "Q7G-3L-fCt"; */
+"Q7G-3L-fCt.text" = ":";
+
+/* Class = "UITextField"; placeholder = "RETAILER ID*"; ObjectID = "QWT-HS-GlU"; */
+"QWT-HS-GlU.placeholder" = "RETAILER ID*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qu2-c2-xnK"; */
+"Qu2-c2-xnK.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "R4L-wC-Ku0"; */
+"R4L-wC-Ku0.text" = "दिनांक";
+
+/* Class = "UILabel"; text = "PAN IMAGE"; ObjectID = "R4f-IH-x17"; */
+"R4f-IH-x17.text" = "पैन इमेज";
+
+/* Class = "UILabel"; text = "APP VERSION :"; ObjectID = "R4t-Uc-X53"; */
+"R4t-Uc-X53.text" = "एप्लिकेशन वेरीज़न :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RDp-ye-TeJ"; */
+"RDp-ye-TeJ.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Rf4-Xy-s1r"; */
+"Rf4-Xy-s1r.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = "2. ACC:- POINTS ACCUMULATED"; ObjectID = "Rjm-FZ-2Zl"; */
+"Rjm-FZ-2Zl.text" = "2. ACC:- POINTS ACCUMULATED";
+
+/* Class = "UILabel"; text = "Mobile No:"; ObjectID = "S97-2c-dG2"; */
+"S97-2c-dG2.text" = "मोबाइल नंबर:";
+
+/* Class = "UITextField"; placeholder = "OWNER NAME*"; ObjectID = "SkA-X6-MIH"; */
+"SkA-X6-MIH.placeholder" = "मालिक का नाम*";
+
+/* Class = "UILabel"; text = "CITY"; ObjectID = "Swa-GG-wOb"; */
+"Swa-GG-wOb.text" = "शहर";
+
+/* Class = "UILabel"; text = "NOTE:-CLICK ACCUMULATION STATUS TO GET PIN WISE DETAILS"; ObjectID = "T0o-EO-lJ3"; */
+"T0o-EO-lJ3.text" = "नोट: - पिन वाइज विवरण प्राप्त करने के लिए सटीक स्थिति पर क्लिक करें";
+
+/* Class = "UITextField"; placeholder = "EXPECTED DELIVERY DATE"; ObjectID = "T2R-Hl-awz"; */
+"T2R-Hl-awz.placeholder" = "अपेक्षित वितरण की तारीख";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "TOe-OA-3BF"; */
+"TOe-OA-3BF.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = "USER STATUS"; ObjectID = "TWN-lU-SWE"; */
+"TWN-lU-SWE.text" = "उपयोगकर्ता की स्थिति";
+
+/* Class = "UILabel"; text = "APP VERSION : "; ObjectID = "ToY-MK-H1g"; */
+"ToY-MK-H1g.text" = "एप्लिकेशन वेरीज़न : ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Tp8-5C-Fuf"; */
+"Tp8-5C-Fuf.text" = " ";
+
+/* Class = "UILabel"; text = "TRANSACTION ID:"; ObjectID = "Ts9-lw-Oco"; */
+"Ts9-lw-Oco.text" = "परिवहन आईडी:";
+
+/* Class = "UILabel"; text = "WELCOME!"; ObjectID = "U4X-c4-yzp"; */
+"U4X-c4-yzp.text" = "स्वागत हे!";
+
+/* Class = "UITextField"; placeholder = "ENTER OTP"; ObjectID = "U8p-iw-2xX"; */
+"U8p-iw-2xX.placeholder" = "OTP दर्ज करें";
+
+/* Class = "UITextField"; placeholder = "AADHAR NO"; ObjectID = "UJi-8K-6vM"; */
+"UJi-8K-6vM.placeholder" = "आधार संख्या";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "VIb-Fx-HOW"; */
+"VIb-Fx-HOW.normalTitle" = "ADD ITEM";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "VMF-lR-U8f"; */
+"VMF-lR-U8f.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = "Verify"; ObjectID = "VVv-79-h2f"; */
+"VVv-79-h2f.text" = "सत्यापित करें";
+
+/* Class = "UILabel"; text = "Profile Verified:"; ObjectID = "VXr-vt-hkh"; */
+"VXr-vt-hkh.text" = "प्रोफ़ाइल सत्यापित:";
+
+/* Class = "UITextField"; placeholder = "ENTER OTP"; ObjectID = "VfU-AD-jqj"; */
+"VfU-AD-jqj.placeholder" = "OTP दर्ज करें";
+
+/* Class = "UITextField"; placeholder = "SELECT SCHEME"; ObjectID = "VjI-Pg-LLd"; */
+"VjI-Pg-LLd.placeholder" = "चुनें स्कीम";
+
+/* Class = "UILabel"; text = "xxx"; ObjectID = "VpZ-Ac-ddh"; */
+"VpZ-Ac-ddh.text" = "xxx";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VzW-wn-ZkB"; */
+"VzW-wn-ZkB.text" = "लेबल";
+
+/* Class = "UILabel"; text = "ACCUMULATION SUMMARY"; ObjectID = "WCe-aN-25s"; */
+"WCe-aN-25s.text" = "गणना सारांश";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WHI-JO-wBC"; */
+"WHI-JO-wBC.text" = "लेबल";
+
+/* Class = "UILabel"; text = "REG DATE"; ObjectID = "Wl9-dD-h3c"; */
+"Wl9-dD-h3c.text" = "पंजीकरण की तारीख";
+
+/* Class = "UITextField"; placeholder = "SELECT ACCOUNT"; ObjectID = "Wro-mu-4TK"; */
+"Wro-mu-4TK.placeholder" = "खाता चुनें";
+
+/* Class = "UIButton"; normalTitle = " Unknown"; ObjectID = "X54-Ct-JIA"; */
+"X54-Ct-JIA.normalTitle" = " अनजान";
+
+/* Class = "UILabel"; text = "Profile Under Edit/Reactivation request for 48 hours,"; ObjectID = "XaU-uP-gtk"; */
+"XaU-uP-gtk.text" = "48 घंटे के लिए संपादन / पुनः सक्रियण अनुरोध के तहत प्रोफ़ाइल,";
+
+/* Class = "UILabel"; text = "Net Eligible Points Under STB Scheme After Redemption"; ObjectID = "XcV-Td-b8m"; */
+"XcV-Td-b8m.text" = "मोचन के बाद एसटीबी योजना के तहत नेट योग्य अंक";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "XnC-2n-uRi"; */
+"XnC-2n-uRi.title" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "Total Balance"; ObjectID = "XwY-aO-6CX"; */
+"XwY-aO-6CX.text" = "कुल शेष";
+
+/* Class = "UILabel"; text = "AADHAR IMAGE"; ObjectID = "Yct-cw-rt4"; */
+"Yct-cw-rt4.text" = "आधार छवि";
+
+/* Class = "UILabel"; text = "OTHER IMAGE"; ObjectID = "Z5w-gV-j4T"; */
+"Z5w-gV-j4T.text" = "अन्य छवि";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "ZHV-s6-JZw"; */
+"ZHV-s6-JZw.text" = "मोबाइल";
+
+/* Class = "UILabel"; text = "* All Notifications will expire in 30 days"; ObjectID = "ZWb-fF-OtE"; */
+"ZWb-fF-OtE.text" = "* सभी सूचनाएं 30 दिनों में समाप्त हो जाएंगी";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZvJ-uW-dUZ"; */
+"ZvJ-uW-dUZ.text" = "लेबल";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "a5l-Yt-zN9"; */
+"a5l-Yt-zN9.title" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "aA9-70-cOb"; */
+"aA9-70-cOb.text" = "0.00";
+
+/* Class = "UILabel"; text = "Note: Max Upload Document Size should not greater than 3 MB. Only image formats (jpg, tif, png, gif) are accepted"; ObjectID = "aIO-Lx-mOS"; */
+"aIO-Lx-mOS.text" = "नोट: अधिकतम अपलोड दस्तावेज़ का आकार 3 एमबी से अधिक नहीं होना चाहिए। केवल छवि प्रारूप (jpg, tif, png, gif) स्वीकार किए जाते हैं";
+
+/* Class = "UILabel"; text = "CHQ SHOULD BE IN THE NAME OF BUSINESS NAME IN CASE TYPE OF FIRM IS COMPANY/PARTINERSHIP ELSE SHOULD BE IN THE NAME OF OWNER NAME"; ObjectID = "aSw-ot-SXu"; */
+"aSw-ot-SXu.text" = "कंपनी के नाम में मामले के नाम पर व्यवसायी के नाम पर CHQ जूता होना चाहिए। कंपनी का मालिक / स्वामी नाम के नाम पर पार्टी का उम्मीदवार होना चाहिए";
+
+/* Class = "UITextField"; placeholder = "DEALER MOBILE"; ObjectID = "aVL-Y9-Aff"; */
+"aVL-Y9-Aff.placeholder" = "डीलर मोबाइल";
+
+/* Class = "UILabel"; text = "TRANSACTION HISTORY"; ObjectID = "aYH-Ws-PAo"; */
+"aYH-Ws-PAo.text" = "लेनदेन का इतिहास";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW BANK DETAILS"; ObjectID = "acL-hQ-iS3"; */
+"acL-hQ-iS3.normalTitle" = "नए बैंक डिटेल्स जोड़ें";
+
+/* Class = "UIButton"; normalTitle = " Refresh"; ObjectID = "axj-g3-ayM"; */
+"axj-g3-ayM.normalTitle" = " ताज़ा करना";
+
+/* Class = "UILabel"; text = "SHOULD BE 8 - 12 CHARACTERS."; ObjectID = "bBN-JV-6mu"; */
+"bBN-JV-6mu.text" = "8 से 12 साल पहले होना चाहिए.";
+
+/* Class = "UITextField"; placeholder = "GST NO"; ObjectID = "bRS-H0-VAs"; */
+"bRS-H0-VAs.placeholder" = "जीएसटी नंबर";
+
+/* Class = "UIButton"; normalTitle = "YEAR"; ObjectID = "bTe-5j-Fr4"; */
+"bTe-5j-Fr4.normalTitle" = "साल";
+
+/* Class = "UILabel"; text = "TRANSACTION ID:"; ObjectID = "bdU-Yl-UZw"; */
+"bdU-Yl-UZw.text" = "परिवहन आईडी:";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "bns-l9-XWW"; */
+"bns-l9-XWW.title" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "Current_Balance: 360.20"; ObjectID = "bry-M6-w43"; */
+"bry-M6-w43.text" = "वर्तमान शेष: 360.20";
+
+/* Class = "UILabel"; text = "PRODUCT NOT FOUND"; ObjectID = "c5b-JY-gdC"; */
+"c5b-JY-gdC.text" = "उत्पाद नहीं मिला";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "c6Y-Gb-Oxc"; */
+"c6Y-Gb-Oxc.text" = "•";
+
+/* Class = "UILabel"; text = "LastActionDate:"; ObjectID = "cCB-WX-Cg3"; */
+"cCB-WX-Cg3.text" = "LastActionDate:";
+
+/* Class = "UILabel"; text = "WELCOME TO SAMPARK PROGRAM"; ObjectID = "cQ2-i4-uMn"; */
+"cQ2-i4-uMn.text" = "RETAILER कार्यक्रम में आपका स्वागत है";
+
+/* Class = "UIButton"; normalTitle = "VIEW SUMMARY"; ObjectID = "cX2-7O-eJR"; */
+"cX2-7O-eJR.normalTitle" = "सारांश देखें";
+
+/* Class = "UIButton"; normalTitle = "Get OTP"; ObjectID = "ceE-cl-jx7"; */
+"ceE-cl-jx7.normalTitle" = "OTP प्राप्त करें";
+
+/* Class = "UILabel"; text = "MY OPTIONS"; ObjectID = "cfE-Bv-QQh"; */
+"cfE-Bv-QQh.text" = "More";
+
+/* Class = "UITextField"; placeholder = "MOBILE NO."; ObjectID = "dNy-T4-P1u"; */
+"dNy-T4-P1u.placeholder" = "मोबाइल नंबर.";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "dSj-sN-kfQ"; */
+"dSj-sN-kfQ.normalTitle" = "English";
+
+/* Class = "UITextField"; placeholder = "ENTER MOBILE NUMBER."; ObjectID = "de6-XE-rL1"; */
+"de6-XE-rL1.placeholder" = "मोबाइल नंबर दर्ज करें.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dz5-Za-PF8"; */
+"dz5-Za-PF8.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e3E-9l-rPN"; */
+"e3E-9l-rPN.text" = "लेबल";
+
+/* Class = "UILabel"; text = "111122"; ObjectID = "e9Y-qd-MC1"; */
+"e9Y-qd-MC1.text" = "111122";
+
+/* Class = "UILabel"; text = "BALANCE"; ObjectID = "eGK-MC-XVX"; */
+"eGK-MC-XVX.text" = "BAL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eQI-Fq-msl"; */
+"eQI-Fq-msl.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = " START DATE"; ObjectID = "ebv-w4-pCu"; */
+"ebv-w4-pCu.normalTitle" = " START DATE";
+
+/* Class = "UILabel"; text = "Add New Bank Details"; ObjectID = "ed7-Sw-CoH"; */
+"ed7-Sw-CoH.text" = "Add New Bank Details";
+
+/* Class = "UIButton"; normalTitle = "SEND SMS"; ObjectID = "edj-mH-BRr"; */
+"edj-mH-BRr.normalTitle" = "SEND SMS";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "eeZ-JG-b3y"; */
+"eeZ-JG-b3y.text" = ":";
+
+/* Class = "UILabel"; text = "POINTS"; ObjectID = "ehb-qD-z7y"; */
+"ehb-qD-z7y.text" = "POINTS";
+
+/* Class = "UILabel"; text = "Current_Balance: 360.20"; ObjectID = "elm-Gb-B9n"; */
+"elm-Gb-B9n.text" = "Current_Balance: 360.20";
+
+/* Class = "UILabel"; text = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS"; ObjectID = "eqn-R7-Hdo"; */
+"eqn-R7-Hdo.text" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+/* Class = "UIButton"; normalTitle = "BY DIVISION"; ObjectID = "ev1-7x-8kL"; */
+"ev1-7x-8kL.normalTitle" = "By Division / MG";
+
+/* Class = "UILabel"; text = "RETAILER ID"; ObjectID = "f9t-gY-QM3"; */
+"f9t-gY-QM3.text" = "RETAILER ID";
+
+/* Class = "UITextField"; placeholder = "SELECT FIRM TYPE*"; ObjectID = "fD9-v7-RAG"; */
+"fD9-v7-RAG.placeholder" = "SELECT FIRM TYPE*";
+
+/* Class = "UILabel"; text = "Selection Details"; ObjectID = "fMc-mF-ptp"; */
+"fMc-mF-ptp.text" = "Selection Details";
+
+/* Class = "UITextField"; placeholder = "SELECT GST TYPE"; ObjectID = "fN2-Ht-w9W"; */
+"fN2-Ht-w9W.placeholder" = "SELECT GST TYPE";
+
+/* Class = "UIButton"; normalTitle = "View More "; ObjectID = "fX9-DY-tCq"; */
+"fX9-DY-tCq.normalTitle" = " DETAILS ";
+
+/* Class = "UIButton"; normalTitle = " Known"; ObjectID = "fno-ZE-kuo"; */
+"fno-ZE-kuo.normalTitle" = " Known";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "fvA-rt-Xau"; */
+"fvA-rt-Xau.text" = "0.00";
+
+/* Class = "UILabel"; text = "VerifiedBy"; ObjectID = "fx2-0v-zlc"; */
+"fx2-0v-zlc.text" = "VerifiedBy";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "fzm-8e-fw2"; */
+"fzm-8e-fw2.normalTitle" = "Not Registered? Register here..";
+
+/* Class = "UILabel"; text = "BranchName"; ObjectID = "g3R-VM-emS"; */
+"g3R-VM-emS.text" = "BranchName";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gMq-Mn-SVE"; */
+"gMq-Mn-SVE.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "gTb-IM-Lk7"; */
+"gTb-IM-Lk7.normalTitle" = "जमा करें";
+
+/* Class = "UITextField"; placeholder = "LAST ACTION DATE"; ObjectID = "gWr-Ee-WPw"; */
+"gWr-Ee-WPw.placeholder" = "अंतिम कार्रवाई तिथि";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "gtb-ld-NBa"; */
+"gtb-ld-NBa.placeholder" = "पासवर्ड की पुष्टि कीजिये";
+
+/* Class = "UILabel"; text = "Please select the follwing option for order processing"; ObjectID = "gtw-J3-2yI"; */
+"gtw-J3-2yI.text" = "कृपया ऑर्डर प्रोसेसिंग के लिए फॉलोइंग विकल्प चुनें";
+
+/* Class = "UILabel"; text = "* All Notifications will expire in 30 days"; ObjectID = "h5P-Yh-FQn"; */
+"h5P-Yh-FQn.text" = "* सभी सूचनाएं 30 दिनों में समाप्त हो जाएंगी";
+
+/* Class = "UILabel"; text = "Accumulation Date:"; ObjectID = "hBr-Bd-XXS"; */
+"hBr-Bd-XXS.text" = "संचय दिनांक:";
+
+/* Class = "UILabel"; text = "PAN NO"; ObjectID = "hDK-SP-BFQ"; */
+"hDK-SP-BFQ.text" = "पैन नंबर";
+
+/* Class = "UITextField"; placeholder = "ENTER IFSC CODE SHOULD BE 11 CHARACTERS"; ObjectID = "hJu-Ff-4wz"; */
+"hJu-Ff-4wz.placeholder" = "IFSC कोड दर्ज करें 11 अक्षरों का होना चाहिए";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "hTP-Pz-mMw"; */
+"hTP-Pz-mMw.text" = "दिनांक";
+
+/* Class = "UILabel"; text = " "; ObjectID = "heH-xk-Ahz"; */
+"heH-xk-Ahz.text" = " ";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "iGs-QI-gHq"; */
+"iGs-QI-gHq.text" = "0.00";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "iQb-Cn-0Ij"; */
+"iQb-Cn-0Ij.text" = "0.0";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "iR1-5M-va3"; */
+"iR1-5M-va3.normalTitle" = "VIEW";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "iT0-ls-pXq"; */
+"iT0-ls-pXq.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "ieO-A8-XxW"; */
+"ieO-A8-XxW.text" = "ABOUT US";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ifQ-gT-9z5"; */
+"ifQ-gT-9z5.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = " VERIFY OTP"; ObjectID = "ihK-Ja-530"; */
+"ihK-Ja-530.normalTitle" = " RESEND OTP";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "j72-5d-qkl"; */
+"j72-5d-qkl.normalTitle" = "CANCEL";
+
+/* Class = "UITextField"; placeholder = "DEALER CODE / NAME"; ObjectID = "j8q-RS-7h7"; */
+"j8q-RS-7h7.placeholder" = "DEALER CODE / NAME";
+
+/* Class = "UITextField"; placeholder = "SELECT CATEGORY"; ObjectID = "jDm-6A-Vwi"; */
+"jDm-6A-Vwi.placeholder" = "SELECT CATEGORY";
+
+/* Class = "UITextField"; placeholder = "ADDRESS 1*"; ObjectID = "jbC-cj-Pvx"; */
+"jbC-cj-Pvx.placeholder" = "ADDRESS 1*";
+
+/* Class = "UITextField"; placeholder = "BANK ADDRESS"; ObjectID = "jbb-18-Idj"; */
+"jbb-18-Idj.placeholder" = "BANK ADDRESS";
+
+/* Class = "UIButton"; normalTitle = "UPLOAD"; ObjectID = "jio-l2-u8K"; */
+"jio-l2-u8K.normalTitle" = "UPLOAD";
+
+/* Class = "UILabel"; text = "TYPE"; ObjectID = "k6p-a8-ZeH"; */
+"k6p-a8-ZeH.text" = "TYPE";
+
+/* Class = "UITextField"; placeholder = "DISTRICT*"; ObjectID = "kfv-UA-3bB"; */
+"kfv-UA-3bB.placeholder" = "DISTRICT*";
+
+/* Class = "UILabel"; text = " "; ObjectID = "l0R-7h-y3B"; */
+"l0R-7h-y3B.text" = " ";
+
+/* Class = "UILabel"; text = "Schme"; ObjectID = "l8o-5A-05Y"; */
+"l8o-5A-05Y.text" = "Schme";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "lIg-Om-QFa"; */
+"lIg-Om-QFa.text" = "0.00";
+
+/* Class = "UITextField"; placeholder = "ENTER ELECTRICIAN MOBILE NO"; ObjectID = "lIx-E1-BTb"; */
+"lIx-E1-BTb.placeholder" = "ENTER ELECTRICIAN MOBILE NO";
+
+/* Class = "UIButton"; normalTitle = " END DATE"; ObjectID = "lP6-FJ-pCc"; */
+"lP6-FJ-pCc.normalTitle" = " END DATE";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "lSp-Jf-xGj"; */
+"lSp-Jf-xGj.text" = "Type";
+
+/* Class = "UILabel"; text = "IFSC Code:"; ObjectID = "lnz-D0-8uX"; */
+"lnz-D0-8uX.text" = "IFSC Code:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lpn-Wu-JCc"; */
+"lpn-Wu-JCc.text" = "लेबल";
+
+/* Class = "UILabel"; text = "ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z)."; ObjectID = "mUk-sf-nbg"; */
+"mUk-sf-nbg.text" = "ONE ALPHABET CHARACTER COMPULSORY (A-Z, a-z).";
+
+/* Class = "UILabel"; text = "BranchName"; ObjectID = "ma9-Pk-zdC"; */
+"ma9-Pk-zdC.text" = "BranchName";
+
+/* Class = "UILabel"; text = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS"; ObjectID = "mgQ-dZ-2lY"; */
+"mgQ-dZ-2lY.text" = "SCHEME WISE DETAILS AVAILABLE FROM 16th AUG 2018 ONWARDS";
+
+/* Class = "UILabel"; text = "Ans:-"; ObjectID = "muD-Qw-ZpD"; */
+"muD-Qw-ZpD.text" = "Ans:-";
+
+/* Class = "UISearchBar"; placeholder = "Material Code"; ObjectID = "nAC-3A-tPU"; */
+"nAC-3A-tPU.placeholder" = "SEARCH MATERIAL CODE";
+
+/* Class = "UILabel"; text = "PASSWORD POLICY"; ObjectID = "nOU-gc-svz"; */
+"nOU-gc-svz.text" = "PASSWORD POLICY";
+
+/* Class = "UILabel"; text = "AREA"; ObjectID = "nPe-xy-oab"; */
+"nPe-xy-oab.text" = "AREA";
+
+/* Class = "UILabel"; text = "•"; ObjectID = "nZm-hE-wg7"; */
+"nZm-hE-wg7.text" = "•";
+
+/* Class = "UILabel"; text = "TOTAL BALANCE"; ObjectID = "nfI-hY-sJd"; */
+"nfI-hY-sJd.text" = "TOTAL BAL";
+
+/* Class = "UITextField"; placeholder = "ENTER 10-25 DIGIT BANK ACCOUNT NO."; ObjectID = "no9-Or-tJz"; */
+"no9-Or-tJz.placeholder" = "ENTER 10-25 DIGIT BANK ACCOUNT NO.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nq0-32-J1N"; */
+"nq0-32-J1N.text" = "लेबल";
+
+/* Class = "UILabel"; text = "1. YOU CAN SELECT UPTO 31 DAYS HISTORY"; ObjectID = "o1u-2q-jjT"; */
+"o1u-2q-jjT.text" = "1. YOU CAN SELECT UPTO 6 MONTHS HISTORY";
+
+/* Class = "UITextField"; placeholder = "NAME AS PER BANK ACCOUNT"; ObjectID = "oAz-1g-6qA"; */
+"oAz-1g-6qA.placeholder" = "NAME AS PER BANK ACCOUNT";
+
+/* Class = "UITextField"; placeholder = "AREA*"; ObjectID = "oCC-Fq-AZl"; */
+"oCC-Fq-AZl.placeholder" = "AREA*";
+
+/* Class = "UITextField"; placeholder = "CITY*"; ObjectID = "oMe-tU-ydO"; */
+"oMe-tU-ydO.placeholder" = "CITY*";
+
+/* Class = "UILabel"; text = "AADHAR NO"; ObjectID = "oUA-0M-eD2"; */
+"oUA-0M-eD2.text" = "AADHAR NO";
+
+/* Class = "UILabel"; text = "For Any Help"; ObjectID = "oZ1-RY-MH5"; */
+"oZ1-RY-MH5.text" = "For Any Help";
+
+/* Class = "UIButton"; normalTitle = "VIEW MORE"; ObjectID = "oqX-u7-cZy"; */
+"oqX-u7-cZy.normalTitle" = "VIEW MORE";
+
+/* Class = "UILabel"; text = "TOTAL REDEMPTION"; ObjectID = "osf-Vc-kPj"; */
+"osf-Vc-kPj.text" = "TOTAL REDEMPTION";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "oyw-UY-iLq"; */
+"oyw-UY-iLq.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "Action"; ObjectID = "p3j-Io-MUd"; */
+"p3j-Io-MUd.text" = "Action";
+
+/* Class = "UILabel"; text = "Enter otp we have sent otp to your phone number"; ObjectID = "pGG-Nk-fqM"; */
+"pGG-Nk-fqM.text" = "Enter otp we have sent otp to your phone number";
+
+/* Class = "UILabel"; text = "TOTAL ACCUMULATION"; ObjectID = "pTR-cu-bom"; */
+"pTR-cu-bom.text" = "TOTAL ACCUMULATION";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "pUI-Wa-hvM"; */
+"pUI-Wa-hvM.placeholder" = "EMAIL";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "ppt-rq-3He"; */
+"ppt-rq-3He.text" = "BANK NAME";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q2I-GE-ynV"; */
+"q2I-GE-ynV.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "q6E-2m-K57"; */
+"q6E-2m-K57.normalTitle" = "VIEW";
+
+/* Class = "UITextField"; placeholder = "PAN NO"; ObjectID = "q7W-XN-CZn"; */
+"q7W-XN-CZn.placeholder" = "PAN NO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qXE-3E-1kr"; */
+"qXE-3E-1kr.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "qbQ-o9-iKr"; */
+"qbQ-o9-iKr.normalTitle" = "VIEW SUMMARY";
+
+/* Class = "UITextField"; placeholder = "PINCODE*"; ObjectID = "qdj-Q3-EVR"; */
+"qdj-Q3-EVR.placeholder" = "PINCODE*";
+
+/* Class = "UITextField"; placeholder = "FIRM NAME*"; ObjectID = "qqO-39-8sN"; */
+"qqO-39-8sN.placeholder" = "FIRM NAME*";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "r1U-NY-wjD"; */
+"r1U-NY-wjD.normalTitle" = "जमा करें";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "r9J-ho-1sk"; */
+"r9J-ho-1sk.text" = "--";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "rb6-fT-u9g"; */
+"rb6-fT-u9g.text" = "Point";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "rb9-d1-AR3"; */
+"rb9-d1-AR3.text" = ":";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rbC-yV-Bpi"; */
+"rbC-yV-Bpi.text" = "लेबल";
+
+/* Class = "UIButton"; normalTitle = "BY MATERIAL CODE"; ObjectID = "rwk-Fk-SWc"; */
+"rwk-Fk-SWc.normalTitle" = "By Material Code";
+
+/* Class = "UILabel"; text = "MOBILE NO"; ObjectID = "sF4-Hs-l7p"; */
+"sF4-Hs-l7p.text" = "MOBILE NO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sIn-1n-RFv"; */
+"sIn-1n-RFv.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sKj-Fn-rUZ"; */
+"sKj-Fn-rUZ.text" = "लेबल";
+
+/* Class = "UILabel"; text = "ADDRESS 1"; ObjectID = "stv-tW-6T6"; */
+"stv-tW-6T6.text" = "ADDRESS 1";
+
+/* Class = "UILabel"; text = "(Tu)"; ObjectID = "t5N-fJ-p2g"; */
+"t5N-fJ-p2g.text" = "(Tu)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tHJ-la-FoK"; */
+"tHJ-la-FoK.text" = "लेबल";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "tbz-jl-xvP"; */
+"tbz-jl-xvP.placeholder" = "Qty";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "txK-p2-oI4"; */
+"txK-p2-oI4.text" = "दिनांक";
+
+/* Class = "UILabel"; text = "USER SUB TYPE"; ObjectID = "uLd-Lv-3G1"; */
+"uLd-Lv-3G1.text" = "USER उप प्रकार";
+
+/* Class = "UILabel"; text = "WELCOME!"; ObjectID = "uRC-MX-eeT"; */
+"uRC-MX-eeT.text" = "स्वागत हे!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ujv-RP-PDb"; */
+"ujv-RP-PDb.text" = "लेबल";
+
+/* Class = "UILabel"; text = "GST TYPE"; ObjectID = "uq9-mU-pnt"; */
+"uq9-mU-pnt.text" = "जीएसटी प्रकार";
+
+/* Class = "UILabel"; text = "CurrentStatue:"; ObjectID = "uvP-01-4fN"; */
+"uvP-01-4fN.text" = "वर्तमान मूर्ति:";
+
+/* Class = "UITextField"; placeholder = "ENTER PASSWORD"; ObjectID = "uzC-HL-Oka"; */
+"uzC-HL-Oka.placeholder" = "पास वर्ड दर्ज करें";
+
+/* Class = "UILabel"; text = "PERFORMANCE OF THE MONTH"; ObjectID = "v4t-tu-9yK"; */
+"v4t-tu-9yK.text" = "महीने का प्रदर्शन";
+
+/* Class = "UILabel"; text = "For Any Help"; ObjectID = "v8w-mo-ktT"; */
+"v8w-mo-ktT.text" = "किसी भी मदद के लिए";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vCr-2w-pSI"; */
+"vCr-2w-pSI.text" = "लेबल";
+
+/* Class = "UILabel"; text = "180 2660 077"; ObjectID = "vFY-Dc-Lmq"; */
+"vFY-Dc-Lmq.text" = "180 2660 077";
+
+/* Class = "UILabel"; text = ": "; ObjectID = "vfn-Wc-2gG"; */
+"vfn-Wc-2gG.text" = ": ";
+
+/* Class = "UILabel"; text = "STB SCHEME RESULT"; ObjectID = "vvn-LB-Ena"; */
+"vvn-LB-Ena.text" = "STB योजना परिणाम";
+
+/* Class = "UILabel"; text = "Verified By:"; ObjectID = "w61-Rf-Ahx"; */
+"w61-Rf-Ahx.text" = "के द्वारा सत्यापित:";
+
+/* Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "wBh-Ei-UPH"; */
+"wBh-Ei-UPH.normalTitle" = "पासवर्ड को बचाओ";
+
+/* Class = "UITextField"; placeholder = "PARENT MOBILE NO."; ObjectID = "wP5-cf-N0R"; */
+"wP5-cf-N0R.placeholder" = "स्थायी मोबाइल नंबर.";
+
+/* Class = "UILabel"; text = "Bank Name"; ObjectID = "wpL-wf-WRf"; */
+"wpL-wf-WRf.text" = "बैंक का नाम";
+
+"H9T-VD-Xdy" = "STATUS";
+
+/* Class = "UILabel"; text = "ABOUT SAMPARK PROGRAM"; ObjectID = "wue-T9-OV6"; */
+"wue-T9-OV6.text" = "RETAILER कार्यक्रम के बारे में";
+
+/* Class = "UILabel"; text = "SCHEME"; ObjectID = "wug-vP-41B"; */
+"wug-vP-41B.text" = "योजना";
+
+/* Class = "UITextField"; placeholder = "OWNER MOBILE NUMBER*"; ObjectID = "xF9-lQ-xGc"; */
+"xF9-lQ-xGc.placeholder" = "ऑवर मोबाइल नंबर*";
+
+/* Class = "UILabel"; text = "PRODUCT"; ObjectID = "xXC-Ow-13k"; */
+"xXC-Ow-13k.text" = "उत्पाद";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "xaE-lc-3gn"; */
+"xaE-lc-3gn.text" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xfn-RV-Tvn"; */
+"xfn-RV-Tvn.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Created By:"; ObjectID = "xrV-LO-4mG"; */
+"xrV-LO-4mG.text" = "के द्वारा बनाई गई:";
+
+/* Class = "UISegmentedControl"; y78-21-dsV.segmentTitles[0] = "PENDING"; ObjectID = "y78-21-dsV"; */
+"y78-21-dsV.segmentTitles[0]" = "लंबित";
+
+/* Class = "UISegmentedControl"; y78-21-dsV.segmentTitles[1] = "COMPLETED"; ObjectID = "y78-21-dsV"; */
+"y78-21-dsV.segmentTitles[1]" = "पूरा कर लिया है";
+
+/* Class = "UIButton"; normalTitle = "FORGOT/RESET PASSWORD"; ObjectID = "yAi-M8-CvD"; */
+"yAi-M8-CvD.normalTitle" = "भूल जाओ / रीसेट पासवर्ड";
+
+/* Class = "UITextField"; placeholder = "SELECT SCHEME"; ObjectID = "yM0-bI-mXh"; */
+"yM0-bI-mXh.placeholder" = "भूल जाओ / रीसेट पासवर्ड";
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "yVE-27-SiX"; */
+"yVE-27-SiX.normalTitle" = "राय";
+
+/* Class = "UITextField"; placeholder = "BRANCH NAME*"; ObjectID = "zEA-Mo-ZDi"; */
+"zEA-Mo-ZDi.placeholder" = "शाखा का नाम*";
+
+/* Class = "UILabel"; text = "BusinessName"; ObjectID = "zQd-Aj-f5G"; */
+"zQd-Aj-f5G.text" = "व्यवास्यक नाम";
+
+/* Class = "UITextField"; placeholder = "RETAILER SAP CODE"; ObjectID = "zaj-6f-wow"; */
+"zaj-6f-wow.placeholder" = "खुदरा विक्रेता कोड";
+
+/* Class = "UILabel"; text = "SHOP IMAGE"; ObjectID = "ztm-YB-MAk"; */
+"ztm-YB-MAk.text" = "दुकान छवि";
